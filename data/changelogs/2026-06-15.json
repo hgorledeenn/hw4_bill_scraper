@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-15",
+  "additions": [
+    {
+      "bill_id": "SB 6",
+      "url": "https://www.palegis.us//legislation/bills/2025/sb6",
+      "action": "Last Action: Referred to Intergovernmental Affairs & Operations, Oct. 23, 2025 House"
+    },
+    {
+      "bill_id": "SB 9",
+      "url": "https://www.palegis.us//legislation/bills/2025/sb9",
+      "action": "Last Action: Re-referred to Judiciary, June 15, 2026 House"
+    },
+    {
+      "bill_id": "SB 10",
+      "url": "https://www.palegis.us//legislation/bills/2025/sb10",
+      "action": "Last Action: Laid on the table (Pursuant to Senate Rule 9), Nov. 12, 2025 Senate"
+    },
+    {
+      "bill_id": "SB 11",
+      "url": "https://www.palegis.us//legislation/bills/2025/sb11",
+      "action": "Last Action: Referred to State Government, Aug. 25, 2025 Senate"
+    },
+    {
+      "bill_id": "SB 13",
+      "url": "https://www.palegis.us//legislation/bills/2025/sb13",
+      "action": "Last Action: Referred to Labor & Industry, May 28, 2025 Senate"
+    }
+  ],
+  "deletions": [],
+  "modifications": []
+}
