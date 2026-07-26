@@ -1,0 +1,238 @@
+[
+  {
+    "content_hash": "b34daa8cb3b6dd58f07d8a5fe22dad12",
+    "bill_id": "S51",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S51",
+    "synopsis": "Establishes NJ Animal Abuser Registry.",
+    "committee": "Economic Growth",
+    "current_status": "SEG",
+    "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
+    "identical_bill": "A648",
+    "last_session_bill": "S436 A744",
+    "history": [
+      {
+        "ActionDate": "1/13/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+    "last_action_date": "1/13/2026",
+    "prime_sponsors": [
+      {
+        "Full_Name": "Holzapfel, James W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/334/senator-holzapfel"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [
+      {
+        "Description": "Introduced",
+        "DocumentComment": "",
+        "Number_Of_Pages": 23,
+        "HTML_Link": "/Bills/2026/S0500/51_I1.HTM",
+        "PDFLink": "/Bills/2026/S0500/51_I1.PDF"
+      }
+    ],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": 1,
+    "governor_action": null
+  },
+  {
+    "content_hash": "bddf5dd866fda5c511a5a6441ab10f68",
+    "bill_id": "S52",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S52",
+    "synopsis": "Increases criminal penalties if leaving loaded firearm within easy access of minor results in injury or death.",
+    "committee": "Law and Public Safety",
+    "current_status": "SLP",
+    "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
+    "identical_bill": null,
+    "last_session_bill": "S437",
+    "history": [
+      {
+        "ActionDate": "1/13/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+    "last_action_date": "1/13/2026",
+    "prime_sponsors": [
+      {
+        "Full_Name": "Holzapfel, James W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/334/senator-holzapfel"
+      },
+      {
+        "Full_Name": "Bucco, Anthony M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/419/senator-bucco"
+      }
+    ],
+    "cosponsors": [
+      {
+        "Full_Name": "Ruiz, M. Teresa",
+        "SponsorDescription": " as Co-Sponsor",
+        "BioLink": "/legislative-roster/287/senator-ruiz"
+      },
+      {
+        "Full_Name": "O'Scanlon, Declan J., Jr.",
+        "SponsorDescription": " as Co-Sponsor",
+        "BioLink": "/legislative-roster/394/senator-o'scanlon"
+      }
+    ],
+    "documents": [
+      {
+        "Description": "Introduced",
+        "DocumentComment": "",
+        "Number_Of_Pages": 3,
+        "HTML_Link": "/Bills/2026/S0500/52_I1.HTM",
+        "PDFLink": "/Bills/2026/S0500/52_I1.PDF"
+      }
+    ],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": 2,
+    "governor_action": null
+  },
+  {
+    "content_hash": "bddf5dd866fda5c511a5a6441ab10f68",
+    "bill_id": "S53",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S53",
+    "synopsis": "Extends to 90 days statute of limitations for unlawful use of cell phone while driving; increases penalties for texting while driving.",
+    "committee": "Law and Public Safety",
+    "current_status": "SLP",
+    "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
+    "identical_bill": null,
+    "last_session_bill": "S438",
+    "history": [
+      {
+        "ActionDate": "1/13/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+    "last_action_date": "1/13/2026",
+    "prime_sponsors": [
+      {
+        "Full_Name": "Holzapfel, James W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/334/senator-holzapfel"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [
+      {
+        "Description": "Introduced",
+        "DocumentComment": "",
+        "Number_Of_Pages": 5,
+        "HTML_Link": "/Bills/2026/S0500/53_I1.HTM",
+        "PDFLink": "/Bills/2026/S0500/53_I1.PDF"
+      }
+    ],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": 1,
+    "governor_action": null
+  },
+  {
+    "content_hash": "bddf5dd866fda5c511a5a6441ab10f68",
+    "bill_id": "S54",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S54",
+    "synopsis": "Enhances penalties imposed on drivers who have never been issued a driver's license.",
+    "committee": "Law and Public Safety",
+    "current_status": "SLP",
+    "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
+    "identical_bill": "A658",
+    "last_session_bill": "S439 A756",
+    "history": [
+      {
+        "ActionDate": "1/13/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+    "last_action_date": "1/13/2026",
+    "prime_sponsors": [
+      {
+        "Full_Name": "Holzapfel, James W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/334/senator-holzapfel"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [
+      {
+        "Description": "Introduced",
+        "DocumentComment": "",
+        "Number_Of_Pages": 8,
+        "HTML_Link": "/Bills/2026/S0500/54_I1.HTM",
+        "PDFLink": "/Bills/2026/S0500/54_I1.PDF"
+      }
+    ],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": 1,
+    "governor_action": null
+  },
+  {
+    "content_hash": "dfdd118182769fc6ab1830a6969ffbf4",
+    "bill_id": "S55",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S55",
+    "synopsis": "Prevents State school aid reduction in school districts that experienced decrease in equalized valuation and are located in certain counties.",
+    "committee": "Education",
+    "current_status": "SED",
+    "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
+    "identical_bill": "A712",
+    "last_session_bill": "S440 A818",
+    "history": [
+      {
+        "ActionDate": "1/13/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Education Committee",
+    "last_action_date": "1/13/2026",
+    "prime_sponsors": [
+      {
+        "Full_Name": "Holzapfel, James W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/334/senator-holzapfel"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [
+      {
+        "Description": "Introduced",
+        "DocumentComment": "",
+        "Number_Of_Pages": 3,
+        "HTML_Link": "/Bills/2026/S0500/55_I1.HTM",
+        "PDFLink": "/Bills/2026/S0500/55_I1.PDF"
+      }
+    ],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": 1,
+    "governor_action": null
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-26",
+  "additions": [
+    {
+      "bill_id": "S51",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S51",
+      "action": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+    },
+    {
+      "bill_id": "S52",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S52",
+      "action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+    },
+    {
+      "bill_id": "S53",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S53",
+      "action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+    },
+    {
+      "bill_id": "S54",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S54",
+      "action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+    },
+    {
+      "bill_id": "S55",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S55",
+      "action": "Introduced in the Senate, Referred to Senate Education Committee"
+    }
+  ],
+  "deletions": [],
+  "modifications": []
+}
