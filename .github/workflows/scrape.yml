@@ -1,0 +1,41 @@
+name: Daily NJ Senate Bill Scrape
+
+on:
+  schedule:
+    # 11:00 UTC daily (~6-7am US Eastern depending on DST)
+    - cron: '0 11 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper notebook
+        run: jupyter nbconvert --to notebook --execute --inplace NJ_Senate_Bill_Scraper.ipynb
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily NJ Senate bill scrape: $(date -u +%F)"
+            git push
+          fi
