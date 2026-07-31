@@ -1,0 +1,882 @@
+{
+  "date": "2026-07-31",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S170",
+      "changes": {
+        "content_hash": {
+          "from": "5e75da5f061a960e883c5929bb5610cd",
+          "to": "0fba878b16522c4a4aea0b972a01bf67"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "identical_bill": {
+          "from": "A5167  ",
+          "to": "A5167"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (27-13)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5167"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (66-13-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (27-13)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5167"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (66-13-0)"
+            },
+            {
+              "ActionDate": "7/30/2026",
+              "HistoryAction": "Approved P.L.2026, c.56."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (66-13-0)",
+          "to": "Approved P.L.2026, c.56."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "7/30/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S497",
+      "changes": {
+        "content_hash": {
+          "from": "ef5b8703e688ddd0da5f9066a686e6d4",
+          "to": "8034deac6f28947f53ef4ea77dfcef8f"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            },
+            {
+              "ActionDate": "3/2/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Passed by the Senate (37-0)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Transportation and Independent Authorities Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Substituted for A4620 (1R)"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+            },
+            {
+              "ActionDate": "7/23/2026",
+              "HistoryAction": "Approved P.L.2026, c.44."
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            },
+            {
+              "ActionDate": "3/2/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Passed by the Senate (37-0)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Transportation and Independent Authorities Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Substituted for A4620 (1R)"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+            },
+            {
+              "ActionDate": "7/22/2026",
+              "HistoryAction": "Approved P.L.2026, c.44."
+            }
+          ]
+        },
+        "last_action_date": {
+          "from": "7/23/2026",
+          "to": "7/22/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S743",
+      "changes": {
+        "content_hash": {
+          "from": "219db9edb1b9dde6362e817cc144a630",
+          "to": "24d305700ed0e1ed17951eef5e8fb4d5"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "identical_bill": {
+          "from": "A4554  ",
+          "to": "A4554"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Passed by the Senate (38-0)"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee"
+            },
+            {
+              "ActionDate": "6/23/2026",
+              "HistoryAction": "Transferred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/23/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4554"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-0-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Passed by the Senate (38-0)"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee"
+            },
+            {
+              "ActionDate": "6/23/2026",
+              "HistoryAction": "Transferred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/23/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4554"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-0-0)"
+            },
+            {
+              "ActionDate": "7/30/2026",
+              "HistoryAction": "Approved P.L.2026, c.57."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (78-0-0)",
+          "to": "Approved P.L.2026, c.57."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "7/30/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S3237",
+      "changes": {
+        "content_hash": {
+          "from": "400d33765e81cf57b3dcc475ee98f21c",
+          "to": "5167dc13b20e88d9af3dc152d53a4ab7"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "identical_bill": {
+          "from": "A4887  ",
+          "to": "A4887"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "2/2/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (36-0)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Consumer Affairs Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4887"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "2/2/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (36-0)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Consumer Affairs Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4887"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+            },
+            {
+              "ActionDate": "7/30/2026",
+              "HistoryAction": "Approved P.L.2026, c.58."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (79-0-0)",
+          "to": "Approved P.L.2026, c.58."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "7/30/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S3463",
+      "changes": {
+        "content_hash": {
+          "from": "3dfe802e30ddc3b3c82d2d732af46c25",
+          "to": "e1f398af46dfc6c60f149ff6129fedb8"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (36-0)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Health Infrastructure Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Assembly Floor Amendment Passed (Quijano)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4790 (1R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (79-0-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (40-0)"
+            },
+            {
+              "ActionDate": "7/23/2026",
+              "HistoryAction": "Approved P.L.2026, c.45."
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (36-0)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Health Infrastructure Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Assembly Floor Amendment Passed (Quijano)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4790 (1R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (79-0-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (40-0)"
+            },
+            {
+              "ActionDate": "7/22/2026",
+              "HistoryAction": "Approved P.L.2026, c.45."
+            }
+          ]
+        },
+        "last_action_date": {
+          "from": "7/23/2026",
+          "to": "7/22/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4404",
+      "changes": {
+        "content_hash": {
+          "from": "379cc416b8162ea9c4b49bdaca8c15ac",
+          "to": "11b89ecf2da5786f75c1888fce962a3f"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            },
+            {
+              "ActionDate": "6/22/2026",
+              "HistoryAction": "Transferred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5295 (1R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (75-4-0)"
+            },
+            {
+              "ActionDate": "7/23/2026",
+              "HistoryAction": "Approved P.L.2026, c.46."
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            },
+            {
+              "ActionDate": "6/22/2026",
+              "HistoryAction": "Transferred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5295 (1R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (75-4-0)"
+            },
+            {
+              "ActionDate": "7/22/2026",
+              "HistoryAction": "Approved P.L.2026, c.46."
+            }
+          ]
+        },
+        "last_action_date": {
+          "from": "7/23/2026",
+          "to": "7/22/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4407",
+      "changes": {
+        "content_hash": {
+          "from": "43ea9ab9d768459ff1e16810dfb3e04f",
+          "to": "40a838b76233067616b32fa27206f05e"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "identical_bill": {
+          "from": "A5222  ",
+          "to": "A5222"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5222"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5222"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+            },
+            {
+              "ActionDate": "7/30/2026",
+              "HistoryAction": "Approved P.L.2026, c.59."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (79-0-0)",
+          "to": "Approved P.L.2026, c.59."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "7/30/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S4423",
+      "changes": {
+        "content_hash": {
+          "from": "6b773879d382816e2b5d0093282326ec",
+          "to": "5d19e55f4a35b9945f0552d82d7c09cf"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "identical_bill": {
+          "from": "A5334  ",
+          "to": "A5334"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Transferred to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5334"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-0-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Transferred to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5334"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-0-0)"
+            },
+            {
+              "ActionDate": "7/30/2026",
+              "HistoryAction": "Approved P.L.2026, c.60."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (78-0-0)",
+          "to": "Approved P.L.2026, c.60."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "7/30/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S4424",
+      "changes": {
+        "content_hash": {
+          "from": "cc665991addcf19901c53a9455012be7",
+          "to": "782af62b48e4008c4be7fcf55aa9dcf1"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "identical_bill": {
+          "from": "A5333  ",
+          "to": "A5333"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Transferred to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5333"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Transferred to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5333"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+            },
+            {
+              "ActionDate": "7/30/2026",
+              "HistoryAction": "Approved P.L.2026, c.61."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (79-0-0)",
+          "to": "Approved P.L.2026, c.61."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "7/30/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    }
+  ]
+}

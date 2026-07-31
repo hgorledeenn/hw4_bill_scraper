@@ -6206,15 +6206,15 @@
     "governor_action": null
   },
   {
-    "content_hash": "5e75da5f061a960e883c5929bb5610cd",
+    "content_hash": "0fba878b16522c4a4aea0b972a01bf67",
     "bill_id": "S170",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S170",
     "synopsis": "Requires Commissioner of Education to recommend dates for spring break in school districts.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
-    "identical_bill": "A5167  ",
+    "identical_bill": "A5167",
     "last_session_bill": "S341 (1R)",
     "history": [
       {
@@ -6240,10 +6240,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (66-13-0)"
+      },
+      {
+        "ActionDate": "7/30/2026",
+        "HistoryAction": "Approved P.L.2026, c.56."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (66-13-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.56.",
+    "last_action_date": "7/30/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Diegnan, Patrick J., Jr.",
@@ -7241,7 +7245,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 3,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "7edcf84222ade9531aca2ac08182a53a",
@@ -30442,7 +30446,7 @@
     "governor_action": null
   },
   {
-    "content_hash": "ef5b8703e688ddd0da5f9066a686e6d4",
+    "content_hash": "8034deac6f28947f53ef4ea77dfcef8f",
     "bill_id": "S497",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S497",
@@ -30482,12 +30486,12 @@
         "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
       },
       {
-        "ActionDate": "7/23/2026",
+        "ActionDate": "7/22/2026",
         "HistoryAction": "Approved P.L.2026, c.44."
       }
     ],
     "last_action": "Approved P.L.2026, c.44.",
-    "last_action_date": "7/23/2026",
+    "last_action_date": "7/22/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Henry, Owen",
@@ -47711,15 +47715,15 @@
     "governor_action": null
   },
   {
-    "content_hash": "219db9edb1b9dde6362e817cc144a630",
+    "content_hash": "24d305700ed0e1ed17951eef5e8fb4d5",
     "bill_id": "S743",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S743",
     "synopsis": "Appropriates $111.6 million in dedicated natural resource damages revenues to DEP for habitat restoration, land acquisition, and restoration oversight projects.*",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
-    "identical_bill": "A4554  ",
+    "identical_bill": "A4554",
     "last_session_bill": "S4688",
     "history": [
       {
@@ -47753,10 +47757,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (78-0-0)"
+      },
+      {
+        "ActionDate": "7/30/2026",
+        "HistoryAction": "Approved P.L.2026, c.57."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (78-0-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.57.",
+    "last_action_date": "7/30/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Burzichelli, John J.",
@@ -48924,7 +48932,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 3,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "440592a7621256c186ccd128b28e6fe0",
@@ -223466,15 +223474,15 @@
     "governor_action": null
   },
   {
-    "content_hash": "400d33765e81cf57b3dcc475ee98f21c",
+    "content_hash": "5167dc13b20e88d9af3dc152d53a4ab7",
     "bill_id": "S3237",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3237",
     "synopsis": "Provides televisions in State buildings shall display closed captioning for programming.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
-    "identical_bill": "A4887  ",
+    "identical_bill": "A4887",
     "last_session_bill": "A3837 S1511",
     "history": [
       {
@@ -223504,10 +223512,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+      },
+      {
+        "ActionDate": "7/30/2026",
+        "HistoryAction": "Approved P.L.2026, c.58."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (79-0-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.58.",
+    "last_action_date": "7/30/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Turner, Shirley K.",
@@ -224601,7 +224613,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "0fbcd6218b37e9c4356c7132abe875c0",
@@ -244301,7 +244313,7 @@
     "governor_action": null
   },
   {
-    "content_hash": "3dfe802e30ddc3b3c82d2d732af46c25",
+    "content_hash": "e1f398af46dfc6c60f149ff6129fedb8",
     "bill_id": "S3463",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3463",
@@ -244353,12 +244365,12 @@
         "HistoryAction": "Passed Senate (Passed Both Houses) (40-0)"
       },
       {
-        "ActionDate": "7/23/2026",
+        "ActionDate": "7/22/2026",
         "HistoryAction": "Approved P.L.2026, c.45."
       }
     ],
     "last_action": "Approved P.L.2026, c.45.",
-    "last_action_date": "7/23/2026",
+    "last_action_date": "7/22/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Johnson, Gordon M.",
@@ -323230,7 +323242,7 @@
     "governor_action": null
   },
   {
-    "content_hash": "379cc416b8162ea9c4b49bdaca8c15ac",
+    "content_hash": "11b89ecf2da5786f75c1888fce962a3f",
     "bill_id": "S4404",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4404",
@@ -323270,12 +323282,12 @@
         "HistoryAction": "Passed Assembly (Passed Both Houses) (75-4-0)"
       },
       {
-        "ActionDate": "7/23/2026",
+        "ActionDate": "7/22/2026",
         "HistoryAction": "Approved P.L.2026, c.46."
       }
     ],
     "last_action": "Approved P.L.2026, c.46.",
-    "last_action_date": "7/23/2026",
+    "last_action_date": "7/22/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Gopal, Vin",
@@ -325672,15 +325684,15 @@
     "governor_action": "APP"
   },
   {
-    "content_hash": "43ea9ab9d768459ff1e16810dfb3e04f",
+    "content_hash": "40a838b76233067616b32fa27206f05e",
     "bill_id": "S4407",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4407",
     "synopsis": "Extends certain provisions relating to involuntary commitment.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
-    "identical_bill": "A5222  ",
+    "identical_bill": "A5222",
     "last_session_bill": null,
     "history": [
       {
@@ -325706,10 +325718,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+      },
+      {
+        "ActionDate": "7/30/2026",
+        "HistoryAction": "Approved P.L.2026, c.59."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (79-0-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.59.",
+    "last_action_date": "7/30/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Vitale, Joseph F.",
@@ -326733,7 +326749,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 4,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "6f3a0378b976df40b7d7a3cafac66377",
@@ -331058,15 +331074,15 @@
     "governor_action": null
   },
   {
-    "content_hash": "6b773879d382816e2b5d0093282326ec",
+    "content_hash": "5d19e55f4a35b9945f0552d82d7c09cf",
     "bill_id": "S4423",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4423",
     "synopsis": "Appropriates $77,406,208 from constitutionally dedicated CBT revenues and various Green Acres funds to DEP for local government open space acquisition and park development projects, and for certain administrative expenses.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
-    "identical_bill": "A5334  ",
+    "identical_bill": "A5334",
     "last_session_bill": null,
     "history": [
       {
@@ -331100,10 +331116,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (78-0-0)"
+      },
+      {
+        "ActionDate": "7/30/2026",
+        "HistoryAction": "Approved P.L.2026, c.60."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (78-0-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.60.",
+    "last_action_date": "7/30/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKeon, John F.",
@@ -332354,18 +332374,18 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
-    "content_hash": "cc665991addcf19901c53a9455012be7",
+    "content_hash": "782af62b48e4008c4be7fcf55aa9dcf1",
     "bill_id": "S4424",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4424",
     "synopsis": "Appropriates $15,546,575 to DEP from constitutionally dedicated CBT revenues for grants to certain nonprofit entities to acquire or develop lands for recreation and conservation purposes, and for certain administrative expenses.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
-    "identical_bill": "A5333  ",
+    "identical_bill": "A5333",
     "last_session_bill": null,
     "history": [
       {
@@ -332399,10 +332419,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+      },
+      {
+        "ActionDate": "7/30/2026",
+        "HistoryAction": "Approved P.L.2026, c.61."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (79-0-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.61.",
+    "last_action_date": "7/30/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Smith, Bob",
@@ -333588,7 +333612,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "eebc09065111422fba01c93debb4e9cd",
