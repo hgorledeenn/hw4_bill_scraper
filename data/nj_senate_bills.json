@@ -293618,13 +293618,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "369c3c867bedbe756ba43ce90dbef407",
+    "content_hash": "f8c9e06d56e1c367e393606b6af990d6",
     "bill_id": "S4113",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4113",
     "synopsis": "Enters NJ into Athletic Trainer Compact.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A4821",
     "last_session_bill": null,
@@ -293660,10 +293660,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (78-0-0)"
+      },
+      {
+        "ActionDate": "8/6/2026",
+        "HistoryAction": "Approved P.L.2026, c.66."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (78-0-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.66.",
+    "last_action_date": "8/6/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Diegnan, Patrick J., Jr.",
@@ -298017,13 +298021,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "a1fd22c12baa10e2b9bcdd383946ccae",
+    "content_hash": "29f65585f0e0aa96b3153f2a3975dd62",
     "bill_id": "S4162",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4162",
     "synopsis": "\"Affordable Power Purchase Agreements Extension Act\"; concerns extension of certain public entity contracts related to energy conservation and renewable energy production.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A4959 (1R)",
     "last_session_bill": null,
@@ -298063,10 +298067,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Senate (Passed Both Houses) (36-4)"
+      },
+      {
+        "ActionDate": "8/6/2026",
+        "HistoryAction": "Approved P.L.2026, c.67."
       }
     ],
-    "last_action": "Passed Senate (Passed Both Houses) (36-4)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.67.",
+    "last_action_date": "8/6/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKeon, John F.",
