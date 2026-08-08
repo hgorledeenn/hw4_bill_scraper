@@ -101313,13 +101313,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "80459bf412f18bf2c9db70ce63ba2959",
+    "content_hash": "b275529f807a46a8e952839c68b7c2af",
     "bill_id": "S1493",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S1493",
     "synopsis": "Updates requirements for licensure in occupational therapy.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A3381 (2R)",
     "last_session_bill": "S3931 (1R) A4903",
@@ -101371,10 +101371,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Senate (Passed Both Houses) (33-5)"
+      },
+      {
+        "ActionDate": "8/6/2026",
+        "HistoryAction": "Approved P.L.2026, c.65."
       }
     ],
-    "last_action": "Passed Senate (Passed Both Houses) (33-5)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.65.",
+    "last_action_date": "8/6/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cryan, Joseph P.",
@@ -102984,7 +102988,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 3,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "bddf5dd866fda5c511a5a6441ab10f68",

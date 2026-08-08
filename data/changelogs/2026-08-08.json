@@ -1,0 +1,142 @@
+{
+  "date": "2026-08-08",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S1493",
+      "changes": {
+        "content_hash": {
+          "from": "80459bf412f18bf2c9db70ce63ba2959",
+          "to": "b275529f807a46a8e952839c68b7c2af"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Passed by the Senate (35-5)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Transferred to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A3381 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (71-5-2)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (33-5)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Passed by the Senate (35-5)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Transferred to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A3381 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (71-5-2)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (33-5)"
+            },
+            {
+              "ActionDate": "8/6/2026",
+              "HistoryAction": "Approved P.L.2026, c.65."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Senate (Passed Both Houses) (33-5)",
+          "to": "Approved P.L.2026, c.65."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "8/6/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    }
+  ]
+}
