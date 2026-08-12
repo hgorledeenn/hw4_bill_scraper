@@ -238691,13 +238691,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "d7438c28381df8996e835996796c41f2",
+    "content_hash": "a837f7bd3f74f8d3365401db7bb05d54",
     "bill_id": "S3412",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3412",
     "synopsis": "Requires Social Media Research Center to research and make recommendations concerning addictive social media behaviors.*",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A4013 (ACS/1R)",
     "last_session_bill": null,
@@ -238737,10 +238737,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Senate (Passed Both Houses) (31-9)"
+      },
+      {
+        "ActionDate": "8/11/2026",
+        "HistoryAction": "Approved P.L.2026, c.71."
       }
     ],
-    "last_action": "Passed Senate (Passed Both Houses) (31-9)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.71.",
+    "last_action_date": "8/11/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Mukherji, Raj",
@@ -240138,7 +240142,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "543fa47ee9e4824c5d7d252f4b6152b8",

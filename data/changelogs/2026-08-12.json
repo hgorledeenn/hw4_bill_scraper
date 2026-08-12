@@ -1,0 +1,118 @@
+{
+  "date": "2026-08-12",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S3412",
+      "changes": {
+        "content_hash": {
+          "from": "d7438c28381df8996e835996796c41f2",
+          "to": "a837f7bd3f74f8d3365401db7bb05d54"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "2/9/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee as a Substitute, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (30-10)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Assembly Floor Amendment Passed (Voice) (Katz)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4013 (ACS/1R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (68-9-2)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (31-9)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "2/9/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee as a Substitute, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (30-10)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Assembly Floor Amendment Passed (Voice) (Katz)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4013 (ACS/1R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (68-9-2)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (31-9)"
+            },
+            {
+              "ActionDate": "8/11/2026",
+              "HistoryAction": "Approved P.L.2026, c.71."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Senate (Passed Both Houses) (31-9)",
+          "to": "Approved P.L.2026, c.71."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "8/11/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    }
+  ]
+}
