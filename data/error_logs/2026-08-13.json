@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-13",
+  "errors": [
+    {
+      "bill_id": "S516",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S516",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S516/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S516/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S1415",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S1415",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S1415/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S1415/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S1447",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S1447",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S1447/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S1447/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S2138",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2138",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2138/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2138/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S2139",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2139",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2139/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2139/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S2140",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2140",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2140/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2140/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S2141",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2141",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2141/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2141/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S2142",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2142",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2142/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2142/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S2643",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S2643",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2643/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S2643/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S3062",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3062",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S3062/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S3062/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S3063",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3063",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S3063/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S3063/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S3928",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3928",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S3928/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S3928/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S3929",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3929",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S3929/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S3929/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "bill_id": "S3930",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S3930",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S3930/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.njleg.state.nj.us', port=443): Max retries exceeded with url: /api/billDetail/billHistory/S3930/2026 (Caused by NameResolutionError(\"HTTPSConnection(host='www.njleg.state.nj.us', port=443): Failed to resolve 'www.njleg.state.nj.us' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    }
+  ]
+}
