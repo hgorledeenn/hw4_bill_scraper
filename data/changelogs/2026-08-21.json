@@ -1,0 +1,158 @@
+{
+  "date": "2026-08-21",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S2260",
+      "changes": {
+        "content_hash": {
+          "from": "01956fdb89fe95e02adabd5077df607b",
+          "to": "d901c0e7229659453d0c1c5c6a95927c"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee as a Substitute, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/21/2026",
+              "HistoryAction": "Referred to Senate Judiciary Committee"
+            },
+            {
+              "ActionDate": "5/21/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (23-12)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Assembly Floor Amendment Passed (Voice) (Speight)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A2218 (ACS/2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Motion To As (Kanitra)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Motion To Table (45-22-0) (Greenwald)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (55-23-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (25-15)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee as a Substitute, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/21/2026",
+              "HistoryAction": "Referred to Senate Judiciary Committee"
+            },
+            {
+              "ActionDate": "5/21/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (23-12)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Assembly Floor Amendment Passed (Voice) (Speight)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A2218 (ACS/2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Motion To As (Kanitra)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Motion To Table (45-22-0) (Greenwald)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (55-23-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (25-15)"
+            },
+            {
+              "ActionDate": "8/20/2026",
+              "HistoryAction": "Approved P.L.2026, c.74."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Senate (Passed Both Houses) (25-15)",
+          "to": "Approved P.L.2026, c.74."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "8/20/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    }
+  ]
+}

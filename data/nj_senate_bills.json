@@ -150314,13 +150314,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "01956fdb89fe95e02adabd5077df607b",
+    "content_hash": "d901c0e7229659453d0c1c5c6a95927c",
     "bill_id": "S2260",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S2260",
     "synopsis": "Secures protections for patients and providers accessing and providing reproductive health care services; establishes right of residents to reproductive health care activity that is restricted in other states.*",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A2218 (ACS/2R)",
     "last_session_bill": "S3491 A4656",
@@ -150380,10 +150380,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Senate (Passed Both Houses) (25-15)"
+      },
+      {
+        "ActionDate": "8/20/2026",
+        "HistoryAction": "Approved P.L.2026, c.74."
       }
     ],
-    "last_action": "Passed Senate (Passed Both Houses) (25-15)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.74.",
+    "last_action_date": "8/20/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Ruiz, M. Teresa",
@@ -152889,7 +152893,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 6,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "a8f59bd086824fb1afae0f57b96614df",
