@@ -82798,13 +82798,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "9e2de204e5a5358c5d194a3e34f3fde3",
+    "content_hash": "05985eff275a80e7fa6aa1560ef8c003",
     "bill_id": "S1281",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S1281",
     "synopsis": "Prohibits sale, manufacture, and distribution of certain apparel and diaper products containing intentionally added perfluoroalkyl and polyfluoroalkyl substances.*",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A5048 (2R)",
     "last_session_bill": "S4798 (1R) A5260",
@@ -82852,10 +82852,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Senate (Passed Both Houses) (39-0)"
+      },
+      {
+        "ActionDate": "8/27/2026",
+        "HistoryAction": "Approved P.L.2026, c.76."
       }
     ],
-    "last_action": "Passed Senate (Passed Both Houses) (39-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.76.",
+    "last_action_date": "8/27/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Greenstein, Linda R.",
@@ -84438,7 +84442,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "0c2de6333c8d962dbe8fd15f78f9b3ca",
@@ -233816,13 +233820,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "4598cf3ea1e3f0b6eadaa9e31b92be2e",
+    "content_hash": "1ea6255598516580ab09c4b8c93bb60b",
     "bill_id": "S3379",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3379",
     "synopsis": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A4096 (1R)",
     "last_session_bill": "S4827",
@@ -233866,10 +233870,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Senate (Passed Both Houses) (39-0)"
+      },
+      {
+        "ActionDate": "8/27/2026",
+        "HistoryAction": "Approved P.L.2026, c.75."
       }
     ],
-    "last_action": "Passed Senate (Passed Both Houses) (39-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.75.",
+    "last_action_date": "8/27/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Ruiz, M. Teresa",
@@ -235375,7 +235383,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "73e03ee3976e9ea60a9f64f81f7e35a4",
@@ -321387,13 +321395,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "23682966a93bfb11baaa01865a6d0939",
+    "content_hash": "f4eb5152bb37190290e519d29f108c9f",
     "bill_id": "S4390",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4390",
     "synopsis": "\"End Data Center Tax Credits Act\"; reduces tax credits available for Next New Jersey Program.*",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A5165 (1R)",
     "last_session_bill": null,
@@ -321425,10 +321433,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (74-4-0)"
+      },
+      {
+        "ActionDate": "8/27/2026",
+        "HistoryAction": "Approved P.L.2026, c.77."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (74-4-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.77.",
+    "last_action_date": "8/27/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cryan, Joseph P.",
@@ -322545,7 +322557,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 6,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "f0dc8f59ccde69c74091c9fad0d7c50d",
