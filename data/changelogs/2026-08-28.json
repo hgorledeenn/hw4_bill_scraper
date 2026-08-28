@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-28",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S4384",
+      "changes": {
+        "content_hash": {
+          "from": "e3258e0136d09345cd5b8c74d3b3459e",
+          "to": "6ebec4ac95ef74edd846d0e31861f034"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5225 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-1-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5225 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-1-0)"
+            },
+            {
+              "ActionDate": "8/28/2026",
+              "HistoryAction": "Approved P.L.2026, c.81."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (78-1-0)",
+          "to": "Approved P.L.2026, c.81."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "8/28/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    }
+  ]
+}

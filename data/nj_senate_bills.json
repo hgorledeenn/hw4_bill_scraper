@@ -319953,13 +319953,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "e3258e0136d09345cd5b8c74d3b3459e",
+    "content_hash": "6ebec4ac95ef74edd846d0e31861f034",
     "bill_id": "S4384",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4384",
     "synopsis": "Makes permanent temporary enactment allowing certain sale and delivery of alcoholic beverages and clarifies privileges.*",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A5225 (2R)",
     "last_session_bill": null,
@@ -319995,10 +319995,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (78-1-0)"
+      },
+      {
+        "ActionDate": "8/28/2026",
+        "HistoryAction": "Approved P.L.2026, c.81."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (78-1-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.81.",
+    "last_action_date": "8/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Gopal, Vin",
@@ -321145,7 +321149,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 4,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "acb2cbeb4f3acea022f5b35d0564e67e",
