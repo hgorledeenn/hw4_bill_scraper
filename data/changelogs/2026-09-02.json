@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-02",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S2368",
+      "changes": {
+        "content_hash": {
+          "from": "fd4d3ebfdab38392aec34753e20126c9",
+          "to": "88b9d978a14f4c0b705e3ad22fbcddda"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "3/16/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Passed by the Senate (38-0)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Telecommunications and Utilities Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported and Referred to Assembly Public Safety and Preparedness Committee"
+            },
+            {
+              "ActionDate": "6/23/2026",
+              "HistoryAction": "Transferred to Assembly State and Local Government Committee"
+            },
+            {
+              "ActionDate": "6/23/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Recommitted to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4836 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (79-0-1)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (40-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "3/16/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Passed by the Senate (38-0)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Telecommunications and Utilities Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported and Referred to Assembly Public Safety and Preparedness Committee"
+            },
+            {
+              "ActionDate": "6/23/2026",
+              "HistoryAction": "Transferred to Assembly State and Local Government Committee"
+            },
+            {
+              "ActionDate": "6/23/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Recommitted to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4836 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (79-0-1)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (40-0)"
+            },
+            {
+              "ActionDate": "9/1/2026",
+              "HistoryAction": "Approved P.L.2026, c.82."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Senate (Passed Both Houses) (40-0)",
+          "to": "Approved P.L.2026, c.82."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/1/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    }
+  ]
+}

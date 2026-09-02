@@ -159827,13 +159827,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "fd4d3ebfdab38392aec34753e20126c9",
+    "content_hash": "88b9d978a14f4c0b705e3ad22fbcddda",
     "bill_id": "S2368",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S2368",
     "synopsis": "\"Garden State Balcony Solar Act\"; exempts portable solar generation devices from certain requirements, and requires certain entities to allow use and installation of portable solar generation devices.**",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A4836 (2R)",
     "last_session_bill": "S4982",
@@ -159889,10 +159889,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Senate (Passed Both Houses) (40-0)"
+      },
+      {
+        "ActionDate": "9/1/2026",
+        "HistoryAction": "Approved P.L.2026, c.82."
       }
     ],
-    "last_action": "Passed Senate (Passed Both Houses) (40-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.82.",
+    "last_action_date": "9/1/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKeon, John F.",
@@ -161606,7 +161610,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "ac227f136358238627d07354283e209e",
