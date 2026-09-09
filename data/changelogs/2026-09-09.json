@@ -1,0 +1,245 @@
+{
+  "date": "2026-09-09",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S3183",
+      "changes": {
+        "content_hash": {
+          "from": "45c2ef24937a9cb77915eab3ba165e6c",
+          "to": "11f90c75fb03eeba4810a079b7e648ce"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "3/16/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Passed by the Senate (33-7)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Transferred to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A3974 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (60-17-2)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (32-7)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "3/16/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Passed by the Senate (33-7)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Transferred to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A3974 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (60-17-2)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (32-7)"
+            },
+            {
+              "ActionDate": "9/9/2026",
+              "HistoryAction": "Approved P.L.2026, c.84."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Senate (Passed Both Houses) (32-7)",
+          "to": "Approved P.L.2026, c.84."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/9/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S3939",
+      "changes": {
+        "content_hash": {
+          "from": "bce9d00367023302e2e11f518aa7eeff",
+          "to": "80cf1315b854e2b91965e133f6280f35"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "3/12/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/26/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A2524 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-1-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "3/12/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/26/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A2524 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-1-0)"
+            },
+            {
+              "ActionDate": "9/9/2026",
+              "HistoryAction": "Approved P.L.2026 c.85. "
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (78-1-0)",
+          "to": "Approved P.L.2026 c.85. "
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/9/2026"
+        }
+      }
+    }
+  ]
+}

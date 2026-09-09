@@ -217575,13 +217575,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "45c2ef24937a9cb77915eab3ba165e6c",
+    "content_hash": "11f90c75fb03eeba4810a079b7e648ce",
     "bill_id": "S3183",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3183",
     "synopsis": "Modifies various provisions of State's renewable energy incentive programs; requires electric public utilities to consider interconnection applications for certain solar projects.*",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A3974 (2R)",
     "last_session_bill": "S4944 (1R)",
@@ -217637,10 +217637,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Senate (Passed Both Houses) (32-7)"
+      },
+      {
+        "ActionDate": "9/9/2026",
+        "HistoryAction": "Approved P.L.2026, c.84."
       }
     ],
-    "last_action": "Passed Senate (Passed Both Houses) (32-7)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.84.",
+    "last_action_date": "9/9/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Scutari, Nicholas P.",
@@ -278774,13 +278778,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "bce9d00367023302e2e11f518aa7eeff",
+    "content_hash": "80cf1315b854e2b91965e133f6280f35",
     "bill_id": "S3939",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3939",
     "synopsis": "Permits dual-use solar energy projects to participate in community solar program.*",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A2524 (2R)",
     "last_session_bill": "S5016 A6169",
@@ -278816,10 +278820,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (78-1-0)"
+      },
+      {
+        "ActionDate": "9/9/2026",
+        "HistoryAction": "Approved P.L.2026 c.85. "
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (78-1-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026 c.85. ",
+    "last_action_date": "9/9/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Zwicker, Andrew",
