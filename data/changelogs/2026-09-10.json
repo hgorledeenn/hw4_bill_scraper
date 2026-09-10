@@ -1,0 +1,102 @@
+{
+  "date": "2026-09-10",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S3939",
+      "changes": {
+        "content_hash": {
+          "from": "80cf1315b854e2b91965e133f6280f35",
+          "to": "c6ca47453c3c07520155a095dd4b7109"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "3/12/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/26/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A2524 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-1-0)"
+            },
+            {
+              "ActionDate": "9/9/2026",
+              "HistoryAction": "Approved P.L.2026 c.85. "
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "3/12/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/26/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A2524 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-1-0)"
+            },
+            {
+              "ActionDate": "9/9/2026",
+              "HistoryAction": "Approved P.L.2026, c.85."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Approved P.L.2026 c.85. ",
+          "to": "Approved P.L.2026, c.85."
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    }
+  ]
+}

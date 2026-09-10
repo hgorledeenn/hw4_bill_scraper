@@ -278778,7 +278778,7 @@
     "governor_action": null
   },
   {
-    "content_hash": "80cf1315b854e2b91965e133f6280f35",
+    "content_hash": "c6ca47453c3c07520155a095dd4b7109",
     "bill_id": "S3939",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3939",
@@ -278823,10 +278823,10 @@
       },
       {
         "ActionDate": "9/9/2026",
-        "HistoryAction": "Approved P.L.2026 c.85. "
+        "HistoryAction": "Approved P.L.2026, c.85."
       }
     ],
-    "last_action": "Approved P.L.2026 c.85. ",
+    "last_action": "Approved P.L.2026, c.85.",
     "last_action_date": "9/9/2026",
     "prime_sponsors": [
       {
@@ -280004,7 +280004,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "7d80a53acf9d9344b039700f38787285",
