@@ -149052,15 +149052,15 @@
     "governor_action": null
   },
   {
-    "content_hash": "55e96e44cd5f2707b4f82c5cce36bf66",
+    "content_hash": "192b41f0dc2d8c438c97660fe0694417",
     "bill_id": "S2243",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S2243",
-    "synopsis": "Requires each public institution of higher education to develop menstrual equity plan.*",
-    "committee": "Aging and Human Services",
-    "current_status": "AHU",
+    "synopsis": "Requires each public institution of higher education to develop menstrual plan.*",
+    "committee": "2nd Reading in the Assembly",
+    "current_status": "2RA",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
-    "identical_bill": "A4723  ",
+    "identical_bill": "A4723",
     "last_session_bill": "S2611 (SCS) A3567",
     "history": [
       {
@@ -149078,10 +149078,14 @@
       {
         "ActionDate": "2/24/2026",
         "HistoryAction": "Received in the Assembly, Referred to Assembly Aging and Human Services Committee"
+      },
+      {
+        "ActionDate": "9/14/2026",
+        "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
       }
     ],
-    "last_action": "Received in the Assembly, Referred to Assembly Aging and Human Services Committee",
-    "last_action_date": "2/24/2026",
+    "last_action": "Reported out of Assembly Comm. with Amendments, 2nd Reading",
+    "last_action_date": "9/14/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Ruiz, M. Teresa",
@@ -149137,6 +149141,19 @@
         "Agenda_Date_for_Votes": "2026-02-12T11:30:00.000Z",
         "Agenda_Type": "M",
         "Agenda_Sequence": 0
+      },
+      {
+        "House": "AHU",
+        "Agenda_Date": "9/14/2026",
+        "Action": "r/Aca",
+        "Votes_Yes": 6,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-09-14T13:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
       }
     ],
     "floor_votes": [
@@ -149166,11 +149183,38 @@
         "AgendaSequence": 0
       },
       {
+        "FullName": "Speight, Shanique",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "AHU",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Tucker, Cleopatra G.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "AHU",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
         "FullName": "Amato, Carmen F.",
         "Vote": "Yes",
         "Position": "",
         "AgendaDate": "2026-02-12T11:30:00.000Z",
         "CommitteeHouse": "SHI",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Azzariti Jr., John V.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "AHU",
         "AgendaType": "M",
         "AgendaSequence": 0
       },
@@ -149184,6 +149228,15 @@
         "AgendaSequence": 0
       },
       {
+        "FullName": "Fantasia, Dawn",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "AHU",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
         "FullName": "Moriarty, Paul D.",
         "Vote": "Yes",
         "Position": "",
@@ -149193,11 +149246,29 @@
         "AgendaSequence": 0
       },
       {
+        "FullName": "Peterpaul, Luanne M.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "AHU",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
         "FullName": "Singer, Robert W.",
         "Vote": "Yes",
         "Position": "",
         "AgendaDate": "2026-02-12T11:30:00.000Z",
         "CommitteeHouse": "SHI",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Wainstein, Larry",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "AHU",
         "AgendaType": "M",
         "AgendaSequence": 0
       }
@@ -310810,15 +310881,15 @@
     "governor_action": null
   },
   {
-    "content_hash": "2aa2d54daf42fdf16337c58fccb5d25c",
+    "content_hash": "a2d2ae24e78feb4be96e7f83d9327748",
     "bill_id": "S4265",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4265",
     "synopsis": "Prohibits purposeful obstruction of license plate and possession or transfer of merchandise that obstructs license plate.",
-    "committee": "Transportation and Independent Authorities",
-    "current_status": "ATR",
+    "committee": "Appropriations",
+    "current_status": "AAP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
-    "identical_bill": "A5240",
+    "identical_bill": "A5240 (1R)",
     "last_session_bill": null,
     "history": [
       {
@@ -310844,10 +310915,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Received in the Assembly, Referred to Assembly Transportation and Independent Authorities Committee"
+      },
+      {
+        "ActionDate": "9/14/2026",
+        "HistoryAction": "Reported and Referred to Assembly Appropriations Committee"
       }
     ],
-    "last_action": "Received in the Assembly, Referred to Assembly Transportation and Independent Authorities Committee",
-    "last_action_date": "6/30/2026",
+    "last_action": "Reported and Referred to Assembly Appropriations Committee",
+    "last_action_date": "9/14/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Diegnan, Patrick J., Jr.",
@@ -310909,6 +310984,13 @@
         "Number_Of_Pages": 12,
         "HTML_Link": "/Bills/2026/S4500/4265_R1.HTM",
         "PDFLink": "/Bills/2026/S4500/4265_R1.PDF"
+      },
+      {
+        "Description": "Statement",
+        "DocumentComment": "ATR 9/14/26 1R",
+        "Number_Of_Pages": 1,
+        "HTML_Link": "/Bills/2026/S4500/4265_S3.HTM",
+        "PDFLink": "/Bills/2026/S4500/4265_S3.PDF"
       }
     ],
     "committee_votes": [
@@ -310935,6 +311017,19 @@
         "Abstains": 0,
         "Vote_Type": "Roll Call",
         "Agenda_Date_for_Votes": "2026-06-24T13:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      },
+      {
+        "House": "ATR",
+        "Agenda_Date": "9/14/2026",
+        "Action": "r/favorably",
+        "Votes_Yes": 15,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-09-14T10:00:00.000Z",
         "Agenda_Type": "M",
         "Agenda_Sequence": 0
       }
@@ -310971,6 +311066,24 @@
         "Position": "(C)",
         "AgendaDate": "2026-06-24T13:00:00.000Z",
         "CommitteeHouse": "SBA",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Calabrese, Clinton",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Karabinchak, Robert J.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
         "AgendaType": "M",
         "AgendaSequence": 0
       },
@@ -311029,6 +311142,24 @@
         "AgendaSequence": 0
       },
       {
+        "FullName": "Carter, Linda S.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Clifton, Robert D.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
         "FullName": "Cruz-Perez, Nilsa I.",
         "Vote": "Yes",
         "Position": "",
@@ -311047,11 +311178,29 @@
         "AgendaSequence": 0
       },
       {
+        "FullName": "Dunn, Aura K.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
         "FullName": "Holzapfel, James W.",
         "Vote": "Not Voting",
         "Position": "",
         "AgendaDate": "2026-06-01T11:00:00.000Z",
         "CommitteeHouse": "STR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Inganamort, Michael",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
         "AgendaType": "M",
         "AgendaSequence": 0
       },
@@ -311065,6 +311214,60 @@
         "AgendaSequence": 0
       },
       {
+        "FullName": "Katz, Andrea",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Kennedy, James J.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Macurdy, Andrew",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "McClellan, Antwan L.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "McGuckin, Gregory P.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Moen, William F.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
         "FullName": "O'Scanlon, Declan J.",
         "Vote": "Yes",
         "Position": "",
@@ -311074,11 +311277,29 @@
         "AgendaSequence": 0
       },
       {
+        "FullName": "Onyema, Chigozie U.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
         "FullName": "Ruiz, M. Teresa",
         "Vote": "Yes",
         "Position": "",
         "AgendaDate": "2026-06-24T13:00:00.000Z",
         "CommitteeHouse": "SBA",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Sampson, William B.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
         "AgendaType": "M",
         "AgendaSequence": 0
       },
@@ -311115,6 +311336,15 @@
         "Position": "",
         "AgendaDate": "2026-06-01T11:00:00.000Z",
         "CommitteeHouse": "STR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Walker, Jerry",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T10:00:00.000Z",
+        "CommitteeHouse": "ATR",
         "AgendaType": "M",
         "AgendaSequence": 0
       },
@@ -314366,13 +314596,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "fc2cbd33ed69075041d5bf18580549e9",
+    "content_hash": "f8e72ac03737b356f7768f6427196912",
     "bill_id": "S4307",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4307",
     "synopsis": "\"New Jersey History Day Act.\"",
-    "committee": "Tourism, Gaming and the Arts",
-    "current_status": "ATG",
+    "committee": "2nd Reading in the Assembly",
+    "current_status": "2RA",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5251",
     "last_session_bill": null,
@@ -314396,10 +314626,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Received in the Assembly, Referred to Assembly Tourism, Gaming and the Arts Committee"
+      },
+      {
+        "ActionDate": "9/14/2026",
+        "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
       }
     ],
-    "last_action": "Received in the Assembly, Referred to Assembly Tourism, Gaming and the Arts Committee",
-    "last_action_date": "6/30/2026",
+    "last_action": "Reported out of Assembly Committee, 2nd Reading",
+    "last_action_date": "9/14/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Diegnan, Patrick J., Jr.",
@@ -314452,6 +314686,13 @@
         "Number_Of_Pages": 3,
         "HTML_Link": "/Bills/2026/S4500/4307_R1.HTM",
         "PDFLink": "/Bills/2026/S4500/4307_R1.PDF"
+      },
+      {
+        "Description": "Statement",
+        "DocumentComment": "ATG 9/14/26 1R",
+        "Number_Of_Pages": 2,
+        "HTML_Link": "/Bills/2026/S4500/4307_S3.HTM",
+        "PDFLink": "/Bills/2026/S4500/4307_S3.PDF"
       }
     ],
     "committee_votes": [
@@ -314465,6 +314706,19 @@
         "Abstains": 0,
         "Vote_Type": "Roll Call",
         "Agenda_Date_for_Votes": "2026-06-11T10:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      },
+      {
+        "House": "ATG",
+        "Agenda_Date": "9/14/2026",
+        "Action": "r/favorably",
+        "Votes_Yes": 7,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-09-14T13:00:00.000Z",
         "Agenda_Type": "M",
         "Agenda_Sequence": 0
       }
@@ -314496,11 +314750,65 @@
         "AgendaSequence": 0
       },
       {
+        "FullName": "Moen, William F.",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "ATG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Bailey, David",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "ATG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Calabrese, Clinton",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "ATG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Donlon, Margie",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "ATG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Guardian, Donald A.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "ATG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
         "FullName": "Holzapfel, James W.",
         "Vote": "Not Voting",
         "Position": "",
         "AgendaDate": "2026-06-11T10:00:00.000Z",
         "CommitteeHouse": "SSG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "McClellan, Antwan L.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "ATG",
         "AgendaType": "M",
         "AgendaSequence": 0
       },
@@ -314519,6 +314827,15 @@
         "Position": "",
         "AgendaDate": "2026-06-11T10:00:00.000Z",
         "CommitteeHouse": "SSG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Rowan, Maureen",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-09-14T13:00:00.000Z",
+        "CommitteeHouse": "ATG",
         "AgendaType": "M",
         "AgendaSequence": 0
       },
