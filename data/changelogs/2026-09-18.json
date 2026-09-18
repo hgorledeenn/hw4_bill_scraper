@@ -1,0 +1,2173 @@
+{
+  "date": "2026-09-18",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S685",
+      "changes": {
+        "content_hash": {
+          "from": "ac39efe57afbeb9aa71833fc630db327",
+          "to": "9469eb77dcd167cab0432542cc1e0414"
+        },
+        "committee": {
+          "from": "Environment and Solid Waste",
+          "to": "2nd Reading in the Assembly"
+        },
+        "current_status": {
+          "from": "AEN",
+          "to": "2RA"
+        },
+        "identical_bill": {
+          "from": "A4555",
+          "to": "A4555 (1R)"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Passed by the Senate (27-11)"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Passed by the Senate (27-11)"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee"
+            },
+            {
+              "ActionDate": "9/17/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee",
+          "to": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "2/24/2026",
+          "to": "9/17/2026"
+        },
+        "committee_votes": {
+          "from": [
+            {
+              "House": "SEN",
+              "Agenda_Date": "2/12/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 4,
+              "Votes_No": 1,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-02-12T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ],
+          "to": [
+            {
+              "House": "SEN",
+              "Agenda_Date": "2/12/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 4,
+              "Votes_No": 1,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-02-12T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            },
+            {
+              "House": "AEN",
+              "Agenda_Date": "9/17/2026",
+              "Action": "r/Aca",
+              "Votes_Yes": 3,
+              "Votes_No": 1,
+              "Not_Voting": 2,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-09-17T13:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [
+            {
+              "FullName": "Smith, Bob",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKeon, John F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ],
+          "to": [
+            {
+              "FullName": "Smith, Bob",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Kennedy, James J.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Collazos-Gill, Alixon",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Bhalla, Ravi S.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Inganamort, Michael",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKeon, John F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Sampson, William B.",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Scharfenberger, Gerry",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S687",
+      "changes": {
+        "content_hash": {
+          "from": "0eee0bebbe08344025395c21b543f50b",
+          "to": "2dbbc74d118a4964a0cb7b00a59f1912"
+        },
+        "committee": {
+          "from": "Environment and Solid Waste",
+          "to": "2nd Reading in the Assembly"
+        },
+        "current_status": {
+          "from": "AEN",
+          "to": "2RA"
+        },
+        "identical_bill": {
+          "from": "A4560",
+          "to": "A4560 Aca (1R)"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Passed by the Senate (36-2)"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Passed by the Senate (36-2)"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee"
+            },
+            {
+              "ActionDate": "9/17/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee",
+          "to": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "2/24/2026",
+          "to": "9/17/2026"
+        },
+        "committee_votes": {
+          "from": [
+            {
+              "House": "SEN",
+              "Agenda_Date": "2/12/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-02-12T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ],
+          "to": [
+            {
+              "House": "SEN",
+              "Agenda_Date": "2/12/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-02-12T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            },
+            {
+              "House": "AEN",
+              "Agenda_Date": "9/17/2026",
+              "Action": "r/Aca",
+              "Votes_Yes": 3,
+              "Votes_No": 0,
+              "Not_Voting": 2,
+              "Abstains": 1,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-09-17T13:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [
+            {
+              "FullName": "Smith, Bob",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKeon, John F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ],
+          "to": [
+            {
+              "FullName": "Smith, Bob",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Kennedy, James J.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Collazos-Gill, Alixon",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Bhalla, Ravi S.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Inganamort, Michael",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKeon, John F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Sampson, William B.",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Scharfenberger, Gerry",
+              "Vote": "Abstain",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-02-12T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S1340",
+      "changes": {
+        "content_hash": {
+          "from": "22ddf7866a53e5f84bb45e48b8c6d968",
+          "to": "58760ca261d69a8d37497d8e41bfaf5d"
+        },
+        "committee": {
+          "from": "Community Development and Women's Affairs",
+          "to": "2nd Reading in the Assembly"
+        },
+        "current_status": {
+          "from": "ACW",
+          "to": "2RA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee as a Substitute, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (36-0)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Education Committee"
+            },
+            {
+              "ActionDate": "6/15/2026",
+              "HistoryAction": "Reported out of Asm. Comm. with Amendments, and Referred to Assembly Community Development and Women's Affairs Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee as a Substitute, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (36-0)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Education Committee"
+            },
+            {
+              "ActionDate": "6/15/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported out of Asm. Comm. with Amendments, and Referred to Assembly Community Development and Women's Affairs Committee",
+          "to": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+        }
+      }
+    },
+    {
+      "bill_id": "S1395",
+      "changes": {
+        "content_hash": {
+          "from": "851d4f7d37ea7f3e1a9b3455f54b5fad",
+          "to": "b1e2b8fb57f0be136e3fd3db19469ad2"
+        },
+        "committee": {
+          "from": "Judiciary",
+          "to": "2nd Reading in the Assembly"
+        },
+        "current_status": {
+          "from": "AJU",
+          "to": "2RA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Passed by the Senate (38-0)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Commerce and Economic Development Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported and Referred to Assembly Judiciary Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Passed by the Senate (38-0)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Commerce and Economic Development Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported and Referred to Assembly Judiciary Committee",
+          "to": "Reported out of Assembly Committee, 2nd Reading"
+        }
+      }
+    },
+    {
+      "bill_id": "S2782",
+      "changes": {
+        "content_hash": {
+          "from": "5b19c7b5d4cf37fa63266ed91f724dff",
+          "to": "0a3ab211e8d59f92b7d40f7e56a3c165"
+        },
+        "committee": {
+          "from": "Regulated Professions",
+          "to": "2nd Reading in the Assembly"
+        },
+        "current_status": {
+          "from": "ARP",
+          "to": "2RA"
+        },
+        "identical_bill": {
+          "from": "A1511",
+          "to": "A1511 (1R)"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Transferred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Motion To Sa (Schepisi) "
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Motion To Table Sa (24-13) (Ruiz)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Passed by the Senate (34-2)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Regulated Professions Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Transferred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Motion To Sa (Schepisi) "
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Motion To Table Sa (24-13) (Ruiz)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Passed by the Senate (34-2)"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Regulated Professions Committee"
+            },
+            {
+              "ActionDate": "9/17/2026",
+              "HistoryAction": "Transferred to Assembly Financial Institutions and Insurance Committee"
+            },
+            {
+              "ActionDate": "9/17/2026",
+              "HistoryAction": "Reported out of Asm. Comm. with Amendments, and Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "9/17/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Received in the Assembly, Referred to Assembly Regulated Professions Committee",
+          "to": "Reported out of Assembly Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "6/18/2026",
+          "to": "9/17/2026"
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S3000/2782_I1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2782_I1.PDF"
+            },
+            {
+              "Description": "Fiscal Estimate",
+              "DocumentComment": "6/5/26; as introduced",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S3000/2782_E1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2782_E1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SBA 6/4/26",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S3000/2782_S1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2782_S1.PDF"
+            },
+            {
+              "Description": "Fiscal Estimate",
+              "DocumentComment": "6/16/26; 1R",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S3000/2782_E2.HTM",
+              "PDFLink": "/Bills/2026/S3000/2782_E2.PDF"
+            },
+            {
+              "Description": "Reprint",
+              "DocumentComment": "SBA 6/4/26 1R",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S3000/2782_R1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2782_R1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S3000/2782_I1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2782_I1.PDF"
+            },
+            {
+              "Description": "Fiscal Estimate",
+              "DocumentComment": "6/5/26; as introduced",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S3000/2782_E1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2782_E1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SBA 6/4/26",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S3000/2782_S1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2782_S1.PDF"
+            },
+            {
+              "Description": "Fiscal Estimate",
+              "DocumentComment": "6/16/26; 1R",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S3000/2782_E2.HTM",
+              "PDFLink": "/Bills/2026/S3000/2782_E2.PDF"
+            },
+            {
+              "Description": "Reprint",
+              "DocumentComment": "SBA 6/4/26 1R",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S3000/2782_R1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2782_R1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "AAP 9/17/26 2R",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S3000/2782_S2.HTM",
+              "PDFLink": "/Bills/2026/S3000/2782_S2.PDF"
+            }
+          ]
+        },
+        "committee_votes": {
+          "from": [
+            {
+              "House": "SBA",
+              "Agenda_Date": "6/4/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 12,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 1,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-06-04T13:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ],
+          "to": [
+            {
+              "House": "SBA",
+              "Agenda_Date": "6/4/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 12,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 1,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-06-04T13:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            },
+            {
+              "House": "AFI",
+              "Agenda_Date": "9/17/2026",
+              "Action": "r/Aca",
+              "Votes_Yes": 13,
+              "Votes_No": 0,
+              "Not_Voting": 1,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-09-17T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            },
+            {
+              "House": "AAP",
+              "Agenda_Date": "9/17/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 14,
+              "Votes_No": 0,
+              "Not_Voting": 1,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-09-17T12:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [
+            {
+              "FullName": "Sarlo, Paul A.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Abstain",
+              "Position": "(V)",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Amato, Carmen F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Burgess, Renee C.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Burzichelli, John J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Cruz-Perez, Nilsa I.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Diegnan, Patrick J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Johnson, Gordon M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "O'Scanlon, Declan J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Ruiz, M. Teresa",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Steinhardt, Douglas J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Testa, Michael L.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Zwicker, Andrew",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ],
+          "to": [
+            {
+              "FullName": "Sarlo, Paul A.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Freiman, Roy",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Swain, Lisa",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Venezia, Michael",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Abstain",
+              "Position": "(V)",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Reynolds-Jackson, Verlina",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Amato, Carmen F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Auth, Robert",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Auth, Robert",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Bagolie, Rosaura",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Bailey, David",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Burgess, Renee C.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Burzichelli, John J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Carter, Linda S.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Clifton, Robert D.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Cruz-Perez, Nilsa I.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Diegnan, Patrick J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Flynn, Victoria A.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Hutchison, Dan",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Johnson, Gordon M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Kane, Melinda",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McClellan, Antwan L.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McCoy, Tennille R.",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Morales, Carmen Theresa",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Myhre, Gregory E.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Myhre, Gregory E.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "O'Scanlon, Declan J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Peterpaul, Luanne M.",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Pintor Marin, Eliana",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Rodriguez, Ed",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Ruiz, M. Teresa",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Schaer, Gary S.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Schnall, Alexander",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Simmons, Heather",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Singh, Balvir",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Singh, Balvir",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Stanley, Sterley S.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AFI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Steinhardt, Douglas J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Stewart, Kenyatta",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Testa, Michael L.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Webber, Jay",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T12:00:00.000Z",
+              "CommitteeHouse": "AAP",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Zwicker, Andrew",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-04T13:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S3245",
+      "changes": {
+        "content_hash": {
+          "from": "3b97463f2f1a1ae14336f1a5ef850988",
+          "to": "98a58b45420d88ec23653f5e745c7d68"
+        },
+        "committee": {
+          "from": "Higher Education",
+          "to": "2nd Reading in the Assembly"
+        },
+        "current_status": {
+          "from": "AHI",
+          "to": "2RA"
+        },
+        "identical_bill": {
+          "from": "A2470",
+          "to": "A2470 (1R)"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "2/2/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (34-6)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Higher Education Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "2/2/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (34-6)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Higher Education Committee"
+            },
+            {
+              "ActionDate": "9/17/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Received in the Assembly, Referred to Assembly Higher Education Committee",
+          "to": "Reported out of Assembly Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/17/2026"
+        },
+        "committee_votes": {
+          "from": [
+            {
+              "House": "SED",
+              "Agenda_Date": "6/1/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 3,
+              "Votes_No": 1,
+              "Not_Voting": 1,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-06-01T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ],
+          "to": [
+            {
+              "House": "SED",
+              "Agenda_Date": "6/1/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 3,
+              "Votes_No": 1,
+              "Not_Voting": 1,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-06-01T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            },
+            {
+              "House": "AHI",
+              "Agenda_Date": "9/17/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 4,
+              "Votes_No": 2,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-09-17T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [
+            {
+              "FullName": "Gopal, Vin",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-06-01T10:00:00.000Z",
+              "CommitteeHouse": "SED",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-06-01T10:00:00.000Z",
+              "CommitteeHouse": "SED",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Corrado, Kristin M.",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-06-01T10:00:00.000Z",
+              "CommitteeHouse": "SED",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Henry, Owen",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-06-01T10:00:00.000Z",
+              "CommitteeHouse": "SED",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKnight, Angela V.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-01T10:00:00.000Z",
+              "CommitteeHouse": "SED",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ],
+          "to": [
+            {
+              "FullName": "Gopal, Vin",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-06-01T10:00:00.000Z",
+              "CommitteeHouse": "SED",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Morales, Carmen Theresa",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AHI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-06-01T10:00:00.000Z",
+              "CommitteeHouse": "SED",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Carter, Linda S.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AHI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Corrado, Kristin M.",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-06-01T10:00:00.000Z",
+              "CommitteeHouse": "SED",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Henry, Owen",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-06-01T10:00:00.000Z",
+              "CommitteeHouse": "SED",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Kearney, Vincent M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AHI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKnight, Angela V.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-01T10:00:00.000Z",
+              "CommitteeHouse": "SED",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Miller, Cody D.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AHI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Rumpf, Brian E.",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AHI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Scharfenberger, Gerry",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-09-17T10:00:00.000Z",
+              "CommitteeHouse": "AHI",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4495",
+      "changes": {
+        "content_hash": {
+          "from": "56823ad56fc07a0a492e9a0753b26571",
+          "to": "a7bba502c49bdf286e41228203996c9c"
+        },
+        "committee": {
+          "from": "Environment and Solid Waste",
+          "to": "2nd Reading in the Assembly"
+        },
+        "current_status": {
+          "from": "AEN",
+          "to": "2RA"
+        },
+        "identical_bill": {
+          "from": "A5321",
+          "to": "A5321 (1R)"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/22/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Transferred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/22/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Transferred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee"
+            },
+            {
+              "ActionDate": "9/17/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee",
+          "to": "Reported out of Assembly Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/17/2026"
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S4500/4495_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4495_I1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SBA 6/28/26",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S4500/4495_S1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4495_S1.PDF"
+            },
+            {
+              "Description": "Reprint",
+              "DocumentComment": "SBA 6/28/26 1R",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S4500/4495_R1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4495_R1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S4500/4495_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4495_I1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SBA 6/28/26",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S4500/4495_S1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4495_S1.PDF"
+            },
+            {
+              "Description": "Reprint",
+              "DocumentComment": "SBA 6/28/26 1R",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S4500/4495_R1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4495_R1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "AEN 9/17/26 1R",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S4500/4495_S2.HTM",
+              "PDFLink": "/Bills/2026/S4500/4495_S2.PDF"
+            }
+          ]
+        },
+        "committee_votes": {
+          "from": [
+            {
+              "House": "SBA",
+              "Agenda_Date": "6/28/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 13,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-06-28T19:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ],
+          "to": [
+            {
+              "House": "SBA",
+              "Agenda_Date": "6/28/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 13,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-06-28T19:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            },
+            {
+              "House": "AEN",
+              "Agenda_Date": "9/17/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 4,
+              "Votes_No": 0,
+              "Not_Voting": 2,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-09-17T13:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [
+            {
+              "FullName": "Sarlo, Paul A.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Amato, Carmen F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Burgess, Renee C.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Burzichelli, John J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Cruz-Perez, Nilsa I.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Diegnan, Patrick J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Johnson, Gordon M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "O'Scanlon, Declan J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Ruiz, M. Teresa",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Steinhardt, Douglas J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Testa, Michael L.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Zwicker, Andrew",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ],
+          "to": [
+            {
+              "FullName": "Sarlo, Paul A.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Kennedy, James J.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Collazos-Gill, Alixon",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Amato, Carmen F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Bhalla, Ravi S.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Burgess, Renee C.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Burzichelli, John J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Cruz-Perez, Nilsa I.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Diegnan, Patrick J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Inganamort, Michael",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Johnson, Gordon M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "O'Scanlon, Declan J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Ruiz, M. Teresa",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Sampson, William B.",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Scharfenberger, Gerry",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-09-17T13:00:00.000Z",
+              "CommitteeHouse": "AEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Steinhardt, Douglas J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Testa, Michael L.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Zwicker, Andrew",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-06-28T19:00:00.000Z",
+              "CommitteeHouse": "SBA",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
