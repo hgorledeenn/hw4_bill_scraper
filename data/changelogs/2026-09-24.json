@@ -1,0 +1,110 @@
+{
+  "date": "2026-09-24",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S3818",
+      "changes": {
+        "content_hash": {
+          "from": "fb5250e3dd22b2d13d8df917bd48756b",
+          "to": "679ffc6c06f3ce08e31e61f0df45bb07"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "3/5/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/24/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5114"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-1-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "3/5/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/24/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (40-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5114"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (78-1-0)"
+            },
+            {
+              "ActionDate": "9/23/2026",
+              "HistoryAction": "Approved P.L.2026, c.91."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (78-1-0)",
+          "to": "Approved P.L.2026, c.91."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/23/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    }
+  ]
+}

@@ -270291,13 +270291,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "fb5250e3dd22b2d13d8df917bd48756b",
+    "content_hash": "679ffc6c06f3ce08e31e61f0df45bb07",
     "bill_id": "S3818",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3818",
     "synopsis": "Authorizes creation of Borinqueneers license plates.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A5114",
     "last_session_bill": null,
@@ -270333,10 +270333,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (78-1-0)"
+      },
+      {
+        "ActionDate": "9/23/2026",
+        "HistoryAction": "Approved P.L.2026, c.91."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (78-1-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026, c.91.",
+    "last_action_date": "9/23/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Ruiz, M. Teresa",
@@ -271493,7 +271497,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "fe69b99cc7581c48b18aebfc4b219770",
