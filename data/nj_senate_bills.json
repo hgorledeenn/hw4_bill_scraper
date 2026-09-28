@@ -200619,13 +200619,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "13cd4992794ebd8d74a41841b30a9621",
+    "content_hash": "7b1969a52748a7aedca7586cc1283514",
     "bill_id": "S2962",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S2962",
     "synopsis": "Provides seniority service credit to educational support professionals for military service.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A2746",
     "last_session_bill": "S4428 (1R) A4941",
@@ -200665,10 +200665,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+      },
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Approved P.L., 2026 c.93."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (79-0-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L., 2026 c.93.",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Mukherji, Raj",
@@ -201929,7 +201933,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "dfdd118182769fc6ab1830a6969ffbf4",
@@ -265700,13 +265704,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "1631decc03d2e4057c5d1524e691028f",
+    "content_hash": "d18299af550b9b98fa9dd7898757c7d1",
     "bill_id": "S3739",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3739",
     "synopsis": "Establishes certain electric vehicle supply equipment development processes and standards concerning public health and safety; removes certain existing approval requirements while preserving applicable safety and inspection standards.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A4530 (2R)",
     "last_session_bill": null,
@@ -265754,10 +265758,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Senate (Passed Both Houses) (27-11)"
+      },
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Approved P.L., 2026 c.94"
       }
     ],
-    "last_action": "Passed Senate (Passed Both Houses) (27-11)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L., 2026 c.94",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Diegnan, Patrick J., Jr.",
@@ -267234,7 +267242,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 4,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "ef46a10a9d68a656ddee754d27dc56f4",
@@ -303709,13 +303717,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "6569d00eb96aab9c70f851f902618789",
+    "content_hash": "dc32cb176372d381d4b58489099a7440",
     "bill_id": "S4193",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4193",
     "synopsis": "Establishes \"Fortifying Corn Masa Act.\"",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5119 (1R)",
     "last_session_bill": null,
@@ -303751,10 +303759,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (75-2-0)"
+      },
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Approved P.L., 2026 c.95."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (75-2-0)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L., 2026 c.95.",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Ruiz, M. Teresa",
@@ -304764,7 +304776,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 3,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "8ceec73781e125a4cf842655b08c29c1",
@@ -330900,13 +330912,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "35bc4320e768281d1fe3c4391c590b3a",
+    "content_hash": "cc20d1b194f3c32036e63be850241e83",
     "bill_id": "S4413",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4413",
     "synopsis": "Establishes School-based Partnerships for Access and Resilience for Kids program in DCF; requires school districts to develop mental health support and partnership programs. **",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A5235 (2R)",
     "last_session_bill": null,
@@ -330942,10 +330954,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (71-0-8)"
+      },
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Approved P.L., 2026 c.92."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (71-0-8)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L., 2026 c.92.",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Scutari, Nicholas P.",
@@ -332158,7 +332174,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "196ee4304f1b689e6753ec7c4a3f5c84",
@@ -333212,13 +333228,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "850e630c74b853ac70b114362414d778",
+    "content_hash": "181b275bcc0993064deefd923f2d9565",
     "bill_id": "S4420",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4420",
     "synopsis": "Authorizes regional rehabilitation and reentry center authority to determine county proportional share assessment for budget purposes.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A5232 (1R)",
     "last_session_bill": null,
@@ -333254,10 +333270,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (71-7-1)"
+      },
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Approved P.L., 2026. c.96."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (71-7-1)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L., 2026. c.96.",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Beach, James",
@@ -348192,13 +348212,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "0137329d64b5a3e2e6049218115b5409",
+    "content_hash": "e0c420c79a32362a4e810899cef5e124",
     "bill_id": "S4515",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4515",
     "synopsis": "Authorizes dual employment by certain employees of Rutgers University and affiliated contracting entities.*",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5350",
     "last_session_bill": null,
@@ -348226,10 +348246,14 @@
       {
         "ActionDate": "6/30/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (50-15-4)"
+      },
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Approved P.L.2026., c.97."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (50-15-4)",
-    "last_action_date": "6/30/2026",
+    "last_action": "Approved P.L.2026., c.97.",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Mukherji, Raj",
@@ -349288,7 +349312,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 2,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "c893084d6dfd1f8c6e767cdb82a63a73",
@@ -353297,17 +353321,24 @@
     "governor_action": "APP"
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "5732995719a3b7989fd0479c343e2ed4",
     "bill_id": "S4539",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4539",
     "synopsis": "Requires State agencies to redact handwritten signatures prior to publishing documents on agency's Internet website.",
-    "committee": "",
-    "current_status": null,
+    "committee": "State Government, Wagering, Tourism & Historic Preservation",
+    "current_status": "SSG",
     "fiscal_note": null,
     "identical_bill": "A5365",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Stack, Brian P.",
@@ -353326,17 +353357,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "081b22ebc360d4e1c06ad8803622c238",
     "bill_id": "S4540",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4540",
     "synopsis": "Establishes Commission on High-Quality Affordable Early Childhood Care and Education; makes appropriation.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Health, Human Services and Senior Citizens",
+    "current_status": "SHH",
     "fiscal_note": null,
     "identical_bill": "A5262",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKnight, Angela V.",
@@ -353355,17 +353393,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "081b22ebc360d4e1c06ad8803622c238",
     "bill_id": "S4541",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4541",
     "synopsis": "Establishes \"Tom's Friends with ALS Bill of Rights\" Act.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Health, Human Services and Senior Citizens",
+    "current_status": "SHH",
     "fiscal_note": null,
-    "identical_bill": null,
+    "identical_bill": "A5501  ",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKnight, Angela V.",
@@ -353384,17 +353429,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "081b22ebc360d4e1c06ad8803622c238",
     "bill_id": "S4542",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4542",
     "synopsis": "Requires DCF to expand services provided by NJ Statewide Student Support Services program to include eating disorder services.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Health, Human Services and Senior Citizens",
+    "current_status": "SHH",
     "fiscal_note": null,
     "identical_bill": "A2747",
     "last_session_bill": "A4984 (1R) S3862",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Corrado, Kristin M.",
@@ -353413,17 +353465,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "582964dcfe5db9780fe703031aa13b1b",
     "bill_id": "S4543",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4543",
     "synopsis": "Amends FY2027 appropriations act to reassign appropriation for Virtua Health College of Medicine and Life Sciences to Virtua Health College for hospital support.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Budget and Appropriations",
+    "current_status": "SBA",
     "fiscal_note": null,
     "identical_bill": "A5437  ",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Budget and Appropriations Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Budget and Appropriations Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Singleton, Troy",
@@ -353442,17 +353501,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "606ac17ed3fdb5803342770fa5b5e123",
     "bill_id": "S4544",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4544",
     "synopsis": "Prohibits limitation of State school aid increases in 2026-2027 school year; appropriates $332.6 million.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Education",
+    "current_status": "SED",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Education Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Testa, Michael L., Jr.",
@@ -353471,17 +353537,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "606ac17ed3fdb5803342770fa5b5e123",
     "bill_id": "S4545",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4545",
     "synopsis": "Prohibits school districts from joining associations which oversee Statewide interscholastic sports unless association limits interscholastic eligibility of certain student-athletes who repeat middle school grade for athletic advantage.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Education",
+    "current_status": "SED",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Education Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Bucco, Anthony M.",
@@ -353500,17 +353573,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "62b6b06664a72f0bc821d58fb5a7242a",
     "bill_id": "S4546",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4546",
     "synopsis": "Establishes targets for roadside solar projects in State's solar energy incentive program.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Environment and Energy",
+    "current_status": "SEN",
     "fiscal_note": null,
     "identical_bill": "A2404",
     "last_session_bill": "A5743 S4606",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353529,17 +353609,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "283f9f181d12bad4461396538b712dd8",
     "bill_id": "S4547",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4547",
     "synopsis": "Reallocates portion of certain forfeited property as incentive for informants of drug-related offenses and to provide inpatient treatment for certain drug-dependent individuals.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Law and Public Safety",
+    "current_status": "SLP",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S2743",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353558,17 +353645,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "283f9f181d12bad4461396538b712dd8",
     "bill_id": "S4548",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4548",
     "synopsis": "Prohibits sale of certain products using advertisements alluding to controlled dangerous substances or analogs.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Law and Public Safety",
+    "current_status": "SLP",
     "fiscal_note": null,
     "identical_bill": "A3328",
     "last_session_bill": "A366 S2741  ",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353587,17 +353681,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "9be5c2cc031d310cc3cd14b1b0163daa",
     "bill_id": "S4549",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4549",
     "synopsis": "Eliminates one percent tax on purchasers of Class 4A commercial property transferred for consideration in excess of $1 million.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Economic Growth",
+    "current_status": "SEG",
     "fiscal_note": null,
     "identical_bill": "A3561 w/c",
     "last_session_bill": "A2786 w/c S56 w/c",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353616,17 +353717,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "081b22ebc360d4e1c06ad8803622c238",
     "bill_id": "S4550",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4550",
     "synopsis": "Requires installation of grab bars in certain public restrooms.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Health, Human Services and Senior Citizens",
+    "current_status": "SHH",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S136",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353645,17 +353753,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "283f9f181d12bad4461396538b712dd8",
     "bill_id": "S4551",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4551",
     "synopsis": "Removes plenary retail distribution license limit for certain stores.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Law and Public Safety",
+    "current_status": "SLP",
     "fiscal_note": null,
     "identical_bill": "A3525",
     "last_session_bill": "A2747 S101",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353674,17 +353789,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4e844f93fbdb5019ee98160fccbe7c16",
     "bill_id": "S4552",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4552",
     "synopsis": "Requires inspection for pest infestation prior to certain demolitions.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Community and Urban Affairs",
+    "current_status": "SCU",
     "fiscal_note": null,
     "identical_bill": "S4491 A5384",
     "last_session_bill": "A3555 (1R) S138",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353703,17 +353825,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4e844f93fbdb5019ee98160fccbe7c16",
     "bill_id": "S4553",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4553",
     "synopsis": "Establishes the \"New Jersey Residential Foreclosure Transformation Act.\"",
-    "committee": "",
-    "current_status": null,
+    "committee": "Community and Urban Affairs",
+    "current_status": "SCU",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S2763 w/c",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353732,17 +353861,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4e844f93fbdb5019ee98160fccbe7c16",
     "bill_id": "S4554",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4554",
     "synopsis": "Requires DCA to continuously maintain open enrollment period for federal Housing Choice Voucher Program pre-applications.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Community and Urban Affairs",
+    "current_status": "SCU",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "A2289 S2749",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353761,17 +353897,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "3ff717b647fdaea5552399b1f502fbb8",
     "bill_id": "S4555",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4555",
     "synopsis": "Provides exemption from three-day cancellation provision of home improvement contract in case of bona fide emergency.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Commerce",
+    "current_status": "SCM",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S66",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Commerce Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353790,17 +353933,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "62b6b06664a72f0bc821d58fb5a7242a",
     "bill_id": "S4556",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4556",
     "synopsis": "\"Green Building Tax Credit Act.\"",
-    "committee": "",
-    "current_status": null,
+    "committee": "Environment and Energy",
+    "current_status": "SEN",
     "fiscal_note": null,
     "identical_bill": "A3918",
     "last_session_bill": "A1477 S105",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353819,17 +353969,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "9be5c2cc031d310cc3cd14b1b0163daa",
     "bill_id": "S4557",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4557",
     "synopsis": "Establishes loan program and provides corporation business tax and gross income tax credits for establishment of new vineyards and wineries.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Economic Growth",
+    "current_status": "SEG",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S107",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353848,17 +354005,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "62b6b06664a72f0bc821d58fb5a7242a",
     "bill_id": "S4558",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4558",
     "synopsis": "Provides corporation business tax credit and gross income tax credits for purchase and installation of certain electric vehicle charging stations.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Environment and Energy",
+    "current_status": "SEN",
     "fiscal_note": null,
     "identical_bill": "A1039",
     "last_session_bill": "A517 S59",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353877,17 +354041,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "3ff717b647fdaea5552399b1f502fbb8",
     "bill_id": "S4559",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4559",
     "synopsis": "Requires health insurers, SHBP and SEHBP to provide coverage for diagnosis, evaluation and treatment of lymphedema.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Commerce",
+    "current_status": "SCM",
     "fiscal_note": null,
     "identical_bill": "A4209",
     "last_session_bill": "A1151 S2759",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Commerce Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353906,17 +354077,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "606ac17ed3fdb5803342770fa5b5e123",
     "bill_id": "S4560",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4560",
     "synopsis": "Establishes Task Force on Approved Private Schools for Students with Disabilities to study various issues including improving and streamlining tuition-setting process, funding, and fiscal accountability.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Education",
+    "current_status": "SED",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "A4112",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Education Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353935,17 +354113,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "9be5c2cc031d310cc3cd14b1b0163daa",
     "bill_id": "S4561",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4561",
     "synopsis": "Provides exemption from State permit fees to owners of commercial farms rebuilding from natural disaster.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Economic Growth",
+    "current_status": "SEG",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S2737",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353964,17 +354149,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "283f9f181d12bad4461396538b712dd8",
     "bill_id": "S4562",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4562",
     "synopsis": "Changes allocation of fines collected for motor vehicle violations in certain municipalities.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Law and Public Safety",
+    "current_status": "SLP",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S148",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -353993,17 +354185,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "62b6b06664a72f0bc821d58fb5a7242a",
     "bill_id": "S4563",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4563",
     "synopsis": "Provides economic development incentives for remediating and redeveloping legacy landfills, brownfields, and contaminated sites.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Environment and Energy",
+    "current_status": "SEN",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S2746",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354022,17 +354221,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "3f9317f2a92c51ad19cfbb1e4f75b1e7",
     "bill_id": "S4564",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4564",
     "synopsis": "Provides employers with various tax incentives for hiring persons with disabilities under insurance premiums tax, corporation business tax and gross income tax.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Labor",
+    "current_status": "SLA",
     "fiscal_note": null,
     "identical_bill": "A2955",
     "last_session_bill": "A2513 S3106",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Labor Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354051,17 +354257,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "62b6b06664a72f0bc821d58fb5a7242a",
     "bill_id": "S4565",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4565",
     "synopsis": "Establishes pilot program for solar energy generation on roadside right-of-way areas.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Environment and Energy",
+    "current_status": "SEN",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S4607",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354080,17 +354293,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4e844f93fbdb5019ee98160fccbe7c16",
     "bill_id": "S4566",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4566",
     "synopsis": "Eliminates five percent down payment requirement for bond ordinances approved by counties and municipalities.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Community and Urban Affairs",
+    "current_status": "SCU",
     "fiscal_note": null,
     "identical_bill": "A2372",
     "last_session_bill": "A2179 S3119",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354109,17 +354329,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "283f9f181d12bad4461396538b712dd8",
     "bill_id": "S4567",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4567",
     "synopsis": "Provides immunity from civil and criminal liability for rescue of animal from motor vehicle under inhumane conditions.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Law and Public Safety",
+    "current_status": "SLP",
     "fiscal_note": null,
     "identical_bill": "A4585",
     "last_session_bill": "S80 A3637",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354138,17 +354365,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "9be5c2cc031d310cc3cd14b1b0163daa",
     "bill_id": "S4568",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4568",
     "synopsis": "Directs certain unclaimed electric and gas utility deposits in Unclaimed Utility Deposits Trust Fund and societal charge revenues be paid to Statewide nonprofit energy assistance organizations designated by BPU.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Economic Growth",
+    "current_status": "SEG",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S112",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354167,17 +354401,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4e844f93fbdb5019ee98160fccbe7c16",
     "bill_id": "S4569",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4569",
     "synopsis": "Authorizes political subdivisions to require recipients of economic development incentives to enter into community benefits agreements.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Community and Urban Affairs",
+    "current_status": "SCU",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S2748",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354196,17 +354437,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4e844f93fbdb5019ee98160fccbe7c16",
     "bill_id": "S4570",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4570",
     "synopsis": "Requires emergency shelters for the homeless to admit certain persons unless they pose danger.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Community and Urban Affairs",
+    "current_status": "SCU",
     "fiscal_note": null,
     "identical_bill": "A4316",
     "last_session_bill": "S3113 A4336",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354225,17 +354473,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4e844f93fbdb5019ee98160fccbe7c16",
     "bill_id": "S4571",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4571",
     "synopsis": "Prohibits emergency homeless shelters from conditioning provision of shelter on enrollment in certain programs.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Community and Urban Affairs",
+    "current_status": "SCU",
     "fiscal_note": null,
     "identical_bill": "A3464",
     "last_session_bill": "A2268 S3120  ",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354254,17 +354509,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4e844f93fbdb5019ee98160fccbe7c16",
     "bill_id": "S4572",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4572",
     "synopsis": "Expands municipal authority to license and inspect residential rental property.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Community and Urban Affairs",
+    "current_status": "SCU",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "A3014 S2762",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354283,17 +354545,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "9be5c2cc031d310cc3cd14b1b0163daa",
     "bill_id": "S4573",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4573",
     "synopsis": "Establishes Main Street Assistance Program to encourage business development in small municipalities.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Economic Growth",
+    "current_status": "SEG",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S2744",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354312,17 +354581,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "59b1db1a8b391180fbab2264710e83ee",
     "bill_id": "S4574",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4574",
     "synopsis": "Establishes offense of harassing, intimidating, or bullying minor; establishes diversionary program for juveniles charged with offense.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Judiciary",
+    "current_status": "SJU",
     "fiscal_note": null,
     "identical_bill": "A2509",
     "last_session_bill": "A2389 S3104",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354341,17 +354617,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "59b1db1a8b391180fbab2264710e83ee",
     "bill_id": "S4575",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4575",
     "synopsis": "Concerns consideration of factors by court at hearing for pretrial detention or violation of condition of pretrial release.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Judiciary",
+    "current_status": "SJU",
     "fiscal_note": null,
     "identical_bill": "A2506",
     "last_session_bill": "A2385 S3107  ",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354370,17 +354653,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "3ff717b647fdaea5552399b1f502fbb8",
     "bill_id": "S4576",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4576",
     "synopsis": "Requires licensure of dog trainers. ",
-    "committee": "",
-    "current_status": null,
+    "committee": "Commerce",
+    "current_status": "SCM",
     "fiscal_note": null,
     "identical_bill": "A4206",
     "last_session_bill": "A3676 S67",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Commerce Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354399,17 +354689,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "62a765e8f37c9eda389e8a9fe37af475",
     "bill_id": "S4577",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4577",
     "synopsis": "Requires public institutions of higher education to enroll certain students impacted by automation in job training courses without payment of tuition.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Higher Education",
+    "current_status": "SHI",
     "fiscal_note": null,
     "identical_bill": "A4389",
     "last_session_bill": "A1257",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Higher Education Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Burzichelli, John J.",
@@ -354428,17 +354725,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "62b6b06664a72f0bc821d58fb5a7242a",
     "bill_id": "S4578",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4578",
     "synopsis": "Authorizes local governments and nonprofit organizations to utilize certain constitutionally dedicated CBT revenues for administrative expenses.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Environment and Energy",
+    "current_status": "SEN",
     "fiscal_note": null,
     "identical_bill": "A5101",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Burzichelli, John J.",
@@ -354457,17 +354761,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "081b22ebc360d4e1c06ad8803622c238",
     "bill_id": "S4579",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4579",
     "synopsis": "Establishes and requires coverage for routine opt-out HIV testing during provision of medical care in certain settings.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Health, Human Services and Senior Citizens",
+    "current_status": "SHH",
     "fiscal_note": null,
     "identical_bill": "A4980",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Burzichelli, John J.",
@@ -354486,17 +354797,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "3f9317f2a92c51ad19cfbb1e4f75b1e7",
     "bill_id": "S4580",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4580",
     "synopsis": "Concerns financial need policy used to determine costs to clients to participate in certain vocational rehabilitation services.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Labor",
+    "current_status": "SLA",
     "fiscal_note": null,
     "identical_bill": "A4850",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Labor Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Burzichelli, John J.",
@@ -354515,17 +354833,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4e844f93fbdb5019ee98160fccbe7c16",
     "bill_id": "S4581",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4581",
     "synopsis": "Revises statutes concerning assessment of real property.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Community and Urban Affairs",
+    "current_status": "SCU",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "O'Scanlon, Declan J., Jr.",
@@ -354544,17 +354869,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "081b22ebc360d4e1c06ad8803622c238",
     "bill_id": "S4582",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4582",
     "synopsis": "Adjusts monthly Medicaid capitation rate for participants in Program of All-Inclusive Care for Elderly.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Health, Human Services and Senior Citizens",
+    "current_status": "SHH",
     "fiscal_note": null,
     "identical_bill": "A5436  ",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354573,17 +354905,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "081b22ebc360d4e1c06ad8803622c238",
     "bill_id": "S4583",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4583",
     "synopsis": "Requires organ procurement organizations to verify and rely on MVC, Donate Life NJ Registry, or other authorized donor registry or data source organ donor designations and identification information to verify organ and tissue donation status of donors.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Health, Human Services and Senior Citizens",
+    "current_status": "SHH",
     "fiscal_note": null,
-    "identical_bill": "A5375",
+    "identical_bill": "A5375  ",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Moriarty, Paul D.",
@@ -354602,17 +354941,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4e844f93fbdb5019ee98160fccbe7c16",
     "bill_id": "S4584",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4584",
     "synopsis": "Establishes homestead exemptions for persons in debt.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Community and Urban Affairs",
+    "current_status": "SCU",
     "fiscal_note": null,
-    "identical_bill": "A5377",
+    "identical_bill": "A5377  ",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Moriarty, Paul D.",
@@ -354631,17 +354977,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "283f9f181d12bad4461396538b712dd8",
     "bill_id": "S4585",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4585",
     "synopsis": "Provides for driver's license suspension for any crime or offense occurring at pop-up party.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Law and Public Safety",
+    "current_status": "SLP",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Holzapfel, James W.",
@@ -354665,17 +355018,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "59b1db1a8b391180fbab2264710e83ee",
     "bill_id": "S4586",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4586",
     "synopsis": "Redefines covered person under Daniel's Law protection to include persons employed in other states.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Judiciary",
+    "current_status": "SJU",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Space, Parker",
@@ -354699,17 +355059,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "5732995719a3b7989fd0479c343e2ed4",
     "bill_id": "S4587",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4587",
     "synopsis": "Requires certain State contractors to provide members of public with option to submit certain information electronically.",
-    "committee": "",
-    "current_status": null,
+    "committee": "State Government, Wagering, Tourism & Historic Preservation",
+    "current_status": "SSG",
     "fiscal_note": null,
     "identical_bill": "A5381",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Lagana, Joseph A.",
@@ -354728,17 +355095,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "62a765e8f37c9eda389e8a9fe37af475",
     "bill_id": "S4588",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4588",
     "synopsis": "Provides funds to expand nursing education at William Paterson University of New Jersey; appropriates $2 million.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Higher Education",
+    "current_status": "SHI",
     "fiscal_note": null,
     "identical_bill": "A5413  ",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Higher Education Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Wimberly, Benjie E.",
@@ -354757,17 +355131,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "3ff717b647fdaea5552399b1f502fbb8",
     "bill_id": "S4589",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4589",
     "synopsis": "Limits forum of consumer contract disputes to New Jersey.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Commerce",
+    "current_status": "SCM",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S2756",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Commerce Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354786,17 +355167,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "5732995719a3b7989fd0479c343e2ed4",
     "bill_id": "S4590",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4590",
     "synopsis": "Designates blueberry muffin as State Muffin.",
-    "committee": "",
-    "current_status": null,
+    "committee": "State Government, Wagering, Tourism & Historic Preservation",
+    "current_status": "SSG",
     "fiscal_note": null,
     "identical_bill": "A4149",
     "last_session_bill": "A3611 S2740",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354815,17 +355203,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "606ac17ed3fdb5803342770fa5b5e123",
     "bill_id": "S4591",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4591",
     "synopsis": "Provides that regional school districts are not subject to State school aid reductions under certain circumstances.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Education",
+    "current_status": "SED",
     "fiscal_note": null,
     "identical_bill": "A3428",
     "last_session_bill": "A5599 S3118 (1R)",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Education Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354844,17 +355239,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "9be5c2cc031d310cc3cd14b1b0163daa",
     "bill_id": "S4592",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4592",
     "synopsis": "Establishes small hospitality business winter preparation purchase or reimbursement program in EDA; appropriates $50 million to EDA from federal funds.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Economic Growth",
+    "current_status": "SEG",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S2761",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354873,17 +355275,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "9be5c2cc031d310cc3cd14b1b0163daa",
     "bill_id": "S4593",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4593",
     "synopsis": "Permits developer to qualify for low-interest loan from NJEDA when building a high performance green building.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Economic Growth",
+    "current_status": "SEG",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S124",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354902,17 +355311,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "9be5c2cc031d310cc3cd14b1b0163daa",
     "bill_id": "S4594",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4594",
     "synopsis": "Allows corporation business tax credits as incentives for redevelopment of distressed shopping centers.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Economic Growth",
+    "current_status": "SEG",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "S125",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cruz-Perez, Nilsa I.",
@@ -354931,17 +355347,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "283f9f181d12bad4461396538b712dd8",
     "bill_id": "S4595",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4595",
     "synopsis": "Revises certain provisions of \"Isolated Confinement Restriction Act.\"",
-    "committee": "",
-    "current_status": null,
+    "committee": "Law and Public Safety",
+    "current_status": "SLP",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Greenstein, Linda R.",
@@ -354960,17 +355383,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "5732995719a3b7989fd0479c343e2ed4",
     "bill_id": "S4596",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4596",
     "synopsis": "Establishes Center for Black Policy, Research, and Development in Department of State; makes appropriation.",
-    "committee": "",
-    "current_status": null,
+    "committee": "State Government, Wagering, Tourism & Historic Preservation",
+    "current_status": "SSG",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Turner, Shirley K.",
@@ -354989,17 +355419,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "5732995719a3b7989fd0479c343e2ed4",
     "bill_id": "S4597",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4597",
     "synopsis": "Prohibits information from Statewide voter registration system from being published on Internet.",
-    "committee": "",
-    "current_status": null,
+    "committee": "State Government, Wagering, Tourism & Historic Preservation",
+    "current_status": "SSG",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": "A912 S2350",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Turner, Shirley K.",
@@ -355018,17 +355455,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "59b1db1a8b391180fbab2264710e83ee",
     "bill_id": "S4598",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4598",
     "synopsis": "Authorizes trustee of trust, under certain circumstances, to terminate service without filing formal accounting with court or obtaining release agreements from beneficiaries.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Judiciary",
+    "current_status": "SJU",
     "fiscal_note": null,
     "identical_bill": "A4736",
     "last_session_bill": "A6304",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKeon, John F.",
@@ -355047,17 +355491,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "62b6b06664a72f0bc821d58fb5a7242a",
     "bill_id": "S4599",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4599",
     "synopsis": "Requires DEP to regulate scrap metal facilities as recycling facilities.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Environment and Energy",
+    "current_status": "SEN",
     "fiscal_note": null,
     "identical_bill": "A2406",
     "last_session_bill": "A5852 (2R)",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKeon, John F.",
@@ -355076,17 +355527,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "081b22ebc360d4e1c06ad8803622c238",
     "bill_id": "S4600",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4600",
     "synopsis": "Supplemental appropriation of $35 million from General Fund to DHS to support Crisis Receiving and Stabilization Centers within 9-8-8 Continuum of Care.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Health, Human Services and Senior Citizens",
+    "current_status": "SHH",
     "fiscal_note": null,
     "identical_bill": "A5435  ",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Vitale, Joseph F.",
@@ -355110,17 +355568,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "3ff717b647fdaea5552399b1f502fbb8",
     "bill_id": "S4601",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4601",
     "synopsis": "Requires pharmacist or pharmacist's designee to notify consumer of substituted drug or biological product.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Commerce",
+    "current_status": "SCM",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Commerce Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Vitale, Joseph F.",
@@ -355144,17 +355609,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "62b6b06664a72f0bc821d58fb5a7242a",
     "bill_id": "S4602",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4602",
     "synopsis": "Authorizes long-term public contracts of up to 25 years for provision of electricity and related products for energy storage systems.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Environment and Energy",
+    "current_status": "SEN",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Smith, Bob",
@@ -355178,17 +355650,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "62b6b06664a72f0bc821d58fb5a7242a",
     "bill_id": "S4603",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4603",
     "synopsis": "\"Clean Water and Safe Communities Bond Act,\" authorizes bonds for $5 billion; appropriates $5,000.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Environment and Energy",
+    "current_status": "SEN",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Smith, Bob",
@@ -355217,17 +355696,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4e844f93fbdb5019ee98160fccbe7c16",
     "bill_id": "S4604",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4604",
     "synopsis": "Requires organizations providing services to homeless persons to participate in Homeless Management Information System to track occupancy of shelter beds.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Community and Urban Affairs",
+    "current_status": "SCU",
     "fiscal_note": null,
     "identical_bill": "A5026",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Gopal, Vin",
@@ -355246,17 +355732,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "3f9317f2a92c51ad19cfbb1e4f75b1e7",
     "bill_id": "S4605",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4605",
     "synopsis": "Consolidates administration of \"New Jersey Public Employees' Occupational Safety and Health Act\" under DOLWD.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Labor",
+    "current_status": "SLA",
     "fiscal_note": null,
     "identical_bill": "A5433",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Labor Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Gopal, Vin",
@@ -355275,17 +355768,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "a0de55f2e7e3d4649f77f53aba14878a",
     "bill_id": "S4606",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4606",
     "synopsis": "Requires NJT to develop railroad safety public awareness campaign and increase safety signage at railroad crossings.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Transportation",
+    "current_status": "STR",
     "fiscal_note": null,
     "identical_bill": "A5432",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Transportation Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Gopal, Vin",
@@ -355304,17 +355804,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "081b22ebc360d4e1c06ad8803622c238",
     "bill_id": "S4607",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4607",
     "synopsis": "Expands role and reach of Regional Hub Program.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Health, Human Services and Senior Citizens",
+    "current_status": "SHH",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Mukherji, Raj",
@@ -355338,17 +355845,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "59b1db1a8b391180fbab2264710e83ee",
     "bill_id": "S4608",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4608",
     "synopsis": "Eliminates conviction of indictable offense as automatic disqualifier for jury service under certain circumstances.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Judiciary",
+    "current_status": "SJU",
     "fiscal_note": null,
     "identical_bill": "A1666",
     "last_session_bill": "A834 S292",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "9/28/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+    "last_action_date": "9/28/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Mukherji, Raj",
@@ -355407,6 +355921,630 @@
         "PDFLink": "/Bills/2026/S5000/4609_I1.PDF"
       }
     ],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4611",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4611",
+    "synopsis": "\"Weston's Law\"; extends crime of human trafficking to include recruiting or coercing juvenile to join gang or drug trafficking scheme.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A220",
+    "last_session_bill": "A5961",
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Schepisi, Holly T.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/430/senator-schepisi"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4612",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4612",
+    "synopsis": "\"Stolen Car Accountability Act;\" Creates duty in transportation industry to prevent theft of stolen motor vehicles and permits civil penalties.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A5511",
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Bramnick, Jon M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/433/senator-bramnick"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4613",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4613",
+    "synopsis": "Requires school districts to provide instruction on anaphylaxis as part of New Jersey Student Learning Standards in Comprehensive Health and Physical Education.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Bramnick, Jon M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/433/senator-bramnick"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4614",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4614",
+    "synopsis": "Directs Department of Treasury to transfer to DEP as surplus property certain land and improvements thereon in Township of Wall, County of Monmouth.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Singer, Robert W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/93/senator-singer"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4615",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4615",
+    "synopsis": "Requires newborn screening for congenital cytomegalovirus; makes an appropriation.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Singer, Robert W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/93/senator-singer"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4616",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4616",
+    "synopsis": "Eliminates automatic voter registration at MVC; requires photo identification to vote and biannual audit of voter registration records.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Bucco, Anthony M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/419/senator-bucco"
+      },
+      {
+        "Full_Name": "Corrado, Kristin M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/392/senator-corrado"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4617",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4617",
+    "synopsis": "Regulates appointment of assistant State monitors in certain school districts; revises duties and establishes term limit of State monitor.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Singer, Robert W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/93/senator-singer"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4618",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4618",
+    "synopsis": "Prohibits flags of designated terrorist organizations from being displayed or flown on State property.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A1623",
+    "last_session_bill": "A4417 S3209  ",
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Singer, Robert W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/93/senator-singer"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4619",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4619",
+    "synopsis": "Imposes mandatory minimum term of imprisonment for member of district board of elections who willfully allows person to vote when person is not eligible to vote.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Singer, Robert W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/93/senator-singer"
+      },
+      {
+        "Full_Name": "Amato, Carmen F., Jr.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/465/senator-amato"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4620",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4620",
+    "synopsis": "Requires DOT to study and report on pedestrian safety on South Lakeshore Drive in Township of Pemberton.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Tiver, Latham",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/464/senator-tiver"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4621",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4621",
+    "synopsis": "Requires board of education to award certain transportation contracts to most appropriate bidder; requires board of education to hold transportation meeting prior to awarding certain transportation contracts for students with disabilities.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A500",
+    "last_session_bill": "A6085",
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Bucco, Anthony M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/419/senator-bucco"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4622",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4622",
+    "synopsis": "Requires live streaming, recording, and archiving of certain legislative committee meetings and committee hearings; appropriates funds.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Bucco, Anthony M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/419/senator-bucco"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4623",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4623",
+    "synopsis": "Establishes Unanticipated Revenue Fund; dedicates monies in fund to provision of one-time gross income tax credits to State residents.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Bucco, Anthony M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/419/senator-bucco"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4624",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4624",
+    "synopsis": "Provides for reduced sales tax imposition on certain sales in certain Highlands Region Preservation Area municipalities.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A3810",
+    "last_session_bill": "A3237 S369",
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Bucco, Anthony M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/419/senator-bucco"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4625",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4625",
+    "synopsis": "Requires distribution of State aid to certain municipalities located in whole or in part in the Highlands preservation area.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A3217",
+    "last_session_bill": "A2699",
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Bucco, Anthony M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/419/senator-bucco"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4626",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4626",
+    "synopsis": "Establishes Office of Small Business Advisory Services and Small Business Advisory Accountability Fund; appropriates $2.5 million.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Bucco, Anthony M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/419/senator-bucco"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4627",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4627",
+    "synopsis": "Increases penalties for voting unlawfully and makes it a strict liability offense.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Singer, Robert W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/93/senator-singer"
+      },
+      {
+        "Full_Name": "Amato, Carmen F., Jr.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/465/senator-amato"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4628",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4628",
+    "synopsis": "Permits protective order to be issued against unemancipated minor.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Holzapfel, James W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/334/senator-holzapfel"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4629",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4629",
+    "synopsis": "Amends telehealth and telemedicine law concerning prescription of Schedule II drugs to certain patients.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Johnson, Gordon M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/434/senator-johnson"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4630",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4630",
+    "synopsis": "Makes FY2027 supplemental appropriation of $400,000 to DHS for NJ 2-1-1 Partnership Operating Aid.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Johnson, Gordon M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/434/senator-johnson"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4631",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4631",
+    "synopsis": "Amends FY2027 appropriations act to reassign a portion of appropriation for Eid Committee of New Jersey to Cultural Society of Bergen County to support Mom's Food Pantry.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A5442",
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Johnson, Gordon M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/434/senator-johnson"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
     "committee_votes": [],
     "floor_votes": [],
     "committee_roll_calls": [],

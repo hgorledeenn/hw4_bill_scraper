@@ -1,0 +1,3135 @@
+{
+  "date": "2026-09-28",
+  "additions": [
+    {
+      "bill_id": "S4611",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4611",
+      "action": null
+    },
+    {
+      "bill_id": "S4612",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4612",
+      "action": null
+    },
+    {
+      "bill_id": "S4613",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4613",
+      "action": null
+    },
+    {
+      "bill_id": "S4614",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4614",
+      "action": null
+    },
+    {
+      "bill_id": "S4615",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4615",
+      "action": null
+    },
+    {
+      "bill_id": "S4616",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4616",
+      "action": null
+    },
+    {
+      "bill_id": "S4617",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4617",
+      "action": null
+    },
+    {
+      "bill_id": "S4618",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4618",
+      "action": null
+    },
+    {
+      "bill_id": "S4619",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4619",
+      "action": null
+    },
+    {
+      "bill_id": "S4620",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4620",
+      "action": null
+    },
+    {
+      "bill_id": "S4621",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4621",
+      "action": null
+    },
+    {
+      "bill_id": "S4622",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4622",
+      "action": null
+    },
+    {
+      "bill_id": "S4623",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4623",
+      "action": null
+    },
+    {
+      "bill_id": "S4624",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4624",
+      "action": null
+    },
+    {
+      "bill_id": "S4625",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4625",
+      "action": null
+    },
+    {
+      "bill_id": "S4626",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4626",
+      "action": null
+    },
+    {
+      "bill_id": "S4627",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4627",
+      "action": null
+    },
+    {
+      "bill_id": "S4628",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4628",
+      "action": null
+    },
+    {
+      "bill_id": "S4629",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4629",
+      "action": null
+    },
+    {
+      "bill_id": "S4630",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4630",
+      "action": null
+    },
+    {
+      "bill_id": "S4631",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4631",
+      "action": null
+    }
+  ],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S2962",
+      "changes": {
+        "content_hash": {
+          "from": "13cd4992794ebd8d74a41841b30a9621",
+          "to": "7b1969a52748a7aedca7586cc1283514"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (36-0)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Education Committee"
+            },
+            {
+              "ActionDate": "6/15/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A2746"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (36-0)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Education Committee"
+            },
+            {
+              "ActionDate": "6/15/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A2746"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (79-0-0)"
+            },
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Approved P.L., 2026 c.93."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (79-0-0)",
+          "to": "Approved P.L., 2026 c.93."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/28/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S3739",
+      "changes": {
+        "content_hash": {
+          "from": "1631decc03d2e4057c5d1524e691028f",
+          "to": "d18299af550b9b98fa9dd7898757c7d1"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "3/5/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            },
+            {
+              "ActionDate": "3/10/2026",
+              "HistoryAction": "Transferred to Senate Transportation Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (31-4)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Recommitted to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4530 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (58-19-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (27-11)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "3/5/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            },
+            {
+              "ActionDate": "3/10/2026",
+              "HistoryAction": "Transferred to Senate Transportation Committee"
+            },
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Passed by the Senate (31-4)"
+            },
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Recommitted to Assembly Budget Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A4530 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Assembly (58-19-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Senate (Passed Both Houses) (27-11)"
+            },
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Approved P.L., 2026 c.94"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Senate (Passed Both Houses) (27-11)",
+          "to": "Approved P.L., 2026 c.94"
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/28/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S4193",
+      "changes": {
+        "content_hash": {
+          "from": "6569d00eb96aab9c70f851f902618789",
+          "to": "dc32cb176372d381d4b58489099a7440"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Transferred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (29-11)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5119 (1R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (75-2-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Transferred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (29-11)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5119 (1R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (75-2-0)"
+            },
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Approved P.L., 2026 c.95."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (75-2-0)",
+          "to": "Approved P.L., 2026 c.95."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/28/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S4413",
+      "changes": {
+        "content_hash": {
+          "from": "35bc4320e768281d1fe3c4391c590b3a",
+          "to": "cc20d1b194f3c32036e63be850241e83"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (31-6)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5235 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (71-0-8)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (31-6)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5235 (2R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (71-0-8)"
+            },
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Approved P.L., 2026 c.92."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (71-0-8)",
+          "to": "Approved P.L., 2026 c.92."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/28/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S4420",
+      "changes": {
+        "content_hash": {
+          "from": "850e630c74b853ac70b114362414d778",
+          "to": "181b275bcc0993064deefd923f2d9565"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/24/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (36-2)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5232 (1R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (71-7-1)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/24/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (36-2)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5232 (1R)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (71-7-1)"
+            },
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Approved P.L., 2026. c.96."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (71-7-1)",
+          "to": "Approved P.L., 2026. c.96."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4515",
+      "changes": {
+        "content_hash": {
+          "from": "0137329d64b5a3e2e6049218115b5409",
+          "to": "e0c420c79a32362a4e810899cef5e124"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/22/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (35-3)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5350"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (50-15-4)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/22/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (35-3)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Substituted for A5350"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (50-15-4)"
+            },
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Approved P.L.2026., c.97."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (50-15-4)",
+          "to": "Approved P.L.2026., c.97."
+        },
+        "last_action_date": {
+          "from": "6/30/2026",
+          "to": "9/28/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S4539",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5732995719a3b7989fd0479c343e2ed4"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4540",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "081b22ebc360d4e1c06ad8803622c238"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4541",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "081b22ebc360d4e1c06ad8803622c238"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "identical_bill": {
+          "from": null,
+          "to": "A5501  "
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4542",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "081b22ebc360d4e1c06ad8803622c238"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4543",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "582964dcfe5db9780fe703031aa13b1b"
+        },
+        "committee": {
+          "from": "",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SBA"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Budget and Appropriations Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4544",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "606ac17ed3fdb5803342770fa5b5e123"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4545",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "606ac17ed3fdb5803342770fa5b5e123"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4546",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "62b6b06664a72f0bc821d58fb5a7242a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4547",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "283f9f181d12bad4461396538b712dd8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4548",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "283f9f181d12bad4461396538b712dd8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4549",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9be5c2cc031d310cc3cd14b1b0163daa"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4550",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "081b22ebc360d4e1c06ad8803622c238"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4551",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "283f9f181d12bad4461396538b712dd8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4552",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4e844f93fbdb5019ee98160fccbe7c16"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4553",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4e844f93fbdb5019ee98160fccbe7c16"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4554",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4e844f93fbdb5019ee98160fccbe7c16"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4555",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "3ff717b647fdaea5552399b1f502fbb8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4556",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "62b6b06664a72f0bc821d58fb5a7242a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4557",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9be5c2cc031d310cc3cd14b1b0163daa"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4558",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "62b6b06664a72f0bc821d58fb5a7242a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4559",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "3ff717b647fdaea5552399b1f502fbb8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4560",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "606ac17ed3fdb5803342770fa5b5e123"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4561",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9be5c2cc031d310cc3cd14b1b0163daa"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4562",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "283f9f181d12bad4461396538b712dd8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4563",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "62b6b06664a72f0bc821d58fb5a7242a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4564",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "3f9317f2a92c51ad19cfbb1e4f75b1e7"
+        },
+        "committee": {
+          "from": "",
+          "to": "Labor"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLA"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Labor Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4565",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "62b6b06664a72f0bc821d58fb5a7242a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4566",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4e844f93fbdb5019ee98160fccbe7c16"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4567",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "283f9f181d12bad4461396538b712dd8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4568",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9be5c2cc031d310cc3cd14b1b0163daa"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4569",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4e844f93fbdb5019ee98160fccbe7c16"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4570",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4e844f93fbdb5019ee98160fccbe7c16"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4571",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4e844f93fbdb5019ee98160fccbe7c16"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4572",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4e844f93fbdb5019ee98160fccbe7c16"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4573",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9be5c2cc031d310cc3cd14b1b0163daa"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4574",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "59b1db1a8b391180fbab2264710e83ee"
+        },
+        "committee": {
+          "from": "",
+          "to": "Judiciary"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SJU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4575",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "59b1db1a8b391180fbab2264710e83ee"
+        },
+        "committee": {
+          "from": "",
+          "to": "Judiciary"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SJU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4576",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "3ff717b647fdaea5552399b1f502fbb8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4577",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "62a765e8f37c9eda389e8a9fe37af475"
+        },
+        "committee": {
+          "from": "",
+          "to": "Higher Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHI"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4578",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "62b6b06664a72f0bc821d58fb5a7242a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4579",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "081b22ebc360d4e1c06ad8803622c238"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4580",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "3f9317f2a92c51ad19cfbb1e4f75b1e7"
+        },
+        "committee": {
+          "from": "",
+          "to": "Labor"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLA"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Labor Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4581",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4e844f93fbdb5019ee98160fccbe7c16"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4582",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "081b22ebc360d4e1c06ad8803622c238"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4583",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "081b22ebc360d4e1c06ad8803622c238"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "identical_bill": {
+          "from": "A5375",
+          "to": "A5375  "
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4584",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4e844f93fbdb5019ee98160fccbe7c16"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "identical_bill": {
+          "from": "A5377",
+          "to": "A5377  "
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4585",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "283f9f181d12bad4461396538b712dd8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4586",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "59b1db1a8b391180fbab2264710e83ee"
+        },
+        "committee": {
+          "from": "",
+          "to": "Judiciary"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SJU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4587",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5732995719a3b7989fd0479c343e2ed4"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4588",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "62a765e8f37c9eda389e8a9fe37af475"
+        },
+        "committee": {
+          "from": "",
+          "to": "Higher Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHI"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4589",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "3ff717b647fdaea5552399b1f502fbb8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4590",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5732995719a3b7989fd0479c343e2ed4"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4591",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "606ac17ed3fdb5803342770fa5b5e123"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4592",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9be5c2cc031d310cc3cd14b1b0163daa"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4593",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9be5c2cc031d310cc3cd14b1b0163daa"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4594",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9be5c2cc031d310cc3cd14b1b0163daa"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4595",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "283f9f181d12bad4461396538b712dd8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4596",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5732995719a3b7989fd0479c343e2ed4"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4597",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5732995719a3b7989fd0479c343e2ed4"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4598",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "59b1db1a8b391180fbab2264710e83ee"
+        },
+        "committee": {
+          "from": "",
+          "to": "Judiciary"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SJU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4599",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "62b6b06664a72f0bc821d58fb5a7242a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4600",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "081b22ebc360d4e1c06ad8803622c238"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4601",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "3ff717b647fdaea5552399b1f502fbb8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4602",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "62b6b06664a72f0bc821d58fb5a7242a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4603",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "62b6b06664a72f0bc821d58fb5a7242a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4604",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4e844f93fbdb5019ee98160fccbe7c16"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4605",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "3f9317f2a92c51ad19cfbb1e4f75b1e7"
+        },
+        "committee": {
+          "from": "",
+          "to": "Labor"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLA"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Labor Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4606",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "a0de55f2e7e3d4649f77f53aba14878a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Transportation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "STR"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Transportation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4607",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "081b22ebc360d4e1c06ad8803622c238"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4608",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "59b1db1a8b391180fbab2264710e83ee"
+        },
+        "committee": {
+          "from": "",
+          "to": "Judiciary"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SJU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "9/28/2026"
+        }
+      }
+    }
+  ]
+}
