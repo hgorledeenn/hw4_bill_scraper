@@ -1,0 +1,1847 @@
+{
+  "date": "2026-10-08",
+  "additions": [
+    {
+      "bill_id": "S4802",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4802",
+      "action": null
+    },
+    {
+      "bill_id": "S4803",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4803",
+      "action": null
+    },
+    {
+      "bill_id": "S4804",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4804",
+      "action": null
+    },
+    {
+      "bill_id": "S4805",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4805",
+      "action": null
+    },
+    {
+      "bill_id": "S4806",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4806",
+      "action": null
+    },
+    {
+      "bill_id": "S4807",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4807",
+      "action": null
+    },
+    {
+      "bill_id": "S4808",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4808",
+      "action": null
+    },
+    {
+      "bill_id": "S4810",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4810",
+      "action": null
+    },
+    {
+      "bill_id": "S4811",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4811",
+      "action": null
+    },
+    {
+      "bill_id": "S4812",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4812",
+      "action": null
+    },
+    {
+      "bill_id": "S4813",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4813",
+      "action": null
+    },
+    {
+      "bill_id": "S4814",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4814",
+      "action": null
+    },
+    {
+      "bill_id": "S4815",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4815",
+      "action": null
+    },
+    {
+      "bill_id": "S4816",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4816",
+      "action": null
+    }
+  ],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S681",
+      "changes": {
+        "content_hash": {
+          "from": "f00990d450d2f84ac18cdc0ad9bd18a2",
+          "to": "a6f0e1b34e3d2d96d225e02aa3a4364f"
+        },
+        "committee": {
+          "from": "Environment and Energy",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEN",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+          "to": "Reported from Senate Committee with Amendments, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "1/13/2026",
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S739",
+      "changes": {
+        "content_hash": {
+          "from": "b34daa8cb3b6dd58f07d8a5fe22dad12",
+          "to": "bd214a87e68a789b5c89219bbe4e97fd"
+        },
+        "committee": {
+          "from": "Economic Growth",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEG",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+          "to": "Reported from Senate Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "1/13/2026",
+          "to": "10/8/2026"
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEG",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Cruz-Perez, Nilsa I.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Corrado, Kristin M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Pennacchio, Joseph",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Timberlake, Britnee N.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S1768",
+      "changes": {
+        "content_hash": {
+          "from": "b34daa8cb3b6dd58f07d8a5fe22dad12",
+          "to": "bd214a87e68a789b5c89219bbe4e97fd"
+        },
+        "committee": {
+          "from": "Economic Growth",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEG",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+          "to": "Reported from Senate Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "1/13/2026",
+          "to": "10/8/2026"
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEG",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Cruz-Perez, Nilsa I.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Corrado, Kristin M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Pennacchio, Joseph",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Timberlake, Britnee N.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S1779",
+      "changes": {
+        "content_hash": {
+          "from": "b34daa8cb3b6dd58f07d8a5fe22dad12",
+          "to": "78f1ce0a324f3604c290a34dd35cba51"
+        },
+        "committee": {
+          "from": "Economic Growth",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEG",
+          "to": "2RS"
+        },
+        "identical_bill": {
+          "from": null,
+          "to": "A171"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+          "to": "Reported from Senate Committee with Amendments, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "1/13/2026",
+          "to": "10/8/2026"
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEG",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Cruz-Perez, Nilsa I.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Corrado, Kristin M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Pennacchio, Joseph",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Timberlake, Britnee N.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S2359",
+      "changes": {
+        "content_hash": {
+          "from": "f00990d450d2f84ac18cdc0ad9bd18a2",
+          "to": "a6f0e1b34e3d2d96d225e02aa3a4364f"
+        },
+        "committee": {
+          "from": "Environment and Energy",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEN",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+          "to": "Reported from Senate Committee with Amendments, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "1/13/2026",
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S3225",
+      "changes": {
+        "content_hash": {
+          "from": "317460f1b7017f1ed3adf0690ef0ab5b",
+          "to": "9df14b8017d4c9a0935b696762222062"
+        },
+        "committee": {
+          "from": "Economic Growth",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEG",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "2/2/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "2/2/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+          "to": "Reported from Senate Committee with Amendments, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "2/2/2026",
+          "to": "10/8/2026"
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEG",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Cruz-Perez, Nilsa I.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Corrado, Kristin M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Pennacchio, Joseph",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Timberlake, Britnee N.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S3800",
+      "changes": {
+        "content_hash": {
+          "from": "45c08ae5671ad2199e4ef87aeb383592",
+          "to": "079cf8b32c3f54a1b17c9fa5abbe5364"
+        },
+        "committee": {
+          "from": "Economic Growth",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEG",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "3/5/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "3/5/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+          "to": "Reported from Senate Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "3/5/2026",
+          "to": "10/8/2026"
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEG",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Cruz-Perez, Nilsa I.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Corrado, Kristin M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Pennacchio, Joseph",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Timberlake, Britnee N.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4052",
+      "changes": {
+        "content_hash": {
+          "from": "731316eb2bde0391f44da43f1693ad08",
+          "to": "2a21d4dcccdcdd96966055163506020f"
+        },
+        "committee": {
+          "from": "Economic Growth",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEG",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+          "to": "Reported from Senate Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "3/23/2026",
+          "to": "10/8/2026"
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEG",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 3,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 2,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Cruz-Perez, Nilsa I.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Abstain",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Corrado, Kristin M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Pennacchio, Joseph",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Timberlake, Britnee N.",
+              "Vote": "Abstain",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4214",
+      "changes": {
+        "content_hash": {
+          "from": "52c5b365df26caf76054dd4727326b02",
+          "to": "b5815a586c84306ca6bd5af618fb1297"
+        },
+        "committee": {
+          "from": "Environment and Energy",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEN",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+          "to": "Reported from Senate Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "5/11/2026",
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4400",
+      "changes": {
+        "content_hash": {
+          "from": "f3952e614acf475eba4b1ae2f8d20d2e",
+          "to": "8014c0e690feb24f0c72672a0c130a91"
+        },
+        "committee": {
+          "from": "Environment and Energy",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEN",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+          "to": "Reported from Senate Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "6/4/2026",
+          "to": "10/8/2026"
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEN",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Smith, Bob",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKeon, John F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4468",
+      "changes": {
+        "content_hash": {
+          "from": "3589e161de212b355d8da3c9f64bfa50",
+          "to": "f94443de3cc91aabe4fa95ea4e842306"
+        },
+        "committee": {
+          "from": "Environment and Energy",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEN",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/15/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/15/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+          "to": "Reported from Senate Committee with Amendments, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "6/15/2026",
+          "to": "10/8/2026"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "Tiver, Latham",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/464/senator-tiver"
+            }
+          ]
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEN",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Smith, Bob",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKeon, John F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4636",
+      "changes": {
+        "content_hash": {
+          "from": "67461ec1daf9cbf49d82c13e8a0f7842",
+          "to": "b55700ea01af31de756ba5a6f1a32f31"
+        },
+        "committee": {
+          "from": "Environment and Energy",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEN",
+          "to": "2RS"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+          "to": "Reported from Senate Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "10/1/2026",
+          "to": "10/8/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 5,
+              "HTML_Link": "/Bills/2026/S5000/4636_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4636_I1.PDF"
+            }
+          ]
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEN",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Smith, Bob",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKeon, John F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4677",
+      "changes": {
+        "content_hash": {
+          "from": "e48c6320cc9fd26583beb05b54091b1e",
+          "to": "f7f2c45f3360622d9337551ab5365dbe"
+        },
+        "committee": {
+          "from": "Economic Growth",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEG",
+          "to": "2RS"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "identical_bill": {
+          "from": null,
+          "to": "A5621  "
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+          "to": "Reported from Senate Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "10/1/2026",
+          "to": "10/8/2026"
+        },
+        "prime_sponsors": {
+          "from": [
+            {
+              "Full_Name": "Burzichelli, John J.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/458/senator-burzichelli"
+            }
+          ],
+          "to": [
+            {
+              "Full_Name": "Burzichelli, John J.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/458/senator-burzichelli"
+            },
+            {
+              "Full_Name": "McKnight, Angela V.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/483/senator-mcknight"
+            }
+          ]
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S5000/4677_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4677_I1.PDF"
+            }
+          ]
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEG",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Cruz-Perez, Nilsa I.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Corrado, Kristin M.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Pennacchio, Joseph",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Timberlake, Britnee N.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:30:00.000Z",
+              "CommitteeHouse": "SEG",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 2
+        }
+      }
+    },
+    {
+      "bill_id": "S4729",
+      "changes": {
+        "content_hash": {
+          "from": "2e7cb5a2a6a797325fafa580f8b570f5",
+          "to": "8534b016a5282d55826148438b552aab"
+        },
+        "committee": {
+          "from": "Environment and Energy",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SEN",
+          "to": "2RS"
+        },
+        "identical_bill": {
+          "from": null,
+          "to": "A5636"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "10/5/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "10/5/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+          "to": "Reported from Senate Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "10/5/2026",
+          "to": "10/8/2026"
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEN",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Smith, Bob",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKeon, John F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4792",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "aafde63287f1e419c41c9b88ed2f51bd"
+        },
+        "committee": {
+          "from": "",
+          "to": "Transportation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "STR"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Transportation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4793",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5d397b5efbb391c3f18c29cca6f9b07f"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4794",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "0169472ac741a42e739ef810f293c130"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4795",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4ebcfa035584555673d57279f51efff6"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4796",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "0169472ac741a42e739ef810f293c130"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4797",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "c7663eed3b8d55caae3792ea2777ce0e"
+        },
+        "committee": {
+          "from": "",
+          "to": "Labor"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLA"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Labor Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4798",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "00c96490e2837d538d08cf062a893b41"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4799",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "2548f58c69cfa432d7676bd69c444c9d"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4800",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "0169472ac741a42e739ef810f293c130"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/8/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4801",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4ebcfa035584555673d57279f51efff6"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/8/2026"
+        }
+      }
+    }
+  ]
+}

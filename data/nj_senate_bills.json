@@ -43262,13 +43262,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "f00990d450d2f84ac18cdc0ad9bd18a2",
+    "content_hash": "a6f0e1b34e3d2d96d225e02aa3a4364f",
     "bill_id": "S681",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S681",
     "synopsis": "\"Electronic Cigarette Extended Producer Responsibility Act.\"",
-    "committee": "Environment and Energy",
-    "current_status": "SEN",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": null,
     "last_session_bill": "S4271",
@@ -43276,10 +43276,14 @@
       {
         "ActionDate": "1/13/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
-    "last_action_date": "1/13/2026",
+    "last_action": "Reported from Senate Committee with Amendments, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Smith, Bob",
@@ -48346,13 +48350,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "b34daa8cb3b6dd58f07d8a5fe22dad12",
+    "content_hash": "bd214a87e68a789b5c89219bbe4e97fd",
     "bill_id": "S739",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S739",
     "synopsis": "\"New Jersey Loves New Jersey Farmers Act\"; provides corporation business tax credits and gross income tax credits to commercial farm operators for price loss.",
-    "committee": "Economic Growth",
-    "current_status": "SEG",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A3431",
     "last_session_bill": "S4469 A5714",
@@ -48360,10 +48364,14 @@
       {
         "ActionDate": "1/13/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
-    "last_action_date": "1/13/2026",
+    "last_action": "Reported from Senate Committee, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Burzichelli, John J.",
@@ -48386,9 +48394,69 @@
         "PDFLink": "/Bills/2026/S1000/739_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SEG",
+        "Agenda_Date": "10/8/2026",
+        "Action": "r/favorably",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Cruz-Perez, Nilsa I.",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Turner, Shirley K.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Corrado, Kristin M.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Pennacchio, Joseph",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Timberlake, Britnee N.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": 2,
@@ -122828,13 +122896,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "b34daa8cb3b6dd58f07d8a5fe22dad12",
+    "content_hash": "bd214a87e68a789b5c89219bbe4e97fd",
     "bill_id": "S1768",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S1768",
     "synopsis": "Requires stress testing on State's ability to provide services in various economic conditions.",
-    "committee": "Economic Growth",
-    "current_status": "SEG",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A2029",
     "last_session_bill": "S1411 A1416",
@@ -122842,10 +122910,14 @@
       {
         "ActionDate": "1/13/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
-    "last_action_date": "1/13/2026",
+    "last_action": "Reported from Senate Committee, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Singleton, Troy",
@@ -122884,9 +122956,69 @@
         "PDFLink": "/Bills/2026/S2000/1768_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SEG",
+        "Agenda_Date": "10/8/2026",
+        "Action": "r/favorably",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Cruz-Perez, Nilsa I.",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Turner, Shirley K.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Corrado, Kristin M.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Pennacchio, Joseph",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Timberlake, Britnee N.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": 2,
@@ -123960,24 +124092,28 @@
     "governor_action": null
   },
   {
-    "content_hash": "b34daa8cb3b6dd58f07d8a5fe22dad12",
+    "content_hash": "78f1ce0a324f3604c290a34dd35cba51",
     "bill_id": "S1779",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S1779",
     "synopsis": "Establishes Downtown Economic Growth Program to encourage business development in certain small municipalities.",
-    "committee": "Economic Growth",
-    "current_status": "SEG",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
-    "identical_bill": null,
+    "identical_bill": "A171",
     "last_session_bill": "S1435 (1R) A193",
     "history": [
       {
         "ActionDate": "1/13/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
-    "last_action_date": "1/13/2026",
+    "last_action": "Reported from Senate Committee with Amendments, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Singleton, Troy",
@@ -124000,9 +124136,69 @@
         "PDFLink": "/Bills/2026/S2000/1779_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SEG",
+        "Agenda_Date": "10/8/2026",
+        "Action": "r/Sca",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Cruz-Perez, Nilsa I.",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Turner, Shirley K.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Corrado, Kristin M.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Pennacchio, Joseph",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Timberlake, Britnee N.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": 2,
@@ -162970,13 +163166,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "f00990d450d2f84ac18cdc0ad9bd18a2",
+    "content_hash": "a6f0e1b34e3d2d96d225e02aa3a4364f",
     "bill_id": "S2359",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S2359",
     "synopsis": "\"Mattress Stewardship Act;\" requires mattress producers to join stewardship organization and implement mattress stewardship program.",
-    "committee": "Environment and Energy",
-    "current_status": "SEN",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A1651",
     "last_session_bill": "S4626 A6054",
@@ -162984,10 +163180,14 @@
       {
         "ActionDate": "1/13/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
-    "last_action_date": "1/13/2026",
+    "last_action": "Reported from Senate Committee with Amendments, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKeon, John F.",
@@ -227128,13 +227328,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "317460f1b7017f1ed3adf0690ef0ab5b",
+    "content_hash": "9df14b8017d4c9a0935b696762222062",
     "bill_id": "S3225",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3225",
     "synopsis": "Prohibits public utilities from assessing surcharges and certain fees.",
-    "committee": "Economic Growth",
-    "current_status": "SEG",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": null,
     "last_session_bill": "S4352",
@@ -227142,10 +227342,14 @@
       {
         "ActionDate": "2/2/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
-    "last_action_date": "2/2/2026",
+    "last_action": "Reported from Senate Committee with Amendments, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Turner, Shirley K.",
@@ -227163,9 +227367,69 @@
         "PDFLink": "/Bills/2026/S3500/3225_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SEG",
+        "Agenda_Date": "10/8/2026",
+        "Action": "r/Sca",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Cruz-Perez, Nilsa I.",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Turner, Shirley K.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Corrado, Kristin M.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Pennacchio, Joseph",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Timberlake, Britnee N.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": null,
@@ -273801,13 +274065,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "45c08ae5671ad2199e4ef87aeb383592",
+    "content_hash": "079cf8b32c3f54a1b17c9fa5abbe5364",
     "bill_id": "S3800",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3800",
     "synopsis": "Requires EDA to include social media development services in services offered through Small Business E-commerce Support Program.",
-    "committee": "Economic Growth",
-    "current_status": "SEG",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A3071",
     "last_session_bill": "A5423 S4292",
@@ -273815,10 +274079,14 @@
       {
         "ActionDate": "3/5/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
-    "last_action_date": "3/5/2026",
+    "last_action": "Reported from Senate Committee, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Ruiz, M. Teresa",
@@ -273836,9 +274104,69 @@
         "PDFLink": "/Bills/2026/S4000/3800_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SEG",
+        "Agenda_Date": "10/8/2026",
+        "Action": "r/favorably",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Cruz-Perez, Nilsa I.",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Turner, Shirley K.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Corrado, Kristin M.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Pennacchio, Joseph",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Timberlake, Britnee N.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": null,
@@ -295272,13 +295600,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "731316eb2bde0391f44da43f1693ad08",
+    "content_hash": "2a21d4dcccdcdd96966055163506020f",
     "bill_id": "S4052",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4052",
     "synopsis": "\"Public Utility Rate Stabilization Act\"; permits gas and electric public utilities to employ alternative ratemaking mechanisms.",
-    "committee": "Economic Growth",
-    "current_status": "SEG",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A3608",
     "last_session_bill": "A6123",
@@ -295286,10 +295614,14 @@
       {
         "ActionDate": "3/23/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
-    "last_action_date": "3/23/2026",
+    "last_action": "Reported from Senate Committee, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Burzichelli, John J.",
@@ -295318,9 +295650,69 @@
         "PDFLink": "/Bills/2026/S4500/4052_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SEG",
+        "Agenda_Date": "10/8/2026",
+        "Action": "r/favorably",
+        "Votes_Yes": 3,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 2,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Cruz-Perez, Nilsa I.",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Turner, Shirley K.",
+        "Vote": "Abstain",
+        "Position": "(V)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Corrado, Kristin M.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Pennacchio, Joseph",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Timberlake, Britnee N.",
+        "Vote": "Abstain",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": 2,
@@ -310068,13 +310460,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "52c5b365df26caf76054dd4727326b02",
+    "content_hash": "b5815a586c84306ca6bd5af618fb1297",
     "bill_id": "S4214",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4214",
     "synopsis": "Codifies finding that greenhouse gas emissions contribute to climate change and endanger public health, safety, welfare, and environment; amends \"Air Pollution Control Act (1954)\" to define greenhouse gases as air pollutants subject to regulation.",
-    "committee": "Environment and Energy",
-    "current_status": "SEN",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": null,
     "last_session_bill": null,
@@ -310082,10 +310474,14 @@
       {
         "ActionDate": "5/11/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
-    "last_action_date": "5/11/2026",
+    "last_action": "Reported from Senate Committee, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Mukherji, Raj",
@@ -330860,13 +331256,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "f3952e614acf475eba4b1ae2f8d20d2e",
+    "content_hash": "8014c0e690feb24f0c72672a0c130a91",
     "bill_id": "S4400",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4400",
     "synopsis": "Requires DEP to conduct study of short and long term effects of water use by large-scale data centers.",
-    "committee": "Environment and Energy",
-    "current_status": "SEN",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A3966 (1R)",
     "last_session_bill": "A5892",
@@ -330874,10 +331270,14 @@
       {
         "ActionDate": "6/4/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
-    "last_action_date": "6/4/2026",
+    "last_action": "Reported from Senate Committee, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Diegnan, Patrick J., Jr.",
@@ -330900,9 +331300,69 @@
         "PDFLink": "/Bills/2026/S4500/4400_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SEN",
+        "Agenda_Date": "10/8/2026",
+        "Action": "r/favorably",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-08T10:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Smith, Bob",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Greenstein, Linda R.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "McKeon, John F.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Space, Parker",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Tiver, Latham",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": 2,
@@ -345675,13 +346135,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "3589e161de212b355d8da3c9f64bfa50",
+    "content_hash": "f94443de3cc91aabe4fa95ea4e842306",
     "bill_id": "S4468",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4468",
     "synopsis": "Requires DEP to establish maximum contaminant level for certain perfluoroalkyl and polyfluoroalkyl substances in drinking water and establish private well testing program.",
-    "committee": "Environment and Energy",
-    "current_status": "SEN",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": null,
     "last_session_bill": null,
@@ -345689,10 +346149,14 @@
       {
         "ActionDate": "6/15/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
-    "last_action_date": "6/15/2026",
+    "last_action": "Reported from Senate Committee with Amendments, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Turner, Shirley K.",
@@ -345705,7 +346169,13 @@
         "BioLink": "/legislative-roster/329/senator-greenstein"
       }
     ],
-    "cosponsors": [],
+    "cosponsors": [
+      {
+        "Full_Name": "Tiver, Latham",
+        "SponsorDescription": " as Co-Sponsor",
+        "BioLink": "/legislative-roster/464/senator-tiver"
+      }
+    ],
     "documents": [
       {
         "Description": "Introduced",
@@ -345715,9 +346185,69 @@
         "PDFLink": "/Bills/2026/S4500/4468_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SEN",
+        "Agenda_Date": "10/8/2026",
+        "Action": "r/Sca",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-08T10:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Smith, Bob",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Greenstein, Linda R.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "McKeon, John F.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Space, Parker",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Tiver, Latham",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": 2,
@@ -362011,24 +362541,28 @@
     "governor_action": null
   },
   {
-    "content_hash": "67461ec1daf9cbf49d82c13e8a0f7842",
+    "content_hash": "b55700ea01af31de756ba5a6f1a32f31",
     "bill_id": "S4636",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4636",
     "synopsis": "Establishes NJ Native Seed Commission to develop plan to increase production and use of native seeds in State.",
-    "committee": "Environment and Energy",
-    "current_status": "SEN",
-    "fiscal_note": null,
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
+    "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A1517 (1R)",
     "last_session_bill": "A3027",
     "history": [
       {
         "ActionDate": "10/1/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
-    "last_action_date": "10/1/2026",
+    "last_action": "Reported from Senate Committee, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Greenstein, Linda R.",
@@ -362037,10 +362571,78 @@
       }
     ],
     "cosponsors": [],
-    "documents": [],
-    "committee_votes": [],
+    "documents": [
+      {
+        "Description": "Introduced",
+        "DocumentComment": "",
+        "Number_Of_Pages": 5,
+        "HTML_Link": "/Bills/2026/S5000/4636_I1.HTM",
+        "PDFLink": "/Bills/2026/S5000/4636_I1.PDF"
+      }
+    ],
+    "committee_votes": [
+      {
+        "House": "SEN",
+        "Agenda_Date": "10/8/2026",
+        "Action": "r/favorably",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-08T10:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Smith, Bob",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Greenstein, Linda R.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "McKeon, John F.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Space, Parker",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Tiver, Latham",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": null,
@@ -364147,39 +364749,116 @@
     "governor_action": null
   },
   {
-    "content_hash": "e48c6320cc9fd26583beb05b54091b1e",
+    "content_hash": "f7f2c45f3360622d9337551ab5365dbe",
     "bill_id": "S4677",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4677",
     "synopsis": "Requires electric public utilities to notify customers of Residential Universal Bill Credit.",
-    "committee": "Economic Growth",
-    "current_status": "SEG",
-    "fiscal_note": null,
-    "identical_bill": null,
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
+    "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
+    "identical_bill": "A5621  ",
     "last_session_bill": null,
     "history": [
       {
         "ActionDate": "10/1/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
-    "last_action_date": "10/1/2026",
+    "last_action": "Reported from Senate Committee, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Burzichelli, John J.",
         "SponsorDescription": " as Primary Sponsor",
         "BioLink": "/legislative-roster/458/senator-burzichelli"
+      },
+      {
+        "Full_Name": "McKnight, Angela V.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/483/senator-mcknight"
       }
     ],
     "cosponsors": [],
-    "documents": [],
-    "committee_votes": [],
+    "documents": [
+      {
+        "Description": "Introduced",
+        "DocumentComment": "",
+        "Number_Of_Pages": 2,
+        "HTML_Link": "/Bills/2026/S5000/4677_I1.HTM",
+        "PDFLink": "/Bills/2026/S5000/4677_I1.PDF"
+      }
+    ],
+    "committee_votes": [
+      {
+        "House": "SEG",
+        "Agenda_Date": "10/8/2026",
+        "Action": "r/favorably",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-08T10:30:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Cruz-Perez, Nilsa I.",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Turner, Shirley K.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Corrado, Kristin M.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Pennacchio, Joseph",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Timberlake, Britnee N.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:30:00.000Z",
+        "CommitteeHouse": "SEG",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
-    "num_prime_sponsors": null,
+    "num_prime_sponsors": 2,
     "governor_action": null
   },
   {
@@ -366165,24 +366844,28 @@
     "governor_action": null
   },
   {
-    "content_hash": "2e7cb5a2a6a797325fafa580f8b570f5",
+    "content_hash": "8534b016a5282d55826148438b552aab",
     "bill_id": "S4729",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4729",
     "synopsis": "Modifies geographic restrictions for solar energy projects participating in community solar program.",
-    "committee": "Environment and Energy",
-    "current_status": "SEN",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
-    "identical_bill": null,
+    "identical_bill": "A5636",
     "last_session_bill": null,
     "history": [
       {
         "ActionDate": "10/5/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      },
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Reported from Senate Committee, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
-    "last_action_date": "10/5/2026",
+    "last_action": "Reported from Senate Committee, 2nd Reading",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Scutari, Nicholas P.",
@@ -366200,9 +366883,69 @@
         "PDFLink": "/Bills/2026/S5000/4729_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SEN",
+        "Agenda_Date": "10/8/2026",
+        "Action": "r/favorably",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-08T10:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Smith, Bob",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Greenstein, Linda R.",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "McKeon, John F.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Space, Parker",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Tiver, Latham",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-08T10:00:00.000Z",
+        "CommitteeHouse": "SEN",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": null,
@@ -368954,17 +369697,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "aafde63287f1e419c41c9b88ed2f51bd",
     "bill_id": "S4792",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4792",
     "synopsis": "Authorizes creation of childhood cancer awareness license plates.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Transportation",
+    "current_status": "STR",
     "fiscal_note": null,
     "identical_bill": "A3764",
     "last_session_bill": "A989",
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Transportation Committee",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Bucco, Anthony M.",
@@ -368983,17 +369733,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "5d397b5efbb391c3f18c29cca6f9b07f",
     "bill_id": "S4793",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4793",
     "synopsis": "Establishes and requires use of Medicaid preferred drug list.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Health, Human Services and Senior Citizens",
+    "current_status": "SHH",
     "fiscal_note": null,
     "identical_bill": "A5578",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Vitale, Joseph F.",
@@ -369012,17 +369769,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "0169472ac741a42e739ef810f293c130",
     "bill_id": "S4794",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4794",
     "synopsis": "Requires new and existing registered voters to provide proof of United States citizenship in order to vote in State and local elections.",
-    "committee": "",
-    "current_status": null,
+    "committee": "State Government, Wagering, Tourism & Historic Preservation",
+    "current_status": "SSG",
     "fiscal_note": null,
     "identical_bill": "A5573",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Space, Parker",
@@ -369046,17 +369810,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4ebcfa035584555673d57279f51efff6",
     "bill_id": "S4795",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4795",
     "synopsis": "Requires public school employee to be natural person.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Education",
+    "current_status": "SED",
     "fiscal_note": null,
     "identical_bill": "A5529",
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Education Committee",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Burzichelli, John J.",
@@ -369075,17 +369846,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "0169472ac741a42e739ef810f293c130",
     "bill_id": "S4796",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4796",
     "synopsis": "Requires early voting for each election held in certain counties.",
-    "committee": "",
-    "current_status": null,
+    "committee": "State Government, Wagering, Tourism & Historic Preservation",
+    "current_status": "SSG",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Stack, Brian P.",
@@ -369104,17 +369882,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "c7663eed3b8d55caae3792ea2777ce0e",
     "bill_id": "S4797",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4797",
     "synopsis": "Clarifies applicability of \"New Jersey Prevailing Wage Act\" to public work projects.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Labor",
+    "current_status": "SLA",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Labor Committee",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Stack, Brian P.",
@@ -369133,17 +369918,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "00c96490e2837d538d08cf062a893b41",
     "bill_id": "S4798",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4798",
     "synopsis": "Permits temporary appointment of certain retired correctional police officers at county correctional facilities.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Law and Public Safety",
+    "current_status": "SLP",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Testa, Michael L., Jr.",
@@ -369162,17 +369954,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "2548f58c69cfa432d7676bd69c444c9d",
     "bill_id": "S4799",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4799",
     "synopsis": "Establishes electronic delivery as default method for health insurance communications.",
-    "committee": "",
-    "current_status": null,
+    "committee": "Commerce",
+    "current_status": "SCM",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Commerce Committee",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Lagana, Joseph A.",
@@ -369191,17 +369990,24 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "0169472ac741a42e739ef810f293c130",
     "bill_id": "S4800",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4800",
     "synopsis": "Prohibits sports wagering licensees from offering or accepting wagers on student athlete college transfers.",
-    "committee": "",
-    "current_status": null,
+    "committee": "State Government, Wagering, Tourism & Historic Preservation",
+    "current_status": "SSG",
     "fiscal_note": null,
     "identical_bill": null,
     "last_session_bill": null,
-    "history": [],
+    "history": [
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+    "last_action_date": "10/8/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Corrado, Kristin M.",
@@ -369225,11 +370031,76 @@
     "governor_action": null
   },
   {
-    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "content_hash": "4ebcfa035584555673d57279f51efff6",
     "bill_id": "S4801",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4801",
     "synopsis": "Permits alternative student transportation providers to transport certain students in certain vehicles; regulates alternative student transportation providers; clarifies types of vehicles that may be used by school personnel to transport certain students.",
+    "committee": "Education",
+    "current_status": "SED",
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [
+      {
+        "ActionDate": "10/8/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Education Committee",
+    "last_action_date": "10/8/2026",
+    "prime_sponsors": [
+      {
+        "Full_Name": "Ruiz, M. Teresa",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/287/senator-ruiz"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4802",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4802",
+    "synopsis": "Establishes certain requirements for manufacturers and retail sellers of wearable recording devices.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A5478",
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Diegnan, Patrick J., Jr.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/387/senator-diegnan"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4803",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4803",
+    "synopsis": "Provides gross income tax deduction for homeowner's payments of certain homeowners association assessments.",
     "committee": "",
     "current_status": null,
     "fiscal_note": null,
@@ -369238,9 +370109,363 @@
     "history": [],
     "prime_sponsors": [
       {
-        "Full_Name": "Ruiz, M. Teresa",
+        "Full_Name": "Holzapfel, James W.",
         "SponsorDescription": " as Primary Sponsor",
-        "BioLink": "/legislative-roster/287/senator-ruiz"
+        "BioLink": "/legislative-roster/334/senator-holzapfel"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4804",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4804",
+    "synopsis": "\"Jackson's Law\"; requires mandatory minimum term of imprisonment for leaving scene of accident resulting in death and makes certain juveniles eligible for waiver for this offense.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Holzapfel, James W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/334/senator-holzapfel"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4805",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4805",
+    "synopsis": "Establishes annual sales tax holiday during week of Thanksgiving.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Holzapfel, James W.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/334/senator-holzapfel"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4806",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4806",
+    "synopsis": "Requires data brokers to delete certain data upon consumer request; establishes \"Data Broker Fund.\"",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "McKeon, John F.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/478/senator-mckeon"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4807",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4807",
+    "synopsis": "Regulates consumer legal funding providers.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A5613",
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "McKeon, John F.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/478/senator-mckeon"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4808",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4808",
+    "synopsis": "Requires school vehicles transporting students with disabilities to display certain information.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A765",
+    "last_session_bill": "A6144",
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Bucco, Anthony M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/419/senator-bucco"
+      }
+    ],
+    "cosponsors": [
+      {
+        "Full_Name": "Corrado, Kristin M.",
+        "SponsorDescription": " as Co-Sponsor",
+        "BioLink": "/legislative-roster/392/senator-corrado"
+      }
+    ],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4810",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4810",
+    "synopsis": "Concerns deliveries along certain weight-restricted municipal roads.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A5620",
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Space, Parker",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/473/senator-space"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4811",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4811",
+    "synopsis": "Prohibits public utilities from imposing surcharge on certain payment transactions.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A1285",
+    "last_session_bill": "A5494 S4354  ",
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Space, Parker",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/473/senator-space"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4812",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4812",
+    "synopsis": "Repeals \"John R. Lewis Voter Empowerment Act of New Jersey.\"",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A5575",
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Space, Parker",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/473/senator-space"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4813",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4813",
+    "synopsis": "Establishes \"Subcontractor Licensing Enforcement Act.\"",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A5574",
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Space, Parker",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/473/senator-space"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4814",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4814",
+    "synopsis": "Establishes \"New Jersey Youth Water Safety and Drowning Prevention Act\"; makes appropriation.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A5405",
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Tiver, Latham",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/464/senator-tiver"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4815",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4815",
+    "synopsis": "\"Sales Tax Holiday Weekend Act\"; establishes annual sales tax holiday every third weekend in August for certain retail sales.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A5486",
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Burzichelli, John J.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/458/senator-burzichelli"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4816",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4816",
+    "synopsis": "Provides same death benefits to SPRS members who die by suicide as those who die in performance of duty.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A5629",
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Burzichelli, John J.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/458/senator-burzichelli"
       }
     ],
     "cosponsors": [],
