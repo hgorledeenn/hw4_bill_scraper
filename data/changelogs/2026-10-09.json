@@ -1,0 +1,1346 @@
+{
+  "date": "2026-10-09",
+  "additions": [
+    {
+      "bill_id": "S4809",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4809",
+      "action": null
+    },
+    {
+      "bill_id": "S4817",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4817",
+      "action": null
+    },
+    {
+      "bill_id": "S4818",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4818",
+      "action": null
+    },
+    {
+      "bill_id": "S4819",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4819",
+      "action": null
+    },
+    {
+      "bill_id": "S4820",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4820",
+      "action": null
+    },
+    {
+      "bill_id": "S4821",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4821",
+      "action": null
+    },
+    {
+      "bill_id": "S4822",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4822",
+      "action": null
+    },
+    {
+      "bill_id": "S4823",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4823",
+      "action": null
+    },
+    {
+      "bill_id": "S4824",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4824",
+      "action": null
+    },
+    {
+      "bill_id": "S4825",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4825",
+      "action": null
+    },
+    {
+      "bill_id": "S4826",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4826",
+      "action": null
+    },
+    {
+      "bill_id": "S4827",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4827",
+      "action": null
+    },
+    {
+      "bill_id": "S4828",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4828",
+      "action": null
+    },
+    {
+      "bill_id": "S4829",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4829",
+      "action": null
+    },
+    {
+      "bill_id": "S4830",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4830",
+      "action": null
+    },
+    {
+      "bill_id": "S4831",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4831",
+      "action": null
+    },
+    {
+      "bill_id": "S4832",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4832",
+      "action": null
+    },
+    {
+      "bill_id": "S4833",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4833",
+      "action": null
+    },
+    {
+      "bill_id": "S4834",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4834",
+      "action": null
+    },
+    {
+      "bill_id": "S4835",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4835",
+      "action": null
+    },
+    {
+      "bill_id": "S4836",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4836",
+      "action": null
+    }
+  ],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S681",
+      "changes": {
+        "content_hash": {
+          "from": "a6f0e1b34e3d2d96d225e02aa3a4364f",
+          "to": "eb9a2fd3063b146bb77fed73244a6dea"
+        },
+        "committee": {
+          "from": "2nd Reading in the Senate",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": "2RS",
+          "to": "SBA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported from Senate Committee with Amendments, 2nd Reading",
+          "to": "Referred to Senate Budget and Appropriations Committee"
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 12,
+              "HTML_Link": "/Bills/2026/S1000/681_I1.HTM",
+              "PDFLink": "/Bills/2026/S1000/681_I1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 12,
+              "HTML_Link": "/Bills/2026/S1000/681_I1.HTM",
+              "PDFLink": "/Bills/2026/S1000/681_I1.PDF"
+            },
+            {
+              "Description": "Reprint",
+              "DocumentComment": "SEN 10/8/26 1R",
+              "Number_Of_Pages": 12,
+              "HTML_Link": "/Bills/2026/S1000/681_R1.HTM",
+              "PDFLink": "/Bills/2026/S1000/681_R1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SEN 10/8/26",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S1000/681_S1.HTM",
+              "PDFLink": "/Bills/2026/S1000/681_S1.PDF"
+            }
+          ]
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEN",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 4,
+              "Votes_No": 1,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Smith, Bob",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKeon, John F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S739",
+      "changes": {
+        "content_hash": {
+          "from": "bd214a87e68a789b5c89219bbe4e97fd",
+          "to": "921f142c8666e588dc5d441616545796"
+        },
+        "committee": {
+          "from": "2nd Reading in the Senate",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": "2RS",
+          "to": "SBA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported from Senate Committee, 2nd Reading",
+          "to": "Referred to Senate Budget and Appropriations Committee"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "Beach, James",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/310/senator-beach"
+            },
+            {
+              "Full_Name": "Cruz-Perez, Nilsa I.",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/371/senator-cruz-perez"
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 9,
+              "HTML_Link": "/Bills/2026/S1000/739_I1.HTM",
+              "PDFLink": "/Bills/2026/S1000/739_I1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 9,
+              "HTML_Link": "/Bills/2026/S1000/739_I1.HTM",
+              "PDFLink": "/Bills/2026/S1000/739_I1.PDF"
+            },
+            {
+              "Description": "Technical Review Of Prefiled Bill",
+              "DocumentComment": "SEG 10/8/26 TR",
+              "Number_Of_Pages": 7,
+              "HTML_Link": "/Bills/2026/S1000/739_T1.HTM",
+              "PDFLink": "/Bills/2026/S1000/739_T1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SEG 10/8/26",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S1000/739_S1.HTM",
+              "PDFLink": "/Bills/2026/S1000/739_S1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S1395",
+      "changes": {
+        "content_hash": {
+          "from": "12ae5be1bcc3fa037b0cbdd85a929203",
+          "to": "82949692aa6756bd0ad1cb19a87a4b4b"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Passed by the Senate (38-0)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Commerce and Economic Development Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "9/24/2026",
+              "HistoryAction": "Substituted for A4955 (1R)"
+            },
+            {
+              "ActionDate": "9/24/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (72-0-1)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Passed by the Senate (38-0)"
+            },
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Commerce and Economic Development Committee"
+            },
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "9/24/2026",
+              "HistoryAction": "Substituted for A4955 (1R)"
+            },
+            {
+              "ActionDate": "9/24/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (72-0-1)"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Approved P.L.2026, c.98."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (72-0-1)",
+          "to": "Approved P.L.2026, c.98."
+        },
+        "last_action_date": {
+          "from": "9/24/2026",
+          "to": "10/8/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S1768",
+      "changes": {
+        "content_hash": {
+          "from": "bd214a87e68a789b5c89219bbe4e97fd",
+          "to": "921f142c8666e588dc5d441616545796"
+        },
+        "committee": {
+          "from": "2nd Reading in the Senate",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": "2RS",
+          "to": "SBA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported from Senate Committee, 2nd Reading",
+          "to": "Referred to Senate Budget and Appropriations Committee"
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S2000/1768_I1.HTM",
+              "PDFLink": "/Bills/2026/S2000/1768_I1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S2000/1768_I1.HTM",
+              "PDFLink": "/Bills/2026/S2000/1768_I1.PDF"
+            },
+            {
+              "Description": "Technical Review Of Prefiled Bill",
+              "DocumentComment": "SEG 10/8/26 TR",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S2000/1768_T1.HTM",
+              "PDFLink": "/Bills/2026/S2000/1768_T1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SEG 10/8/26",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S2000/1768_S1.HTM",
+              "PDFLink": "/Bills/2026/S2000/1768_S1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S1779",
+      "changes": {
+        "content_hash": {
+          "from": "78f1ce0a324f3604c290a34dd35cba51",
+          "to": "5c0cd1ed0b92c2a6c187cf00c7e123d8"
+        },
+        "committee": {
+          "from": "2nd Reading in the Senate",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": "2RS",
+          "to": "SBA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported from Senate Committee with Amendments, 2nd Reading",
+          "to": "Referred to Senate Budget and Appropriations Committee"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "Cruz-Perez, Nilsa I.",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/371/senator-cruz-perez"
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 7,
+              "HTML_Link": "/Bills/2026/S2000/1779_I1.HTM",
+              "PDFLink": "/Bills/2026/S2000/1779_I1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 7,
+              "HTML_Link": "/Bills/2026/S2000/1779_I1.HTM",
+              "PDFLink": "/Bills/2026/S2000/1779_I1.PDF"
+            },
+            {
+              "Description": "Reprint",
+              "DocumentComment": "SEG 10/8/26 1R",
+              "Number_Of_Pages": 7,
+              "HTML_Link": "/Bills/2026/S2000/1779_R1.HTM",
+              "PDFLink": "/Bills/2026/S2000/1779_R1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SEG 10/8/26",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S2000/1779_S1.HTM",
+              "PDFLink": "/Bills/2026/S2000/1779_S1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S2359",
+      "changes": {
+        "content_hash": {
+          "from": "a6f0e1b34e3d2d96d225e02aa3a4364f",
+          "to": "eb9a2fd3063b146bb77fed73244a6dea"
+        },
+        "committee": {
+          "from": "2nd Reading in the Senate",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": "2RS",
+          "to": "SBA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported from Senate Committee with Amendments, 2nd Reading",
+          "to": "Referred to Senate Budget and Appropriations Committee"
+        },
+        "prime_sponsors": {
+          "from": [
+            {
+              "Full_Name": "McKeon, John F.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/478/senator-mckeon"
+            }
+          ],
+          "to": [
+            {
+              "Full_Name": "McKeon, John F.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/478/senator-mckeon"
+            },
+            {
+              "Full_Name": "Greenstein, Linda R.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/329/senator-greenstein"
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 15,
+              "HTML_Link": "/Bills/2026/S2500/2359_I1.HTM",
+              "PDFLink": "/Bills/2026/S2500/2359_I1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 15,
+              "HTML_Link": "/Bills/2026/S2500/2359_I1.HTM",
+              "PDFLink": "/Bills/2026/S2500/2359_I1.PDF"
+            },
+            {
+              "Description": "Reprint",
+              "DocumentComment": "SEN 10/8/26 1R",
+              "Number_Of_Pages": 15,
+              "HTML_Link": "/Bills/2026/S2500/2359_R1.HTM",
+              "PDFLink": "/Bills/2026/S2500/2359_R1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SEN 10/8/26",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S2500/2359_S1.HTM",
+              "PDFLink": "/Bills/2026/S2500/2359_S1.PDF"
+            }
+          ]
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEN",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Smith, Bob",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKeon, John F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": 1,
+          "to": 2
+        }
+      }
+    },
+    {
+      "bill_id": "S3800",
+      "changes": {
+        "content_hash": {
+          "from": "079cf8b32c3f54a1b17c9fa5abbe5364",
+          "to": "003d5c76c28b6c4ee11fdb58dc470b84"
+        },
+        "committee": {
+          "from": "2nd Reading in the Senate",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": "2RS",
+          "to": "SBA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "3/5/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "3/5/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported from Senate Committee, 2nd Reading",
+          "to": "Referred to Senate Budget and Appropriations Committee"
+        },
+        "prime_sponsors": {
+          "from": [
+            {
+              "Full_Name": "Ruiz, M. Teresa",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/287/senator-ruiz"
+            }
+          ],
+          "to": [
+            {
+              "Full_Name": "Ruiz, M. Teresa",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/287/senator-ruiz"
+            },
+            {
+              "Full_Name": "Cruz-Perez, Nilsa I.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/371/senator-cruz-perez"
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S4000/3800_I1.HTM",
+              "PDFLink": "/Bills/2026/S4000/3800_I1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S4000/3800_I1.HTM",
+              "PDFLink": "/Bills/2026/S4000/3800_I1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SEG 10/8/26",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S4000/3800_S1.HTM",
+              "PDFLink": "/Bills/2026/S4000/3800_S1.PDF"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 2
+        }
+      }
+    },
+    {
+      "bill_id": "S4052",
+      "changes": {
+        "content_hash": {
+          "from": "2a21d4dcccdcdd96966055163506020f",
+          "to": "ea44ab693ec09aa545b67727b2ef9b68"
+        },
+        "committee": {
+          "from": "2nd Reading in the Senate",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": "2RS",
+          "to": "SBA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "3/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported from Senate Committee, 2nd Reading",
+          "to": "Referred to Senate Budget and Appropriations Committee"
+        },
+        "cosponsors": {
+          "from": [
+            {
+              "Full_Name": "Gopal, Vin",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/405/senator-gopal"
+            }
+          ],
+          "to": [
+            {
+              "Full_Name": "Gopal, Vin",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/405/senator-gopal"
+            },
+            {
+              "Full_Name": "Cruz-Perez, Nilsa I.",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/371/senator-cruz-perez"
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 6,
+              "HTML_Link": "/Bills/2026/S4500/4052_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4052_I1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Statement",
+              "DocumentComment": "SEG 10/8/26",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S4500/4052_S1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4052_S1.PDF"
+            },
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 6,
+              "HTML_Link": "/Bills/2026/S4500/4052_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4052_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4214",
+      "changes": {
+        "content_hash": {
+          "from": "b5815a586c84306ca6bd5af618fb1297",
+          "to": "e96bbaa74e1d31691cdb86a9204d4338"
+        },
+        "committee": {
+          "from": "2nd Reading in the Senate",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": "2RS",
+          "to": "SBA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported from Senate Committee, 2nd Reading",
+          "to": "Referred to Senate Budget and Appropriations Committee"
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 19,
+              "HTML_Link": "/Bills/2026/S4500/4214_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4214_I1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 19,
+              "HTML_Link": "/Bills/2026/S4500/4214_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4214_I1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SEN 10/8/26",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S4500/4214_S1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4214_S1.PDF"
+            }
+          ]
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SEN",
+              "Agenda_Date": "10/8/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 3,
+              "Votes_No": 2,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-08T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Smith, Bob",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Greenstein, Linda R.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McKeon, John F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-10-08T10:00:00.000Z",
+              "CommitteeHouse": "SEN",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4400",
+      "changes": {
+        "content_hash": {
+          "from": "8014c0e690feb24f0c72672a0c130a91",
+          "to": "a12d13711ddbca5b96408e20d7855311"
+        },
+        "committee": {
+          "from": "2nd Reading in the Senate",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": "2RS",
+          "to": "SBA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported from Senate Committee, 2nd Reading",
+          "to": "Referred to Senate Budget and Appropriations Committee"
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 4,
+              "HTML_Link": "/Bills/2026/S4500/4400_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4400_I1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 4,
+              "HTML_Link": "/Bills/2026/S4500/4400_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4400_I1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SEN 10/8/26",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S4500/4400_S1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4400_S1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4468",
+      "changes": {
+        "content_hash": {
+          "from": "f94443de3cc91aabe4fa95ea4e842306",
+          "to": "b76ee01e5a14ee6c7f4d14f0541297a1"
+        },
+        "committee": {
+          "from": "2nd Reading in the Senate",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": "2RS",
+          "to": "SBA"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/15/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/15/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Reported from Senate Committee with Amendments, 2nd Reading",
+          "to": "Referred to Senate Budget and Appropriations Committee"
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 5,
+              "HTML_Link": "/Bills/2026/S4500/4468_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4468_I1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 5,
+              "HTML_Link": "/Bills/2026/S4500/4468_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4468_I1.PDF"
+            },
+            {
+              "Description": "Reprint",
+              "DocumentComment": "SEN 10/8/26 1R",
+              "Number_Of_Pages": 6,
+              "HTML_Link": "/Bills/2026/S4500/4468_R1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4468_R1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SEN 10/8/26",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S4500/4468_S1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4468_S1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4552",
+      "changes": {
+        "content_hash": {
+          "from": "4e844f93fbdb5019ee98160fccbe7c16",
+          "to": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "synopsis": {
+          "from": "Requires inspection for pest infestation prior to certain demolitions.",
+          "to": null
+        },
+        "committee": {
+          "from": "Community and Urban Affairs",
+          "to": ""
+        },
+        "current_status": {
+          "from": "SCU",
+          "to": null
+        },
+        "identical_bill": {
+          "from": "S4491 A5384",
+          "to": null
+        },
+        "last_session_bill": {
+          "from": "A3555 (1R) S138",
+          "to": null
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "9/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ],
+          "to": []
+        },
+        "prime_sponsors": {
+          "from": [
+            {
+              "Full_Name": "Cruz-Perez, Nilsa I.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/371/senator-cruz-perez"
+            }
+          ],
+          "to": []
+        }
+      }
+    }
+  ]
+}
