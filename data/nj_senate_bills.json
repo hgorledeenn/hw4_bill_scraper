@@ -298809,13 +298809,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "bd7ed5d09bbc4310566976a5ee9f4022",
+    "content_hash": "88fa7f2e0e6e73b1e9656441258b5141",
     "bill_id": "S4086",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4086",
     "synopsis": "Authorizes PANYNJ employees to take military leave.",
-    "committee": "Military and Veterans' Affairs",
-    "current_status": "SMV",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": null,
     "last_session_bill": null,
@@ -298823,10 +298823,14 @@
       {
         "ActionDate": "5/4/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee"
+      },
+      {
+        "ActionDate": "10/15/2026",
+        "HistoryAction": "Reported from Senate Committee, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee",
-    "last_action_date": "5/4/2026",
+    "last_action": "Reported from Senate Committee, 2nd Reading",
+    "last_action_date": "10/15/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Mukherji, Raj",
@@ -298844,9 +298848,69 @@
         "PDFLink": "/Bills/2026/S4500/4086_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SMV",
+        "Agenda_Date": "10/15/2026",
+        "Action": "r/favorably",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-15T10:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Mukherji, Raj",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Space, Parker",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Tiver, Latham",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Turner, Shirley K.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Wimberly, Benjie E.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": null,
@@ -302906,13 +302970,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "3123bdc09ed7b5387064dae02d38eecc",
+    "content_hash": "9e18199397cb1031406063b9661f3977",
     "bill_id": "S4124",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4124",
     "synopsis": "Waives certain commercial driver license fees for veterans and spouses of veterans.",
-    "committee": "Military and Veterans' Affairs",
-    "current_status": "SMV",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A1918",
     "last_session_bill": "A2413",
@@ -302920,10 +302984,14 @@
       {
         "ActionDate": "5/11/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee"
+      },
+      {
+        "ActionDate": "10/15/2026",
+        "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee",
-    "last_action_date": "5/11/2026",
+    "last_action": "Reported from Senate Committee with Amendments, 2nd Reading",
+    "last_action_date": "10/15/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Cryan, Joseph P.",
@@ -302947,9 +303015,69 @@
         "PDFLink": "/Bills/2026/S4500/4124_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SMV",
+        "Agenda_Date": "10/15/2026",
+        "Action": "r/Sca",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-15T10:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Mukherji, Raj",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Space, Parker",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Tiver, Latham",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Turner, Shirley K.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Wimberly, Benjie E.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": 1,
@@ -338218,24 +338346,28 @@
     "governor_action": null
   },
   {
-    "content_hash": "8ec97c6f8f0d1df63c15f3c5d2df2d00",
+    "content_hash": "bade8f6dbd4bf885db2dd56e9b6b3f58",
     "bill_id": "S4418",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4418",
     "synopsis": "Revises Commission on Women Veterans.",
-    "committee": "Military and Veterans' Affairs",
-    "current_status": "SMV",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
-    "identical_bill": "A5271  ",
+    "identical_bill": "A5271",
     "last_session_bill": null,
     "history": [
       {
         "ActionDate": "6/8/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee"
+      },
+      {
+        "ActionDate": "10/15/2026",
+        "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee",
-    "last_action_date": "6/8/2026",
+    "last_action": "Reported from Senate Committee with Amendments, 2nd Reading",
+    "last_action_date": "10/15/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Beach, James",
@@ -338264,9 +338396,69 @@
         "PDFLink": "/Bills/2026/S4500/4418_I1.PDF"
       }
     ],
-    "committee_votes": [],
+    "committee_votes": [
+      {
+        "House": "SMV",
+        "Agenda_Date": "10/15/2026",
+        "Action": "r/Sca",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-15T10:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      }
+    ],
     "floor_votes": [],
-    "committee_roll_calls": [],
+    "committee_roll_calls": [
+      {
+        "FullName": "Mukherji, Raj",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Space, Parker",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Tiver, Latham",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Turner, Shirley K.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Wimberly, Benjie E.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      }
+    ],
     "floor_roll_calls": [],
     "bill_type": "S",
     "num_prime_sponsors": 2,
@@ -346106,13 +346298,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "715934fff4bde73da5e8ad4b04a5a156",
+    "content_hash": "ad11d812bb4f9a31cc0676a7c83676fd",
     "bill_id": "S4464",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4464",
     "synopsis": "Requires NJTA and SJTA to provide toll discount to veterans.",
-    "committee": "Military and Veterans' Affairs",
-    "current_status": "SMV",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A5124",
     "last_session_bill": null,
@@ -346128,10 +346320,14 @@
       {
         "ActionDate": "10/1/2026",
         "HistoryAction": "Referred to Senate Military and Veterans' Affairs Committee"
+      },
+      {
+        "ActionDate": "10/15/2026",
+        "HistoryAction": "Reported from Senate Committee as a Substitute, 2nd Reading"
       }
     ],
-    "last_action": "Referred to Senate Military and Veterans' Affairs Committee",
-    "last_action_date": "10/1/2026",
+    "last_action": "Reported from Senate Committee as a Substitute, 2nd Reading",
+    "last_action_date": "10/15/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKnight, Angela V.",
@@ -346190,6 +346386,19 @@
         "Agenda_Date_for_Votes": "2026-10-01T11:00:00.000Z",
         "Agenda_Type": "M",
         "Agenda_Sequence": 0
+      },
+      {
+        "House": "SMV",
+        "Agenda_Date": "10/15/2026",
+        "Action": "r/SCS",
+        "Votes_Yes": 5,
+        "Votes_No": 0,
+        "Not_Voting": 0,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-10-15T10:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
       }
     ],
     "floor_votes": [],
@@ -346200,6 +346409,15 @@
         "Position": "(C)",
         "AgendaDate": "2026-10-01T11:00:00.000Z",
         "CommitteeHouse": "STR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Mukherji, Raj",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
         "AgendaType": "M",
         "AgendaSequence": 0
       },
@@ -346231,6 +346449,15 @@
         "AgendaSequence": 0
       },
       {
+        "FullName": "Space, Parker",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
         "FullName": "Timberlake, Britnee N.",
         "Vote": "Yes",
         "Position": "",
@@ -346245,6 +346472,33 @@
         "Position": "",
         "AgendaDate": "2026-10-01T11:00:00.000Z",
         "CommitteeHouse": "STR",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Tiver, Latham",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Turner, Shirley K.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Wimberly, Benjie E.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-10-15T10:00:00.000Z",
+        "CommitteeHouse": "SMV",
         "AgendaType": "M",
         "AgendaSequence": 0
       }

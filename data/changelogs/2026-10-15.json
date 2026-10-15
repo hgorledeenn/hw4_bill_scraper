@@ -1,0 +1,607 @@
+{
+  "date": "2026-10-15",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S4086",
+      "changes": {
+        "content_hash": {
+          "from": "bd7ed5d09bbc4310566976a5ee9f4022",
+          "to": "88fa7f2e0e6e73b1e9656441258b5141"
+        },
+        "committee": {
+          "from": "Military and Veterans' Affairs",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SMV",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "5/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "5/4/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee"
+            },
+            {
+              "ActionDate": "10/15/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee",
+          "to": "Reported from Senate Committee, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "5/4/2026",
+          "to": "10/15/2026"
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SMV",
+              "Agenda_Date": "10/15/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-15T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Mukherji, Raj",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Wimberly, Benjie E.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4124",
+      "changes": {
+        "content_hash": {
+          "from": "3123bdc09ed7b5387064dae02d38eecc",
+          "to": "9e18199397cb1031406063b9661f3977"
+        },
+        "committee": {
+          "from": "Military and Veterans' Affairs",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SMV",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "5/11/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee"
+            },
+            {
+              "ActionDate": "10/15/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee",
+          "to": "Reported from Senate Committee with Amendments, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "5/11/2026",
+          "to": "10/15/2026"
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SMV",
+              "Agenda_Date": "10/15/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-15T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Mukherji, Raj",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Wimberly, Benjie E.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4418",
+      "changes": {
+        "content_hash": {
+          "from": "8ec97c6f8f0d1df63c15f3c5d2df2d00",
+          "to": "bade8f6dbd4bf885db2dd56e9b6b3f58"
+        },
+        "committee": {
+          "from": "Military and Veterans' Affairs",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SMV",
+          "to": "2RS"
+        },
+        "identical_bill": {
+          "from": "A5271  ",
+          "to": "A5271"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee"
+            },
+            {
+              "ActionDate": "10/15/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee",
+          "to": "Reported from Senate Committee with Amendments, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "6/8/2026",
+          "to": "10/15/2026"
+        },
+        "committee_votes": {
+          "from": [],
+          "to": [
+            {
+              "House": "SMV",
+              "Agenda_Date": "10/15/2026",
+              "Action": "r/Sca",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-15T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [],
+          "to": [
+            {
+              "FullName": "Mukherji, Raj",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Wimberly, Benjie E.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4464",
+      "changes": {
+        "content_hash": {
+          "from": "715934fff4bde73da5e8ad4b04a5a156",
+          "to": "ad11d812bb4f9a31cc0676a7c83676fd"
+        },
+        "committee": {
+          "from": "Military and Veterans' Affairs",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SMV",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "6/15/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            },
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Referred to Senate Military and Veterans' Affairs Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "6/15/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            },
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Referred to Senate Military and Veterans' Affairs Committee"
+            },
+            {
+              "ActionDate": "10/15/2026",
+              "HistoryAction": "Reported from Senate Committee as a Substitute, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Referred to Senate Military and Veterans' Affairs Committee",
+          "to": "Reported from Senate Committee as a Substitute, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "10/1/2026",
+          "to": "10/15/2026"
+        },
+        "committee_votes": {
+          "from": [
+            {
+              "House": "STR",
+              "Agenda_Date": "10/1/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 4,
+              "Votes_No": 0,
+              "Not_Voting": 2,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-01T11:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ],
+          "to": [
+            {
+              "House": "STR",
+              "Agenda_Date": "10/1/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 4,
+              "Votes_No": 0,
+              "Not_Voting": 2,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-01T11:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            },
+            {
+              "House": "SMV",
+              "Agenda_Date": "10/15/2026",
+              "Action": "r/SCS",
+              "Votes_Yes": 5,
+              "Votes_No": 0,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-15T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [
+            {
+              "FullName": "Diegnan, Patrick J.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Mukherji, Raj",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Burzichelli, John J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Holzapfel, James W.",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Timberlake, Britnee N.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ],
+          "to": [
+            {
+              "FullName": "Diegnan, Patrick J.",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Mukherji, Raj",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Mukherji, Raj",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Burzichelli, John J.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Holzapfel, James W.",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Space, Parker",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Timberlake, Britnee N.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-10-01T11:00:00.000Z",
+              "CommitteeHouse": "STR",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tiver, Latham",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Turner, Shirley K.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Wimberly, Benjie E.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-15T10:00:00.000Z",
+              "CommitteeHouse": "SMV",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
