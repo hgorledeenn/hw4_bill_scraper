@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-19",
+  "additions": [
+    {
+      "bill_id": "S4859",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4859",
+      "action": null
+    },
+    {
+      "bill_id": "S4860",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4860",
+      "action": null
+    }
+  ],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S2994",
+      "changes": {
+        "content_hash": {
+          "from": "0d64c7d9412656bcdabdf3abe39be2a9",
+          "to": "03839acc0b83f86df770700102d111bd"
+        },
+        "committee": {
+          "from": "Budget and Appropriations",
+          "to": "2nd Reading in the Senate"
+        },
+        "current_status": {
+          "from": "SBA",
+          "to": "2RS"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported from Senate Committee as a Substitute, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Reported from Senate Committee as a Substitute, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/8/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "2nd Reading in the Senate"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Referred to Senate Budget and Appropriations Committee",
+          "to": "2nd Reading in the Senate"
+        },
+        "last_action_date": {
+          "from": "6/8/2026",
+          "to": "10/19/2026"
+        },
+        "prime_sponsors": {
+          "from": [
+            {
+              "Full_Name": "Vitale, Joseph F.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/175/senator-vitale"
+            }
+          ],
+          "to": [
+            {
+              "Full_Name": "Vitale, Joseph F.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/175/senator-vitale"
+            },
+            {
+              "Full_Name": "Timberlake, Britnee N.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/490/senator-timberlake"
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 13,
+              "HTML_Link": "/Bills/2026/S3000/2994_I1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2994_I1.PDF"
+            },
+            {
+              "Description": "Senate Committee Substitute",
+              "DocumentComment": "SCM 6/8/26 SCS",
+              "Number_Of_Pages": 11,
+              "HTML_Link": "/Bills/2026/S3000/2994_U1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2994_U1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "SCM 6/8/26 SCS",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S3000/2994_S1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2994_S1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Statement",
+              "DocumentComment": "SCM 6/8/26 SCS",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S3000/2994_S1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2994_S1.PDF"
+            },
+            {
+              "Description": "Fiscal Estimate",
+              "DocumentComment": "8/10/26; SCS",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S3000/2994_E1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2994_E1.PDF"
+            },
+            {
+              "Description": "Senate Committee Substitute",
+              "DocumentComment": "SCM 6/8/26 SCS",
+              "Number_Of_Pages": 11,
+              "HTML_Link": "/Bills/2026/S3000/2994_U1.HTM",
+              "PDFLink": "/Bills/2026/S3000/2994_U1.PDF"
+            },
+            {
+              "Description": "Senate Committee Substitute",
+              "DocumentComment": "SCM 6/8/26 SCS",
+              "Number_Of_Pages": 11,
+              "HTML_Link": "/Bills/2026/S3000/2994_U2.HTM",
+              "PDFLink": "/Bills/2026/S3000/2994_U2.PDF"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": 1,
+          "to": 2
+        }
+      }
+    }
+  ]
+}

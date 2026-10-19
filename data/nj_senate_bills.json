@@ -207657,13 +207657,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "0d64c7d9412656bcdabdf3abe39be2a9",
+    "content_hash": "03839acc0b83f86df770700102d111bd",
     "bill_id": "S2994",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S2994",
     "synopsis": "Establishes \"Midwifery Licensing Act.\" *",
-    "committee": "Budget and Appropriations",
-    "current_status": "SBA",
+    "committee": "2nd Reading in the Senate",
+    "current_status": "2RS",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A5404  ",
     "last_session_bill": "S1975",
@@ -207679,25 +207679,41 @@
       {
         "ActionDate": "6/8/2026",
         "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+      },
+      {
+        "ActionDate": "10/19/2026",
+        "HistoryAction": "2nd Reading in the Senate"
       }
     ],
-    "last_action": "Referred to Senate Budget and Appropriations Committee",
-    "last_action_date": "6/8/2026",
+    "last_action": "2nd Reading in the Senate",
+    "last_action_date": "10/19/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Vitale, Joseph F.",
         "SponsorDescription": " as Primary Sponsor",
         "BioLink": "/legislative-roster/175/senator-vitale"
+      },
+      {
+        "Full_Name": "Timberlake, Britnee N.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/490/senator-timberlake"
       }
     ],
     "cosponsors": [],
     "documents": [
       {
-        "Description": "Introduced",
-        "DocumentComment": "",
-        "Number_Of_Pages": 13,
-        "HTML_Link": "/Bills/2026/S3000/2994_I1.HTM",
-        "PDFLink": "/Bills/2026/S3000/2994_I1.PDF"
+        "Description": "Statement",
+        "DocumentComment": "SCM 6/8/26 SCS",
+        "Number_Of_Pages": 1,
+        "HTML_Link": "/Bills/2026/S3000/2994_S1.HTM",
+        "PDFLink": "/Bills/2026/S3000/2994_S1.PDF"
+      },
+      {
+        "Description": "Fiscal Estimate",
+        "DocumentComment": "8/10/26; SCS",
+        "Number_Of_Pages": 3,
+        "HTML_Link": "/Bills/2026/S3000/2994_E1.HTM",
+        "PDFLink": "/Bills/2026/S3000/2994_E1.PDF"
       },
       {
         "Description": "Senate Committee Substitute",
@@ -207707,11 +207723,11 @@
         "PDFLink": "/Bills/2026/S3000/2994_U1.PDF"
       },
       {
-        "Description": "Statement",
+        "Description": "Senate Committee Substitute",
         "DocumentComment": "SCM 6/8/26 SCS",
-        "Number_Of_Pages": 1,
-        "HTML_Link": "/Bills/2026/S3000/2994_S1.HTM",
-        "PDFLink": "/Bills/2026/S3000/2994_S1.PDF"
+        "Number_Of_Pages": 11,
+        "HTML_Link": "/Bills/2026/S3000/2994_U2.HTM",
+        "PDFLink": "/Bills/2026/S3000/2994_U2.PDF"
       }
     ],
     "committee_votes": [
@@ -207779,7 +207795,7 @@
     ],
     "floor_roll_calls": [],
     "bill_type": "S",
-    "num_prime_sponsors": 1,
+    "num_prime_sponsors": 2,
     "governor_action": null
   },
   {
@@ -374770,6 +374786,64 @@
         "Full_Name": "Scutari, Nicholas P.",
         "SponsorDescription": " as Primary Sponsor",
         "BioLink": "/legislative-roster/237/senator-scutari"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4859",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4859",
+    "synopsis": "Concerns definition of veteran for purpose of affordable housing preference.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Johnson, Gordon M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/434/senator-johnson"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4860",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4860",
+    "synopsis": "\"School District Health Procurement Efficiency Act.\"",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Johnson, Gordon M.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/434/senator-johnson"
       }
     ],
     "cosponsors": [],
