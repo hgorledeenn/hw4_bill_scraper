@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-20",
+  "additions": [
+    {
+      "bill_id": "S4861",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4861",
+      "action": null
+    },
+    {
+      "bill_id": "S4862",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4862",
+      "action": null
+    }
+  ],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S3423",
+      "changes": {
+        "content_hash": {
+          "from": "d33ad08221cc7e02755b2b4a342a2ce7",
+          "to": "000c61b4a062d3f84cb9455e8df6993b"
+        },
+        "committee": {
+          "from": "Environment and Energy",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": "SEN",
+          "to": "SCM"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "2/9/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "2/9/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Transferred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
+          "to": "Transferred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": "2/9/2026",
+          "to": "10/19/2026"
+        }
+      }
+    }
+  ]
+}

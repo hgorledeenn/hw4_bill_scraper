@@ -247650,13 +247650,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "d33ad08221cc7e02755b2b4a342a2ce7",
+    "content_hash": "000c61b4a062d3f84cb9455e8df6993b",
     "bill_id": "S3423",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3423",
     "synopsis": "Authorizes use of certain fish pumps to remove menhaden from purse seines.",
-    "committee": "Environment and Energy",
-    "current_status": "SEN",
+    "committee": "Commerce",
+    "current_status": "SCM",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A4946  ",
     "last_session_bill": null,
@@ -247664,10 +247664,14 @@
       {
         "ActionDate": "2/9/2026",
         "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+      },
+      {
+        "ActionDate": "10/19/2026",
+        "HistoryAction": "Transferred to Senate Commerce Committee"
       }
     ],
-    "last_action": "Introduced in the Senate, Referred to Senate Environment and Energy Committee",
-    "last_action_date": "2/9/2026",
+    "last_action": "Transferred to Senate Commerce Committee",
+    "last_action_date": "10/19/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Moriarty, Paul D.",
@@ -374844,6 +374848,64 @@
         "Full_Name": "Johnson, Gordon M.",
         "SponsorDescription": " as Primary Sponsor",
         "BioLink": "/legislative-roster/434/senator-johnson"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4861",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4861",
+    "synopsis": "Provides for establishment of pilot program for acquiring abandoned properties in certain municipalities and develop land bank agreement.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": "A5710",
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Burzichelli, John J.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/458/senator-burzichelli"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S4862",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S4862",
+    "synopsis": "Establishes Teacher Residency Program.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Ruiz, M. Teresa",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/287/senator-ruiz"
       }
     ],
     "cosponsors": [],
