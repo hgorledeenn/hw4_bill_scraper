@@ -1,0 +1,1195 @@
+{
+  "date": "2026-10-21",
+  "additions": [
+    {
+      "bill_id": "S4863",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4863",
+      "action": "Introduced, 1st Reading without Reference, 2nd Reading"
+    },
+    {
+      "bill_id": "S4864",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4864",
+      "action": null
+    },
+    {
+      "bill_id": "S4865",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4865",
+      "action": null
+    }
+  ],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S4837",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "48505b5b96f3fff02f84c7215f167344"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S5000/4837_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4837_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4838",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "a4f9dc9e5493addb0551b2f6f8d79885"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 7,
+              "HTML_Link": "/Bills/2026/S5000/4838_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4838_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4839",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "a9d88acc1c99e5b766596a1f34d1ead4"
+        },
+        "committee": {
+          "from": "",
+          "to": "Transportation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "STR"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Transportation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "prime_sponsors": {
+          "from": [
+            {
+              "Full_Name": "Wimberly, Benjie E.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/499/senator-wimberly"
+            }
+          ],
+          "to": [
+            {
+              "Full_Name": "Wimberly, Benjie E.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/499/senator-wimberly"
+            },
+            {
+              "Full_Name": "McKnight, Angela V.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/483/senator-mcknight"
+            }
+          ]
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 6,
+              "HTML_Link": "/Bills/2026/S5000/4839_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4839_I1.PDF"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 2
+        }
+      }
+    },
+    {
+      "bill_id": "S4840",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "d0564ff246513d95a06ff0a9f16654bc"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "identical_bill": {
+          "from": null,
+          "to": "A5704  "
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S5000/4840_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4840_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4841",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "48505b5b96f3fff02f84c7215f167344"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 12,
+              "HTML_Link": "/Bills/2026/S5000/4841_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4841_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4842",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "a4f9dc9e5493addb0551b2f6f8d79885"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 10,
+              "HTML_Link": "/Bills/2026/S5000/4842_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4842_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4843",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "d0564ff246513d95a06ff0a9f16654bc"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "prime_sponsors": {
+          "from": [
+            {
+              "Full_Name": "Singleton, Troy",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/395/senator-singleton"
+            }
+          ],
+          "to": [
+            {
+              "Full_Name": "Singleton, Troy",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/395/senator-singleton"
+            },
+            {
+              "Full_Name": "McKnight, Angela V.",
+              "SponsorDescription": " as Primary Sponsor",
+              "BioLink": "/legislative-roster/483/senator-mcknight"
+            }
+          ]
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 9,
+              "HTML_Link": "/Bills/2026/S5000/4843_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4843_I1.PDF"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 2
+        }
+      }
+    },
+    {
+      "bill_id": "S4844",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "48505b5b96f3fff02f84c7215f167344"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 10,
+              "HTML_Link": "/Bills/2026/S5000/4844_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4844_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4845",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "d0564ff246513d95a06ff0a9f16654bc"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "McKnight, Angela V.",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/483/senator-mcknight"
+            }
+          ]
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 51,
+              "HTML_Link": "/Bills/2026/S5000/4845_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4845_I1.PDF"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 2
+        }
+      }
+    },
+    {
+      "bill_id": "S4846",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "d0564ff246513d95a06ff0a9f16654bc"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S5000/4846_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4846_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4847",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "d35b00a141d76e0799f580b1330f7165"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 4,
+              "HTML_Link": "/Bills/2026/S5000/4847_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4847_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4848",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "d35b00a141d76e0799f580b1330f7165"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 4,
+              "HTML_Link": "/Bills/2026/S5000/4848_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4848_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4849",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e8868358c6ddc5bfbb431afc6b9b0be8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 9,
+              "HTML_Link": "/Bills/2026/S5000/4849_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4849_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4850",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "d0564ff246513d95a06ff0a9f16654bc"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 4,
+              "HTML_Link": "/Bills/2026/S5000/4850_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4850_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4851",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "d0564ff246513d95a06ff0a9f16654bc"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S5000/4851_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4851_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4852",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "a4f9dc9e5493addb0551b2f6f8d79885"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 7,
+              "HTML_Link": "/Bills/2026/S5000/4852_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4852_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4853",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "48505b5b96f3fff02f84c7215f167344"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S5000/4853_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4853_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4854",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "48505b5b96f3fff02f84c7215f167344"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 5,
+              "HTML_Link": "/Bills/2026/S5000/4854_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4854_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4855",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "48505b5b96f3fff02f84c7215f167344"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 4,
+              "HTML_Link": "/Bills/2026/S5000/4855_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4855_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4856",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e8868358c6ddc5bfbb431afc6b9b0be8"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 6,
+              "HTML_Link": "/Bills/2026/S5000/4856_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4856_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4857",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "48505b5b96f3fff02f84c7215f167344"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "identical_bill": {
+          "from": null,
+          "to": "A5705"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 5,
+              "HTML_Link": "/Bills/2026/S5000/4857_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4857_I1.PDF"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4858",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "79e11012285200cdf82b4eb035729b3c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Judiciary"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SJU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "10/19/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "10/19/2026"
+        },
+        "documents": {
+          "from": [],
+          "to": [
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 23,
+              "HTML_Link": "/Bills/2026/S5000/4858_I1.HTM",
+              "PDFLink": "/Bills/2026/S5000/4858_I1.PDF"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
