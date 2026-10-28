@@ -243359,13 +243359,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "26478444357e0e6a042f2d617e77e6a6",
+    "content_hash": "74ea2b13524a988df44687418d63e8a5",
     "bill_id": "S3386",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3386",
     "synopsis": "Authorizes use of campaign funds for security expenses of candidate, officeholder, staff, and certain family members.*",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5258 (1R)",
     "last_session_bill": null,
@@ -243401,10 +243401,14 @@
       {
         "ActionDate": "9/24/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (51-12-9)"
+      },
+      {
+        "ActionDate": "10/27/2026",
+        "HistoryAction": "Approved P.L.2026, c.99."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (51-12-9)",
-    "last_action_date": "9/24/2026",
+    "last_action": "Approved P.L.2026, c.99.",
+    "last_action_date": "10/27/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Sarlo, Paul A.",
@@ -244541,7 +244545,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 2,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "f291ad8f7b50aeb985f46443a792c0a1",
@@ -327589,13 +327593,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "2ad1d06d610b640509403e87f3caf53a",
+    "content_hash": "f0d5bd3f962a9fe81a9574db197172b8",
     "bill_id": "S4307",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4307",
     "synopsis": "\"New Jersey History Day Act.\"",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5251 (1R)",
     "last_session_bill": null,
@@ -327631,10 +327635,14 @@
       {
         "ActionDate": "9/24/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (74-0-0)"
+      },
+      {
+        "ActionDate": "10/27/2026",
+        "HistoryAction": "Approved P.L.2026, c.100."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (74-0-0)",
-    "last_action_date": "9/24/2026",
+    "last_action": "Approved P.L.2026, c.100.",
+    "last_action_date": "10/27/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Diegnan, Patrick J., Jr.",
@@ -328757,7 +328765,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "7c0d8cc1601a1bdc58ca233e099defbd",
@@ -356188,13 +356196,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "a6f2524702e00781788d4dd950be2b18",
+    "content_hash": "2d6f007a6fb21217f87f8824bb2c9876",
     "bill_id": "S4495",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4495",
     "synopsis": "Allows use of Green Acres funds to fully fund certain projects on State-owned land by certain nonprofit organizations.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5321 (1R)",
     "last_session_bill": null,
@@ -356230,10 +356238,14 @@
       {
         "ActionDate": "9/24/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (74-0-0)"
+      },
+      {
+        "ActionDate": "10/27/2026",
+        "HistoryAction": "Approved P.L.2026, c.101."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (74-0-0)",
-    "last_action_date": "9/24/2026",
+    "last_action": "Approved P.L.2026, c.101.",
+    "last_action_date": "10/27/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKeon, John F.",
@@ -357376,7 +357388,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 4,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "7691be7c248c7d3c06d2feaac015be3a",
