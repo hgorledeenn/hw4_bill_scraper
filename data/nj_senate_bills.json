@@ -115895,13 +115895,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "e909239cdeff43d76b318da8a277e4c8",
+    "content_hash": "814452702fff0413378f84e9119c1259",
     "bill_id": "S1645",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S1645",
     "synopsis": "Requires annual report on New Jersey College Loans to Assist State Students (NJCLASS) Loan Program to include information on borrower delinquency and administrative wage garnishments.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Higher Education",
+    "current_status": "AHI",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": null,
     "last_session_bill": "S1625 (1R)",
@@ -115917,10 +115917,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (39-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Higher Education Committee"
       }
     ],
-    "last_action": "Passed by the Senate (39-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Higher Education Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Zwicker, Andrew",
@@ -148898,13 +148902,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "98e5f1699e7eef9a5b0faebd9560573c",
+    "content_hash": "61fff758fde600d0256b74054fea1d12",
     "bill_id": "S2163",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S2163",
     "synopsis": "Creates disorderly persons offense for persons who conceal or attempt to conceal their identity while committing another crime or offense.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Judiciary",
+    "current_status": "AJU",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A1343",
     "last_session_bill": "S4842 A5850",
@@ -148928,10 +148932,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (39-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Judiciary Committee"
       }
     ],
-    "last_action": "Passed by the Senate (39-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Judiciary Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Moriarty, Paul D.",
@@ -152722,13 +152730,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "65869b44381ccb1f8f858bdf59aaea1f",
+    "content_hash": "4f1c7817817a8bb218a50e3635adb0f3",
     "bill_id": "S2216",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S2216",
     "synopsis": "Establishes tuition reimbursement program for students enrolled in certain private postsecondary educational schools.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Higher Education",
+    "current_status": "AHI",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5608",
     "last_session_bill": "S2202",
@@ -152744,10 +152752,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (26-13)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Higher Education Committee"
       }
     ],
-    "last_action": "Passed by the Senate (26-13)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Higher Education Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Ruiz, M. Teresa",
@@ -155336,13 +155348,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "122d6b5b37e2a819d77c3310a6e5fa31",
+    "content_hash": "a00e961534dab5b018dc330a28beddbe",
     "bill_id": "S2250",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S2250",
     "synopsis": "Requires licensed health care professionals providing prenatal and postnatal care to provide education and screenings to certain patients.*",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Health",
+    "current_status": "AHE",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A3723",
     "last_session_bill": "S3094 A4193",
@@ -155358,10 +155370,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (38-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Health Committee"
       }
     ],
-    "last_action": "Passed by the Senate (38-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Health Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Ruiz, M. Teresa",
@@ -229701,13 +229717,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "693b1db26facea835cedb99c7adfd7f0",
+    "content_hash": "047d232c02b139c6daa258d654e8791e",
     "bill_id": "S3225",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3225",
     "synopsis": "Prohibits public utilities from assessing surcharges and certain fees.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Telecommunications and Utilities",
+    "current_status": "ATU",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": null,
     "last_session_bill": "S4352",
@@ -229723,10 +229739,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (39-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Telecommunications and Utilities Committee"
       }
     ],
-    "last_action": "Passed by the Senate (39-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Telecommunications and Utilities Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Turner, Shirley K.",
@@ -259103,13 +259123,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "9b39866a79020638807e813e2cc24632",
+    "content_hash": "69a9c53defce1c84caf8343e4faeead1",
     "bill_id": "S3526",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3526",
     "synopsis": "Authorizes creation of non-lapsing fire academy trust fund by county.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Public Safety and Preparedness",
+    "current_status": "APS",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": null,
     "last_session_bill": "S1289",
@@ -259125,10 +259145,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (39-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Public Safety and Preparedness Committee"
       }
     ],
-    "last_action": "Passed by the Senate (39-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Public Safety and Preparedness Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Beach, James",
@@ -260579,13 +260603,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "56eff751a036f62d00ee44a890317956",
+    "content_hash": "108d3a7d16a02e8ab728993dedc5437d",
     "bill_id": "S3546",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3546",
     "synopsis": "Permits mortgage loan originators to work from remote locations under certain circumstances.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Housing",
+    "current_status": "AHO",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": null,
     "last_session_bill": "S4888",
@@ -260601,10 +260625,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (39-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Housing Committee"
       }
     ],
-    "last_action": "Passed by the Senate (39-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Housing Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Bucco, Anthony M.",
@@ -291670,13 +291698,13 @@
     "governor_action": "APP"
   },
   {
-    "content_hash": "fd18ad2b5f426218b7971b3e3bb5e4ec",
+    "content_hash": "dee3d47a2f750fda10f5758d66994165",
     "bill_id": "S3946",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S3946",
     "synopsis": "Expands criminal and civil penalties for human trafficking, and expands human trafficking training requirements for law enforcement. *",
-    "committee": "2nd Reading in the Assembly",
-    "current_status": "2RA",
+    "committee": "Passed Assembly",
+    "current_status": "PA",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A4796 (2R)",
     "last_session_bill": null,
@@ -291716,10 +291744,18 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Substituted for A4796 (2R)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Passed by the Assembly (78-0-0)"
       }
     ],
-    "last_action": "Reported out of Assembly Comm. with Amendments, 2nd Reading",
-    "last_action_date": "10/22/2026",
+    "last_action": "Passed by the Assembly (78-0-0)",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKnight, Angela V.",
@@ -291885,6 +291921,20 @@
         "Number_Of_Pages": 3,
         "HTML_Link": "/Bills/2026/S4000/3946_E2.HTM",
         "PDFLink": "/Bills/2026/S4000/3946_E2.PDF"
+      },
+      {
+        "Description": "Reprint",
+        "DocumentComment": "AAP 10/22/26 3R",
+        "Number_Of_Pages": 38,
+        "HTML_Link": "/Bills/2026/S4000/3946_R3.HTM",
+        "PDFLink": "/Bills/2026/S4000/3946_R3.PDF"
+      },
+      {
+        "Description": "Statement",
+        "DocumentComment": "AAP 10/22/26 2R",
+        "Number_Of_Pages": 4,
+        "HTML_Link": "/Bills/2026/S4000/3946_S4.HTM",
+        "PDFLink": "/Bills/2026/S4000/3946_S4.PDF"
       }
     ],
     "committee_votes": [
@@ -291955,6 +292005,34 @@
         "Sequence_Number": 287,
         "HouseForVotes": "S",
         "SessionDate": "2026-06-30T00:00:00.000Z"
+      },
+      {
+        "House": "Asm.",
+        "Agenda_Date": "10/29/2026",
+        "Action": "SUB FOR A-4796",
+        "Votes_Yes": 0,
+        "Votes_No": 0,
+        "Not_Voting": 80,
+        "Abstains": 0,
+        "Vote_Type": "Voice Vote Passed",
+        "VoteTypeCode": "V",
+        "Sequence_Number": 357,
+        "HouseForVotes": "A",
+        "SessionDate": "2026-10-29T00:00:00.000Z"
+      },
+      {
+        "House": "Asm.",
+        "Agenda_Date": "10/29/2026",
+        "Action": "3RDG FINAL PASSAGE",
+        "Votes_Yes": 78,
+        "Votes_No": 0,
+        "Not_Voting": 2,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "VoteTypeCode": "R",
+        "Sequence_Number": 358,
+        "HouseForVotes": "A",
+        "SessionDate": "2026-10-29T00:00:00.000Z"
       }
     ],
     "committee_roll_calls": [
@@ -303564,13 +303642,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "e29c24b680779459a4f40c0d1e66b61f",
+    "content_hash": "0c176ec85657615cc996a4c2e48d8230",
     "bill_id": "S4102",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4102",
     "synopsis": "Requires school districts to establish procedures for online reporting of harassment, intimidation, and bullying.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Education",
+    "current_status": "AED",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A4538",
     "last_session_bill": "A1197",
@@ -303586,10 +303664,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (38-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Education Committee"
       }
     ],
-    "last_action": "Passed by the Senate (38-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Education Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "McKnight, Angela V.",
@@ -307633,13 +307715,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "5f4e306a5fee156d0871b601bdf96026",
+    "content_hash": "703d2c7bc953454dc6b26426ff020160",
     "bill_id": "S4128",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4128",
     "synopsis": "Requires county college to notify graduating high school students of acceptance into local county college.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Higher Education",
+    "current_status": "AHI",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5049  ",
     "last_session_bill": null,
@@ -307655,10 +307737,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (39-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Higher Education Committee"
       }
     ],
-    "last_action": "Passed by the Senate (39-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Higher Education Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Zwicker, Andrew",
@@ -327054,13 +327140,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "b592c263fe22abc4d2b4912b54adcef6",
+    "content_hash": "b5c83cd9a5e136f30cab006cd2b73dbe",
     "bill_id": "S4304",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4304",
     "synopsis": "Prohibits agreements intended to conceal certain information concerning development of data centers under MLUL.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Science, Innovation and Technology",
+    "current_status": "AST",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A2774",
     "last_session_bill": "A6181",
@@ -327076,10 +327162,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (38-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Science, Innovation and Technology Committee"
       }
     ],
-    "last_action": "Passed by the Senate (38-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Science, Innovation and Technology Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Greenstein, Linda R.",
@@ -331737,13 +331827,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "edfb90c48625ea32f3a0f698e3e5bb8a",
+    "content_hash": "7fa3eaba9daab842713423ac6f8e8e8b",
     "bill_id": "S4349",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4349",
     "synopsis": "Concerns enrollment of twins or higher order multiples in public preschool programs.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "2nd Reading in the Assembly",
+    "current_status": "2RA",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5218 (1R)",
     "last_session_bill": null,
@@ -331759,10 +331849,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (39-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
       }
     ],
-    "last_action": "Passed by the Senate (39-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly without Reference, 2nd Reading",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Holzapfel, James W.",
@@ -333841,13 +333935,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "851dc773b1e6df91dbaf395528a49f72",
+    "content_hash": "8e9f640730687ad160d39e71043b5561",
     "bill_id": "S4374",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4374",
     "synopsis": "Expands certain requirements concerning automatic enrollment for utility bill payment assistance programs.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "State and Local Government",
+    "current_status": "ASL",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": null,
     "last_session_bill": null,
@@ -333863,10 +333957,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (28-9)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly State and Local Government Committee"
       }
     ],
-    "last_action": "Passed by the Senate (28-9)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly State and Local Government Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Scutari, Nicholas P.",
@@ -355529,13 +355627,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "ad7402a20e4ea4f559f1241447a3f97a",
+    "content_hash": "4d4437717aa4b1dc00c9bdb8516fdf69",
     "bill_id": "S4489",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4489",
     "synopsis": "Authorizes municipalities to lower speed limits in historic districts.*",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Transportation and Independent Authorities",
+    "current_status": "ATR",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5553",
     "last_session_bill": null,
@@ -355551,10 +355649,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (38-1)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Transportation and Independent Authorities Committee"
       }
     ],
-    "last_action": "Passed by the Senate (38-1)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Transportation and Independent Authorities Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Singleton, Troy",
@@ -368478,13 +368580,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "dfb9bada95e7f4c655bcf6b43a538cd8",
+    "content_hash": "b36afb91f7c6afd783ef57af8d8ef48b",
     "bill_id": "S4601",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4601",
     "synopsis": "Requires pharmacist or pharmacist's designee to notify consumer of substituted drug or biological product.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Health",
+    "current_status": "AHE",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": null,
     "last_session_bill": null,
@@ -368504,10 +368606,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (39-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Health Committee"
       }
     ],
-    "last_action": "Passed by the Senate (39-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Health Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Vitale, Joseph F.",
@@ -370133,13 +370239,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "f560fa94f62c7a1f5107f1d0d147311b",
+    "content_hash": "47c5d89ca0bc89b6d1dc804939f721aa",
     "bill_id": "S4631",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4631",
     "synopsis": "Amends FY2027 appropriations act to reassign a portion of appropriation for Eid Committee of New Jersey to Cultural Society of Bergen County to support Mom's Food Pantry.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Passed both Houses",
+    "current_status": "PBH",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5442",
     "last_session_bill": null,
@@ -370155,10 +370261,22 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (26-11)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Substituted for A5442"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Passed Assembly (Passed Both Houses) (55-18-2)"
       }
     ],
-    "last_action": "Passed by the Senate (26-11)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Passed Assembly (Passed Both Houses) (55-18-2)",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Johnson, Gordon M.",
@@ -370212,6 +370330,34 @@
         "Sequence_Number": 362,
         "HouseForVotes": "S",
         "SessionDate": "2026-10-22T00:00:00.000Z"
+      },
+      {
+        "House": "Asm.",
+        "Agenda_Date": "10/29/2026",
+        "Action": "SUB FOR A-5442",
+        "Votes_Yes": 0,
+        "Votes_No": 0,
+        "Not_Voting": 80,
+        "Abstains": 0,
+        "Vote_Type": "Voice Vote Passed",
+        "VoteTypeCode": "V",
+        "Sequence_Number": 367,
+        "HouseForVotes": "A",
+        "SessionDate": "2026-10-29T00:00:00.000Z"
+      },
+      {
+        "House": "Asm.",
+        "Agenda_Date": "10/29/2026",
+        "Action": "3RDG FINAL PASSAGE",
+        "Votes_Yes": 55,
+        "Votes_No": 18,
+        "Not_Voting": 5,
+        "Abstains": 2,
+        "Vote_Type": "Roll Call",
+        "VoteTypeCode": "R",
+        "Sequence_Number": 368,
+        "HouseForVotes": "A",
+        "SessionDate": "2026-10-29T00:00:00.000Z"
       }
     ],
     "committee_roll_calls": [
@@ -370728,13 +370874,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "66a6b50e6632a93100f92e5697613969",
+    "content_hash": "70eff85538065091e9b114845b5dae06",
     "bill_id": "S4635",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4635",
     "synopsis": "Aligns State restrictions on sale of hemp products and intoxicating hemp beverages with federal law.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "2nd Reading in the Assembly",
+    "current_status": "2RA",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A5604",
     "last_session_bill": null,
@@ -370750,10 +370896,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (37-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
       }
     ],
-    "last_action": "Passed by the Senate (37-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly without Reference, 2nd Reading",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Scutari, Nicholas P.",
@@ -370776,6 +370926,13 @@
         "Number_Of_Pages": 1,
         "HTML_Link": "/Bills/2026/S5000/4635_S1.HTM",
         "PDFLink": "/Bills/2026/S5000/4635_S1.PDF"
+      },
+      {
+        "Description": "Fiscal Estimate",
+        "DocumentComment": "10/26/26; as introduced",
+        "Number_Of_Pages": 2,
+        "HTML_Link": "/Bills/2026/S5000/4635_E1.HTM",
+        "PDFLink": "/Bills/2026/S5000/4635_E1.PDF"
       }
     ],
     "committee_votes": [
@@ -373455,13 +373612,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "e13318b390347dff0716d637e2a403b6",
+    "content_hash": "b03102459ffc40f817e1bff91fcd8da1",
     "bill_id": "S4677",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4677",
     "synopsis": "Requires electric public utilities to notify customers of Residential Universal Bill Credit.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Telecommunications and Utilities",
+    "current_status": "ATU",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5621  ",
     "last_session_bill": null,
@@ -373477,10 +373634,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (39-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Telecommunications and Utilities Committee"
       }
     ],
-    "last_action": "Passed by the Senate (39-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Telecommunications and Utilities Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Burzichelli, John J.",
@@ -375873,13 +376034,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "df9199e5fb93ad246ee62a9ed7a43c2c",
+    "content_hash": "2e9c7fe3008c61633dd2e9320f6b0229",
     "bill_id": "S4729",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4729",
     "synopsis": "Modifies geographic restrictions for solar energy projects participating in community solar program.",
-    "committee": "Passed Senate",
-    "current_status": "PS",
+    "committee": "Telecommunications and Utilities",
+    "current_status": "ATU",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5636  ",
     "last_session_bill": null,
@@ -375895,10 +376056,14 @@
       {
         "ActionDate": "10/22/2026",
         "HistoryAction": "Passed by the Senate (39-0)"
+      },
+      {
+        "ActionDate": "10/29/2026",
+        "HistoryAction": "Received in the Assembly, Referred to Assembly Telecommunications and Utilities Committee"
       }
     ],
-    "last_action": "Passed by the Senate (39-0)",
-    "last_action_date": "10/22/2026",
+    "last_action": "Received in the Assembly, Referred to Assembly Telecommunications and Utilities Committee",
+    "last_action_date": "10/29/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Scutari, Nicholas P.",
