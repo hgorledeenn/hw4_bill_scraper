@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-13",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S4349",
+      "changes": {
+        "content_hash": {
+          "from": "4f550c37c85440c443fc3fcd3484f5d8",
+          "to": "6258121c9c2033263b79bbab36e309ca"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/22/2026",
+              "HistoryAction": "Passed by the Senate (39-0)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Substituted for A5218 (1R)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (77-0-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "5/28/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/22/2026",
+              "HistoryAction": "Passed by the Senate (39-0)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Substituted for A5218 (1R)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (77-0-0)"
+            },
+            {
+              "ActionDate": "11/12/2026",
+              "HistoryAction": "Approved P.L.2026, c.102."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (77-0-0)",
+          "to": "Approved P.L.2026, c.102."
+        },
+        "last_action_date": {
+          "from": "10/29/2026",
+          "to": "11/12/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    },
+    {
+      "bill_id": "S4635",
+      "changes": {
+        "content_hash": {
+          "from": "b006c618c17472ee632f5d029415bf0a",
+          "to": "d8eb3012ef76a72275643482e5dcb3eb"
+        },
+        "committee": {
+          "from": "Passed both Houses",
+          "to": "Bills and Joint Resolutions Signed by the Governor"
+        },
+        "current_status": {
+          "from": "PBH",
+          "to": "APP"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            },
+            {
+              "ActionDate": "10/15/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/22/2026",
+              "HistoryAction": "Passed by the Senate (37-0)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Substituted for A5604"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (75-2-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            },
+            {
+              "ActionDate": "10/15/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/22/2026",
+              "HistoryAction": "Passed by the Senate (37-0)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Received in the Assembly without Reference, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Substituted for A5604"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Passed Assembly (Passed Both Houses) (75-2-0)"
+            },
+            {
+              "ActionDate": "11/12/2026",
+              "HistoryAction": "Approved P.L.2026, c.103."
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed Assembly (Passed Both Houses) (75-2-0)",
+          "to": "Approved P.L.2026, c.103."
+        },
+        "last_action_date": {
+          "from": "10/29/2026",
+          "to": "11/12/2026"
+        },
+        "governor_action": {
+          "from": null,
+          "to": "APP"
+        }
+      }
+    }
+  ]
+}

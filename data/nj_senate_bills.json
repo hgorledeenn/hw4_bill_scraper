@@ -335679,13 +335679,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "4f550c37c85440c443fc3fcd3484f5d8",
+    "content_hash": "6258121c9c2033263b79bbab36e309ca",
     "bill_id": "S4349",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4349",
     "synopsis": "Concerns enrollment of twins or higher order multiples in public preschool programs.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
     "identical_bill": "A5218 (1R)",
     "last_session_bill": null,
@@ -335713,10 +335713,14 @@
       {
         "ActionDate": "10/29/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (77-0-0)"
+      },
+      {
+        "ActionDate": "11/12/2026",
+        "HistoryAction": "Approved P.L.2026, c.102."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (77-0-0)",
-    "last_action_date": "10/29/2026",
+    "last_action": "Approved P.L.2026, c.102.",
+    "last_action_date": "11/12/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Holzapfel, James W.",
@@ -336764,7 +336768,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 5,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "bf587809f06a85c6443a8aa2c0f95059",
@@ -375928,13 +375932,13 @@
     "governor_action": null
   },
   {
-    "content_hash": "b006c618c17472ee632f5d029415bf0a",
+    "content_hash": "d8eb3012ef76a72275643482e5dcb3eb",
     "bill_id": "S4635",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4635",
     "synopsis": "Aligns State restrictions on sale of hemp products and intoxicating hemp beverages with federal law.",
-    "committee": "Passed both Houses",
-    "current_status": "PBH",
+    "committee": "Bills and Joint Resolutions Signed by the Governor",
+    "current_status": "APP",
     "fiscal_note": "This bill has been certified by OLS for a fiscal note.",
     "identical_bill": "A5604",
     "last_session_bill": null,
@@ -375962,10 +375966,14 @@
       {
         "ActionDate": "10/29/2026",
         "HistoryAction": "Passed Assembly (Passed Both Houses) (75-2-0)"
+      },
+      {
+        "ActionDate": "11/12/2026",
+        "HistoryAction": "Approved P.L.2026, c.103."
       }
     ],
-    "last_action": "Passed Assembly (Passed Both Houses) (75-2-0)",
-    "last_action_date": "10/29/2026",
+    "last_action": "Approved P.L.2026, c.103.",
+    "last_action_date": "11/12/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Scutari, Nicholas P.",
@@ -377012,7 +377020,7 @@
     ],
     "bill_type": "S",
     "num_prime_sponsors": 2,
-    "governor_action": null
+    "governor_action": "APP"
   },
   {
     "content_hash": "5a7a46af12900635faf7eda4f576f32a",
