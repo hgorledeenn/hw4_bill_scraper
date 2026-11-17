@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-17",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S4304",
+      "changes": {
+        "content_hash": {
+          "from": "b5c83cd9a5e136f30cab006cd2b73dbe",
+          "to": "8e95bcc34ea66b37514459dbce682510"
+        },
+        "synopsis": {
+          "from": "Prohibits agreements intended to conceal certain information concerning development of data centers under MLUL.",
+          "to": "Establishes certain notice requirements and prohibits agreements intended to conceal certain information concerning development of large-scale data centers under MLUL.*"
+        },
+        "committee": {
+          "from": "Science, Innovation and Technology",
+          "to": "2nd Reading in the Assembly"
+        },
+        "current_status": {
+          "from": "AST",
+          "to": "2RA"
+        },
+        "identical_bill": {
+          "from": "A2774",
+          "to": "A2774/5224 (ACS)"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "5/18/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            },
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/22/2026",
+              "HistoryAction": "Passed by the Senate (38-0)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Science, Innovation and Technology Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "5/18/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            },
+            {
+              "ActionDate": "10/1/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/22/2026",
+              "HistoryAction": "Passed by the Senate (38-0)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Science, Innovation and Technology Committee"
+            },
+            {
+              "ActionDate": "11/16/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Received in the Assembly, Referred to Assembly Science, Innovation and Technology Committee",
+          "to": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+        },
+        "last_action_date": {
+          "from": "10/29/2026",
+          "to": "11/16/2026"
+        },
+        "documents": {
+          "from": [
+            {
+              "Description": "Statement",
+              "DocumentComment": "SCU 10/1/26",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S4500/4304_S1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4304_S1.PDF"
+            },
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S4500/4304_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4304_I1.PDF"
+            }
+          ],
+          "to": [
+            {
+              "Description": "Statement",
+              "DocumentComment": "SCU 10/1/26",
+              "Number_Of_Pages": 1,
+              "HTML_Link": "/Bills/2026/S4500/4304_S1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4304_S1.PDF"
+            },
+            {
+              "Description": "Introduced",
+              "DocumentComment": "",
+              "Number_Of_Pages": 3,
+              "HTML_Link": "/Bills/2026/S4500/4304_I1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4304_I1.PDF"
+            },
+            {
+              "Description": "Reprint",
+              "DocumentComment": "AST 11/16/26 1R",
+              "Number_Of_Pages": 5,
+              "HTML_Link": "/Bills/2026/S4500/4304_R1.HTM",
+              "PDFLink": "/Bills/2026/S4500/4304_R1.PDF"
+            },
+            {
+              "Description": "Statement",
+              "DocumentComment": "AST 11/16/26",
+              "Number_Of_Pages": 2,
+              "HTML_Link": "/Bills/2026/S4500/4304_S2.HTM",
+              "PDFLink": "/Bills/2026/S4500/4304_S2.PDF"
+            }
+          ]
+        },
+        "committee_votes": {
+          "from": [
+            {
+              "House": "SCU",
+              "Agenda_Date": "10/1/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 4,
+              "Votes_No": 1,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-01T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ],
+          "to": [
+            {
+              "House": "SCU",
+              "Agenda_Date": "10/1/2026",
+              "Action": "r/favorably",
+              "Votes_Yes": 4,
+              "Votes_No": 1,
+              "Not_Voting": 0,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-10-01T10:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            },
+            {
+              "House": "AST",
+              "Agenda_Date": "11/16/2026",
+              "Action": "r/Aca",
+              "Votes_Yes": 6,
+              "Votes_No": 0,
+              "Not_Voting": 1,
+              "Abstains": 0,
+              "Vote_Type": "Roll Call",
+              "Agenda_Date_for_Votes": "2026-11-16T13:00:00.000Z",
+              "Agenda_Type": "M",
+              "Agenda_Sequence": 0
+            }
+          ]
+        },
+        "committee_roll_calls": {
+          "from": [
+            {
+              "FullName": "Singleton, Troy",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-01T10:00:00.000Z",
+              "CommitteeHouse": "SCU",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Stack, Brian P.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-01T10:00:00.000Z",
+              "CommitteeHouse": "SCU",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Amato, Carmen F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-01T10:00:00.000Z",
+              "CommitteeHouse": "SCU",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Schepisi, Holly T.",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-10-01T10:00:00.000Z",
+              "CommitteeHouse": "SCU",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Wimberly, Benjie E.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-01T10:00:00.000Z",
+              "CommitteeHouse": "SCU",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ],
+          "to": [
+            {
+              "FullName": "Singleton, Troy",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-10-01T10:00:00.000Z",
+              "CommitteeHouse": "SCU",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Tully, Chris",
+              "Vote": "Yes",
+              "Position": "(C)",
+              "AgendaDate": "2026-11-16T13:00:00.000Z",
+              "CommitteeHouse": "AST",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Stack, Brian P.",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-10-01T10:00:00.000Z",
+              "CommitteeHouse": "SCU",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Singh, Balvir",
+              "Vote": "Yes",
+              "Position": "(V)",
+              "AgendaDate": "2026-11-16T13:00:00.000Z",
+              "CommitteeHouse": "AST",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Amato, Carmen F.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-01T10:00:00.000Z",
+              "CommitteeHouse": "SCU",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "DePhillips, Christopher P.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-11-16T13:00:00.000Z",
+              "CommitteeHouse": "AST",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Macurdy, Andrew",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-11-16T13:00:00.000Z",
+              "CommitteeHouse": "AST",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "McGuckin, Gregory P.",
+              "Vote": "Not Voting",
+              "Position": "",
+              "AgendaDate": "2026-11-16T13:00:00.000Z",
+              "CommitteeHouse": "AST",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Morales, Carmen Theresa",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-11-16T13:00:00.000Z",
+              "CommitteeHouse": "AST",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Rodriguez, Ed",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-11-16T13:00:00.000Z",
+              "CommitteeHouse": "AST",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Schepisi, Holly T.",
+              "Vote": "No",
+              "Position": "",
+              "AgendaDate": "2026-10-01T10:00:00.000Z",
+              "CommitteeHouse": "SCU",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            },
+            {
+              "FullName": "Wimberly, Benjie E.",
+              "Vote": "Yes",
+              "Position": "",
+              "AgendaDate": "2026-10-01T10:00:00.000Z",
+              "CommitteeHouse": "SCU",
+              "AgendaType": "M",
+              "AgendaSequence": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

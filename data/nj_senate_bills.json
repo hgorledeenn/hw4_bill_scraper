@@ -330992,15 +330992,15 @@
     "governor_action": null
   },
   {
-    "content_hash": "b5c83cd9a5e136f30cab006cd2b73dbe",
+    "content_hash": "8e95bcc34ea66b37514459dbce682510",
     "bill_id": "S4304",
     "session": 2026,
     "url": "https://www.njleg.state.nj.us/bill-search/2026/S4304",
-    "synopsis": "Prohibits agreements intended to conceal certain information concerning development of data centers under MLUL.",
-    "committee": "Science, Innovation and Technology",
-    "current_status": "AST",
+    "synopsis": "Establishes certain notice requirements and prohibits agreements intended to conceal certain information concerning development of large-scale data centers under MLUL.*",
+    "committee": "2nd Reading in the Assembly",
+    "current_status": "2RA",
     "fiscal_note": "This bill has not been certified by OLS for a fiscal note.",
-    "identical_bill": "A2774",
+    "identical_bill": "A2774/5224 (ACS)",
     "last_session_bill": "A6181",
     "history": [
       {
@@ -331018,10 +331018,14 @@
       {
         "ActionDate": "10/29/2026",
         "HistoryAction": "Received in the Assembly, Referred to Assembly Science, Innovation and Technology Committee"
+      },
+      {
+        "ActionDate": "11/16/2026",
+        "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
       }
     ],
-    "last_action": "Received in the Assembly, Referred to Assembly Science, Innovation and Technology Committee",
-    "last_action_date": "10/29/2026",
+    "last_action": "Reported out of Assembly Comm. with Amendments, 2nd Reading",
+    "last_action_date": "11/16/2026",
     "prime_sponsors": [
       {
         "Full_Name": "Greenstein, Linda R.",
@@ -331080,6 +331084,20 @@
         "Number_Of_Pages": 3,
         "HTML_Link": "/Bills/2026/S4500/4304_I1.HTM",
         "PDFLink": "/Bills/2026/S4500/4304_I1.PDF"
+      },
+      {
+        "Description": "Reprint",
+        "DocumentComment": "AST 11/16/26 1R",
+        "Number_Of_Pages": 5,
+        "HTML_Link": "/Bills/2026/S4500/4304_R1.HTM",
+        "PDFLink": "/Bills/2026/S4500/4304_R1.PDF"
+      },
+      {
+        "Description": "Statement",
+        "DocumentComment": "AST 11/16/26",
+        "Number_Of_Pages": 2,
+        "HTML_Link": "/Bills/2026/S4500/4304_S2.HTM",
+        "PDFLink": "/Bills/2026/S4500/4304_S2.PDF"
       }
     ],
     "committee_votes": [
@@ -331093,6 +331111,19 @@
         "Abstains": 0,
         "Vote_Type": "Roll Call",
         "Agenda_Date_for_Votes": "2026-10-01T10:00:00.000Z",
+        "Agenda_Type": "M",
+        "Agenda_Sequence": 0
+      },
+      {
+        "House": "AST",
+        "Agenda_Date": "11/16/2026",
+        "Action": "r/Aca",
+        "Votes_Yes": 6,
+        "Votes_No": 0,
+        "Not_Voting": 1,
+        "Abstains": 0,
+        "Vote_Type": "Roll Call",
+        "Agenda_Date_for_Votes": "2026-11-16T13:00:00.000Z",
         "Agenda_Type": "M",
         "Agenda_Sequence": 0
       }
@@ -331124,6 +331155,15 @@
         "AgendaSequence": 0
       },
       {
+        "FullName": "Tully, Chris",
+        "Vote": "Yes",
+        "Position": "(C)",
+        "AgendaDate": "2026-11-16T13:00:00.000Z",
+        "CommitteeHouse": "AST",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
         "FullName": "Stack, Brian P.",
         "Vote": "Yes",
         "Position": "(V)",
@@ -331133,11 +331173,65 @@
         "AgendaSequence": 0
       },
       {
+        "FullName": "Singh, Balvir",
+        "Vote": "Yes",
+        "Position": "(V)",
+        "AgendaDate": "2026-11-16T13:00:00.000Z",
+        "CommitteeHouse": "AST",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
         "FullName": "Amato, Carmen F.",
         "Vote": "Yes",
         "Position": "",
         "AgendaDate": "2026-10-01T10:00:00.000Z",
         "CommitteeHouse": "SCU",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "DePhillips, Christopher P.",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-11-16T13:00:00.000Z",
+        "CommitteeHouse": "AST",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Macurdy, Andrew",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-11-16T13:00:00.000Z",
+        "CommitteeHouse": "AST",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "McGuckin, Gregory P.",
+        "Vote": "Not Voting",
+        "Position": "",
+        "AgendaDate": "2026-11-16T13:00:00.000Z",
+        "CommitteeHouse": "AST",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Morales, Carmen Theresa",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-11-16T13:00:00.000Z",
+        "CommitteeHouse": "AST",
+        "AgendaType": "M",
+        "AgendaSequence": 0
+      },
+      {
+        "FullName": "Rodriguez, Ed",
+        "Vote": "Yes",
+        "Position": "",
+        "AgendaDate": "2026-11-16T13:00:00.000Z",
+        "CommitteeHouse": "AST",
         "AgendaType": "M",
         "AgendaSequence": 0
       },
