@@ -1,0 +1,4448 @@
+{
+  "date": "2026-11-23",
+  "additions": [
+    {
+      "bill_id": "S4966",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4966",
+      "action": "Introduced in the Senate, Referred to Senate Transportation Committee"
+    },
+    {
+      "bill_id": "S4967",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4967",
+      "action": null
+    },
+    {
+      "bill_id": "S4968",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4968",
+      "action": null
+    },
+    {
+      "bill_id": "S4969",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4969",
+      "action": null
+    },
+    {
+      "bill_id": "S4970",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4970",
+      "action": null
+    },
+    {
+      "bill_id": "S4971",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4971",
+      "action": null
+    },
+    {
+      "bill_id": "S4972",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4972",
+      "action": null
+    },
+    {
+      "bill_id": "S4973",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4973",
+      "action": null
+    },
+    {
+      "bill_id": "S4974",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4974",
+      "action": null
+    },
+    {
+      "bill_id": "S4975",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4975",
+      "action": null
+    },
+    {
+      "bill_id": "S4976",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4976",
+      "action": null
+    },
+    {
+      "bill_id": "S4977",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4977",
+      "action": null
+    },
+    {
+      "bill_id": "S4978",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4978",
+      "action": null
+    },
+    {
+      "bill_id": "S4979",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4979",
+      "action": null
+    },
+    {
+      "bill_id": "S4980",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4980",
+      "action": null
+    },
+    {
+      "bill_id": "S4981",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4981",
+      "action": null
+    },
+    {
+      "bill_id": "S4982",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4982",
+      "action": null
+    },
+    {
+      "bill_id": "S4983",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4983",
+      "action": null
+    },
+    {
+      "bill_id": "S4984",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4984",
+      "action": null
+    },
+    {
+      "bill_id": "S4985",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4985",
+      "action": null
+    },
+    {
+      "bill_id": "S4986",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4986",
+      "action": null
+    },
+    {
+      "bill_id": "S4987",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4987",
+      "action": null
+    },
+    {
+      "bill_id": "S4988",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4988",
+      "action": null
+    },
+    {
+      "bill_id": "S4989",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4989",
+      "action": null
+    },
+    {
+      "bill_id": "S4990",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4990",
+      "action": null
+    },
+    {
+      "bill_id": "S4991",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4991",
+      "action": null
+    },
+    {
+      "bill_id": "S4992",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4992",
+      "action": null
+    },
+    {
+      "bill_id": "S4993",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4993",
+      "action": null
+    },
+    {
+      "bill_id": "S4994",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4994",
+      "action": null
+    },
+    {
+      "bill_id": "S4995",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4995",
+      "action": null
+    },
+    {
+      "bill_id": "S4996",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4996",
+      "action": null
+    },
+    {
+      "bill_id": "S4997",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4997",
+      "action": null
+    },
+    {
+      "bill_id": "S4998",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4998",
+      "action": null
+    },
+    {
+      "bill_id": "S4999",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S4999",
+      "action": null
+    },
+    {
+      "bill_id": "S5000",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S5000",
+      "action": null
+    },
+    {
+      "bill_id": "S5001",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S5001",
+      "action": null
+    },
+    {
+      "bill_id": "S5002",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S5002",
+      "action": null
+    },
+    {
+      "bill_id": "S5004",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S5004",
+      "action": null
+    },
+    {
+      "bill_id": "S5005",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S5005",
+      "action": null
+    },
+    {
+      "bill_id": "S5006",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S5006",
+      "action": null
+    },
+    {
+      "bill_id": "S5007",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S5007",
+      "action": null
+    },
+    {
+      "bill_id": "S5008",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S5008",
+      "action": null
+    },
+    {
+      "bill_id": "S5009",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S5009",
+      "action": null
+    },
+    {
+      "bill_id": "S5010",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S5010",
+      "action": null
+    },
+    {
+      "bill_id": "S5011",
+      "url": "https://www.njleg.state.nj.us/bill-search/2026/S5011",
+      "action": null
+    }
+  ],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "S687",
+      "changes": {
+        "content_hash": {
+          "from": "04d470aafac75d2228ec12c242fb2161",
+          "to": "f76eebab7bdd79754e261154b1cf4b9b"
+        },
+        "committee": {
+          "from": "Passed Assembly",
+          "to": "2nd Reading in the Senate to Concur with Assembly Amendments"
+        },
+        "current_status": {
+          "from": "PA",
+          "to": "2RSC"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Passed by the Senate (36-2)"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee"
+            },
+            {
+              "ActionDate": "9/17/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Substituted for A4560 (1R)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Motion To Aa (Kanitra) "
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Motion To Table (Greenwald) (43-24-0)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Passed by the Assembly (55-22-2)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            },
+            {
+              "ActionDate": "2/12/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Passed by the Senate (36-2)"
+            },
+            {
+              "ActionDate": "2/24/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Environment and Solid Waste Committee"
+            },
+            {
+              "ActionDate": "9/17/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Substituted for A4560 (1R)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Motion To Aa (Kanitra) "
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Motion To Table (Greenwald) (43-24-0)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Passed by the Assembly (55-22-2)"
+            },
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed by the Assembly (55-22-2)",
+          "to": "Received in the Senate, 2nd Reading on Concurrence"
+        },
+        "last_action_date": {
+          "from": "10/29/2026",
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S1642",
+      "changes": {
+        "content_hash": {
+          "from": "7edcf84222ade9531aca2ac08182a53a",
+          "to": "ea9c63f6f8b7dede1d9139a4a25415ca"
+        },
+        "committee": {
+          "from": "Higher Education",
+          "to": "Withdrawn from the Files"
+        },
+        "current_status": {
+          "from": "SHI",
+          "to": "W"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "1/13/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+            },
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Withdrawn from Consideration"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Introduced in the Senate, Referred to Senate Higher Education Committee",
+          "to": "Withdrawn from Consideration"
+        },
+        "last_action_date": {
+          "from": "1/13/2026",
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S3245",
+      "changes": {
+        "content_hash": {
+          "from": "6d98740b381db775cadd8dc6887597e8",
+          "to": "8aed1bde92ca917244acbe61ed4d8df2"
+        },
+        "committee": {
+          "from": "Passed Assembly",
+          "to": "2nd Reading in the Senate to Concur with Assembly Amendments"
+        },
+        "current_status": {
+          "from": "PA",
+          "to": "2RSC"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "2/2/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (34-6)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Higher Education Committee"
+            },
+            {
+              "ActionDate": "9/17/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "9/24/2026",
+              "HistoryAction": "Assembly Floor Amendment Passed (Quijano) (Voice)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Substituted for A2470 (2R)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Passed by the Assembly (55-23-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "2/2/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            },
+            {
+              "ActionDate": "6/1/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/18/2026",
+              "HistoryAction": "Senate Amendment (Voice) (Ruiz)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (34-6)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Higher Education Committee"
+            },
+            {
+              "ActionDate": "9/17/2026",
+              "HistoryAction": "Reported out of Assembly Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "9/24/2026",
+              "HistoryAction": "Assembly Floor Amendment Passed (Quijano) (Voice)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Substituted for A2470 (2R)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Passed by the Assembly (55-23-0)"
+            },
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed by the Assembly (55-23-0)",
+          "to": "Received in the Senate, 2nd Reading on Concurrence"
+        },
+        "last_action_date": {
+          "from": "10/29/2026",
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S3946",
+      "changes": {
+        "content_hash": {
+          "from": "f765da3ff4109c5f42dd5531f55035d8",
+          "to": "4b90af2cac43e9bda5d5125ae0270652"
+        },
+        "committee": {
+          "from": "Passed Assembly",
+          "to": "2nd Reading in the Senate to Concur with Assembly Amendments"
+        },
+        "current_status": {
+          "from": "PA",
+          "to": "2RSC"
+        },
+        "history": {
+          "from": [
+            {
+              "ActionDate": "3/16/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (39-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Public Safety and Preparedness Committee"
+            },
+            {
+              "ActionDate": "10/15/2026",
+              "HistoryAction": "Transferred to Assembly Judiciary Committee"
+            },
+            {
+              "ActionDate": "10/15/2026",
+              "HistoryAction": "Reported out of Asm. Comm. with Amendments, and Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "10/22/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Substituted for A4796 (2R)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Passed by the Assembly (79-0-0)"
+            }
+          ],
+          "to": [
+            {
+              "ActionDate": "3/16/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Reported from Senate Committee, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/11/2026",
+              "HistoryAction": "Referred to Senate Budget and Appropriations Committee"
+            },
+            {
+              "ActionDate": "6/28/2026",
+              "HistoryAction": "Reported from Senate Committee with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Passed by the Senate (39-0)"
+            },
+            {
+              "ActionDate": "6/30/2026",
+              "HistoryAction": "Received in the Assembly, Referred to Assembly Public Safety and Preparedness Committee"
+            },
+            {
+              "ActionDate": "10/15/2026",
+              "HistoryAction": "Transferred to Assembly Judiciary Committee"
+            },
+            {
+              "ActionDate": "10/15/2026",
+              "HistoryAction": "Reported out of Asm. Comm. with Amendments, and Referred to Assembly Appropriations Committee"
+            },
+            {
+              "ActionDate": "10/22/2026",
+              "HistoryAction": "Reported out of Assembly Comm. with Amendments, 2nd Reading"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Substituted for A4796 (2R)"
+            },
+            {
+              "ActionDate": "10/29/2026",
+              "HistoryAction": "Passed by the Assembly (79-0-0)"
+            },
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Received in the Senate, 2nd Reading on Concurrence"
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Passed by the Assembly (79-0-0)",
+          "to": "Received in the Senate, 2nd Reading on Concurrence"
+        },
+        "last_action_date": {
+          "from": "10/29/2026",
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4866",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4867",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5d4c1fd4d6bac96a9b1281f53486f349"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4868",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4869",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "ecee85f106e8ced0eafa9d3e4ca65811"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4870",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4871",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4872",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4873",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "40fb58dbc775d2c081187a3a24c6b73a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4874",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "136fc5f65c28f2dbe3a7f6f0dfbe36e7"
+        },
+        "committee": {
+          "from": "",
+          "to": "Judiciary"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SJU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4875",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9218cdeb421ad3b6067bcc2eb3360a9c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4876",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "Space, Parker",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/473/senator-space"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 1
+        }
+      }
+    },
+    {
+      "bill_id": "S4877",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4878",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9218cdeb421ad3b6067bcc2eb3360a9c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4879",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4880",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9218cdeb421ad3b6067bcc2eb3360a9c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4881",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "ecee85f106e8ced0eafa9d3e4ca65811"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4882",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "a7c350e55c94d96612433dda5ca36b12"
+        },
+        "committee": {
+          "from": "",
+          "to": "Labor"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLA"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Labor Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4883",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "ecee85f106e8ced0eafa9d3e4ca65811"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4884",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "ecee85f106e8ced0eafa9d3e4ca65811"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4885",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4886",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "40fb58dbc775d2c081187a3a24c6b73a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4887",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4888",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4889",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "ecee85f106e8ced0eafa9d3e4ca65811"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4890",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "83ab822392f7515ebeb4a48e7a57970d"
+        },
+        "committee": {
+          "from": "",
+          "to": "Transportation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "STR"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Transportation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4891",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4892",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5d4c1fd4d6bac96a9b1281f53486f349"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4893",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "40fb58dbc775d2c081187a3a24c6b73a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "identical_bill": {
+          "from": null,
+          "to": "A5749  "
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4894",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "2755b46b2cfb90b9ff3ac8d1ab98e8f7"
+        },
+        "committee": {
+          "from": "",
+          "to": "Higher Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHI"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4895",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4896",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "40fb58dbc775d2c081187a3a24c6b73a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4897",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4898",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5d4c1fd4d6bac96a9b1281f53486f349"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "identical_bill": {
+          "from": null,
+          "to": "A5798  "
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4899",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4900",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4901",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "identical_bill": {
+          "from": null,
+          "to": "A5816  "
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "Tiver, Latham",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/464/senator-tiver"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 2
+        }
+      }
+    },
+    {
+      "bill_id": "S4902",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4903",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4904",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4905",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5d4c1fd4d6bac96a9b1281f53486f349"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4906",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4907",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4908",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "40fb58dbc775d2c081187a3a24c6b73a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "Tiver, Latham",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/464/senator-tiver"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 1
+        }
+      }
+    },
+    {
+      "bill_id": "S4909",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "Amato, Carmen F., Jr.",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/465/senator-amato"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "bill_id": "S4910",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "40fb58dbc775d2c081187a3a24c6b73a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4911",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4912",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4913",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4914",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "ecee85f106e8ced0eafa9d3e4ca65811"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4915",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4916",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4917",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "ecee85f106e8ced0eafa9d3e4ca65811"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4918",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4919",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4920",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4921",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4922",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "9218cdeb421ad3b6067bcc2eb3360a9c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Environment and Energy"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEN"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Environment and Energy Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4923",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "a7c350e55c94d96612433dda5ca36b12"
+        },
+        "committee": {
+          "from": "",
+          "to": "Labor"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLA"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Labor Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Labor Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4924",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5d4c1fd4d6bac96a9b1281f53486f349"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "Burzichelli, John J.",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/458/senator-burzichelli"
+            },
+            {
+              "Full_Name": "Turner, Shirley K.",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/47/senator-turner"
+            },
+            {
+              "Full_Name": "Polistina, Vincent J.",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/432/senator-polistina"
+            },
+            {
+              "Full_Name": "Beach, James",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/310/senator-beach"
+            },
+            {
+              "Full_Name": "Greenstein, Linda R.",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/329/senator-greenstein"
+            },
+            {
+              "Full_Name": "Diegnan, Patrick J., Jr.",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/387/senator-diegnan"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 2
+        }
+      }
+    },
+    {
+      "bill_id": "S4925",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "2755b46b2cfb90b9ff3ac8d1ab98e8f7"
+        },
+        "committee": {
+          "from": "",
+          "to": "Higher Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHI"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4926",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "synopsis": {
+          "from": "Requires Office of Special Education in DOE to determine compensatory education services in certain circumstances.",
+          "to": "Requires Office of Special Education in DOE to determine compensatory education services."
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4927",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4928",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4929",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4930",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "2755b46b2cfb90b9ff3ac8d1ab98e8f7"
+        },
+        "committee": {
+          "from": "",
+          "to": "Higher Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHI"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Higher Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4931",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4932",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4933",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4934",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4935",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "40fb58dbc775d2c081187a3a24c6b73a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4936",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "ecee85f106e8ced0eafa9d3e4ca65811"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4937",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "f351bc28f84321c883e96108b4a11dbc"
+        },
+        "committee": {
+          "from": "",
+          "to": "Military and Veterans' Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SMV"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4938",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "83ab822392f7515ebeb4a48e7a57970d"
+        },
+        "committee": {
+          "from": "",
+          "to": "Transportation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "STR"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Transportation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4939",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "83ab822392f7515ebeb4a48e7a57970d"
+        },
+        "committee": {
+          "from": "",
+          "to": "Transportation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "STR"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Transportation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Transportation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "Tiver, Latham",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/464/senator-tiver"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 2
+        }
+      }
+    },
+    {
+      "bill_id": "S4940",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4941",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4942",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4943",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5d4c1fd4d6bac96a9b1281f53486f349"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4944",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "ecee85f106e8ced0eafa9d3e4ca65811"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4945",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "Tiver, Latham",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/464/senator-tiver"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 2
+        }
+      }
+    },
+    {
+      "bill_id": "S4946",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4947",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4948",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "ecee85f106e8ced0eafa9d3e4ca65811"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        },
+        "cosponsors": {
+          "from": [],
+          "to": [
+            {
+              "Full_Name": "Tiver, Latham",
+              "SponsorDescription": " as Co-Sponsor",
+              "BioLink": "/legislative-roster/464/senator-tiver"
+            }
+          ]
+        },
+        "num_prime_sponsors": {
+          "from": null,
+          "to": 1
+        }
+      }
+    },
+    {
+      "bill_id": "S4949",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5d4c1fd4d6bac96a9b1281f53486f349"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4950",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "46f80d163befa7bcc0cb9830ef9b5c36"
+        },
+        "committee": {
+          "from": "",
+          "to": "Budget and Appropriations"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SBA"
+        },
+        "identical_bill": {
+          "from": "A1482",
+          "to": null
+        },
+        "last_session_bill": {
+          "from": "S4317",
+          "to": null
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Budget and Appropriations Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Budget and Appropriations Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4951",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4952",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "136fc5f65c28f2dbe3a7f6f0dfbe36e7"
+        },
+        "committee": {
+          "from": "",
+          "to": "Judiciary"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SJU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Judiciary Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4953",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4954",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4955",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4956",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "4f0e07598cbdba1790d7ca6a07f92678"
+        },
+        "committee": {
+          "from": "",
+          "to": "State Government, Wagering, Tourism & Historic Preservation"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SSG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "identical_bill": {
+          "from": "A5728",
+          "to": "A5728  "
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4957",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4958",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4959",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "e13123d43b64bcdf7a7a861314cbd035"
+        },
+        "committee": {
+          "from": "",
+          "to": "Law and Public Safety"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SLP"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4960",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cd4f6127d4d366a201cdb2ffa435dc1c"
+        },
+        "committee": {
+          "from": "",
+          "to": "Economic Growth"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SEG"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Economic Growth Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4961",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "40fb58dbc775d2c081187a3a24c6b73a"
+        },
+        "committee": {
+          "from": "",
+          "to": "Health, Human Services and Senior Citizens"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SHH"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4962",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "ecee85f106e8ced0eafa9d3e4ca65811"
+        },
+        "committee": {
+          "from": "",
+          "to": "Community and Urban Affairs"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCU"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "identical_bill": {
+          "from": "A5733",
+          "to": "A5733  "
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4964",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "cfa1af59207be3cdb83f15e3275512ef"
+        },
+        "committee": {
+          "from": "",
+          "to": "Education"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SED"
+        },
+        "fiscal_note": {
+          "from": null,
+          "to": "This bill has not been certified by OLS for a fiscal note."
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Education Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    },
+    {
+      "bill_id": "S4965",
+      "changes": {
+        "content_hash": {
+          "from": "d41d8cd98f00b204e9800998ecf8427e",
+          "to": "5d4c1fd4d6bac96a9b1281f53486f349"
+        },
+        "committee": {
+          "from": "",
+          "to": "Commerce"
+        },
+        "current_status": {
+          "from": null,
+          "to": "SCM"
+        },
+        "history": {
+          "from": [],
+          "to": [
+            {
+              "ActionDate": "11/23/2026",
+              "HistoryAction": "Introduced in the Senate, Referred to Senate Commerce Committee"
+            }
+          ]
+        },
+        "last_action": {
+          "from": null,
+          "to": "Introduced in the Senate, Referred to Senate Commerce Committee"
+        },
+        "last_action_date": {
+          "from": null,
+          "to": "11/23/2026"
+        }
+      }
+    }
+  ]
+}
