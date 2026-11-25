@@ -393344,5 +393344,122 @@
     "bill_type": "S",
     "num_prime_sponsors": null,
     "governor_action": null
+  },
+  {
+    "content_hash": "cfa1af59207be3cdb83f15e3275512ef",
+    "bill_id": "S5012",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S5012",
+    "synopsis": "Requires school districts to allow students enrolled in nonpublic schools and home education programs to participate in school-sponsored extracurricular activities.",
+    "committee": "Education",
+    "current_status": "SED",
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [
+      {
+        "ActionDate": "11/23/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Education Committee",
+    "last_action_date": "11/23/2026",
+    "prime_sponsors": [
+      {
+        "Full_Name": "Burzichelli, John J.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/458/senator-burzichelli"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [
+      {
+        "Description": "Introduced",
+        "DocumentComment": "",
+        "Number_Of_Pages": 4,
+        "HTML_Link": "/Bills/2026/S5500/5012_I1.HTM",
+        "PDFLink": "/Bills/2026/S5500/5012_I1.PDF"
+      }
+    ],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "cfa1af59207be3cdb83f15e3275512ef",
+    "bill_id": "S5013",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S5013",
+    "synopsis": "Establishes procedures for withdrawal of certain children from public school.",
+    "committee": "Education",
+    "current_status": "SED",
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [
+      {
+        "ActionDate": "11/23/2026",
+        "HistoryAction": "Introduced in the Senate, Referred to Senate Education Committee"
+      }
+    ],
+    "last_action": "Introduced in the Senate, Referred to Senate Education Committee",
+    "last_action_date": "11/23/2026",
+    "prime_sponsors": [
+      {
+        "Full_Name": "Burzichelli, John J.",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/458/senator-burzichelli"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [
+      {
+        "Description": "Introduced",
+        "DocumentComment": "",
+        "Number_Of_Pages": 5,
+        "HTML_Link": "/Bills/2026/S5500/5013_I1.HTM",
+        "PDFLink": "/Bills/2026/S5500/5013_I1.PDF"
+      }
+    ],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
+  },
+  {
+    "content_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "bill_id": "S5014",
+    "session": 2026,
+    "url": "https://www.njleg.state.nj.us/bill-search/2026/S5014",
+    "synopsis": "Revises law regarding trusts in creation and enforcement of child support orders and judgments.",
+    "committee": "",
+    "current_status": null,
+    "fiscal_note": null,
+    "identical_bill": null,
+    "last_session_bill": null,
+    "history": [],
+    "prime_sponsors": [
+      {
+        "Full_Name": "Ruiz, M. Teresa",
+        "SponsorDescription": " as Primary Sponsor",
+        "BioLink": "/legislative-roster/287/senator-ruiz"
+      }
+    ],
+    "cosponsors": [],
+    "documents": [],
+    "committee_votes": [],
+    "floor_votes": [],
+    "committee_roll_calls": [],
+    "floor_roll_calls": [],
+    "bill_type": "S",
+    "num_prime_sponsors": null,
+    "governor_action": null
   }
 ]
